@@ -77,5 +77,7 @@ for i in range(num_clusters):
                 s = 10, color=colors[i],
                 label=f' {cluster[i]}')
 
+results.to_csv('Clusters.csv', index=False)
+
 plt.legend()
 plt.show()

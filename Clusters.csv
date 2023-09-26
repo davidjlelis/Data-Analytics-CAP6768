@@ -1,0 +1,4707 @@
+document,cluster
+Communications Manager,1
+Data Collector,0
+Data Entry,0
+Mail Clerk,0
+Compliance Officer,0
+Chief Executive Officer (CEO),0
+Therapist,0
+Chief Strategy Officer,0
+Admin,0
+General Clerk,0
+Mail Handler,0
+Data Clerk,0
+Data Entry Clerk,0
+Data Entry Operator,0
+Data Entry Specialist,0
+Medical Transcriptionist,0
+Street Sweeper,0
+Supply Clerk,0
+Warehouse Worker,0
+Web Search Evaluator,0
+Development Manager,1
+Delivery Driver,0
+Chief Security Officer,0
+File Clerk,0
+Mail Processing,0
+Director Of Operations,4
+Direct Support Professional,0
+Chief Communications Officer,0
+Administrative Clerk,0
+Executive Assistant,0
+General Office Clerk,0
+Transcriber,0
+Sql Programmer,0
+Vba Developer,0
+Medical Scribe,0
+Special Agent,0
+Purchasing Clerk,0
+Bricklayer,0
+Telemarketer,0
+Bakery Manager,1
+Banquet Manager,1
+Clerk Typist,0
+Assistant,0
+Business Relationship Manager,3
+Distribution Manager,1
+Administrative Assistant,0
+Administrative Secretary,0
+Clerical Assistant,0
+Executive Administrative Assistant,0
+Order Filler,0
+Records Clerk,0
+Scribe,0
+Typist,0
+Dishwasher,0
+Digital Project Manager,1
+Technical Project Manager,1
+Grocer,0
+Finance Officer,0
+Word Processor,0
+Market Research Interviewer,0
+Pl Sql Developer,0
+Quantitative Developer,0
+Statistical Programmer,0
+Tableau Developer,0
+Data Modeler,0
+Database Analyst,0
+Database Developer,0
+Etl Developer,0
+Hadoop Developer,0
+Sql Analyst,0
+Procurement Assistant,0
+Receiving Associate,0
+Warehouse Associate,0
+Press Operator,0
+Pressman,0
+Printing Press Operator,0
+Automation Test Engineer,2
+Automation Tester,0
+QA Automation Engineer,2
+Tax Preparer,0
+Associate,0
+Chief Learning Officer,0
+Web Project Manager,1
+Medical Coding Specialist,0
+Front Desk,0
+Credit Manager,1
+Advertising Manager,1
+Caller,0
+Phone Sales,0
+Telesales Representative,0
+Accounting Clerk,0
+Administrative Associate,0
+Administrative Coordinator,0
+Corporate Receptionist,0
+Desk Receptionist,0
+Executive Secretary,0
+Front Desk Clerk,0
+Front Desk Receptionist,0
+Front Office Receptionist,0
+Mail Sorter,0
+Order Clerk,0
+Medical Coder,0
+Purchasing Assistant,0
+Supply Technician,0
+Android Developer,0
+Ios Developer,0
+Chief Of Staff,0
+Intelligence Analyst,0
+Photo Retoucher,0
+Full Charge Bookkeeper,0
+Grant Accountant,0
+Epic Analyst,0
+It Project Manager,1
+Software Project Manager,1
+Technology Project Manager,1
+Cobol Developer,0
+Quantitative Analyst,0
+Quantitative Research Analyst,0
+Report Developer,0
+Sas Developer,0
+Statistical Analyst,0
+Backend Developer,0
+Data Architect,0
+Database Designer,0
+Database Engineer,2
+Gis Developer,0
+Informatica Developer,0
+Ui Developer,0
+Ux Developer,0
+Stenographer,0
+Allocation Analyst,0
+Business Operations Manager,3
+Ecommerce,0
+Solar Sales,0
+Developer,0
+Javascript Developer,0
+Perl Developer,0
+Pega Developer,0
+Sap Developer,0
+Clinical Informatics Specialist,0
+Cloud Engineer,2
+Data Scientist,0
+Database Programmer,0
+Information Assurance,0
+Oracle Developer,0
+Sql Database Developer,0
+Sql Developer,0
+Sql Server Developer,0
+Teradata Developer,0
+Net Developer,0
+Sports Analyst,0
+Chief Of Police,0
+Emergency Dispatcher,0
+Investigative Analyst,0
+Police Dispatcher,0
+Polygraph Examiner,0
+Public Safety Dispatcher,0
+Regulatory Analyst,0
+Security Consultant,0
+Embedded Systems Engineer,2
+Implementation Analyst,0
+Medical Billing Specialist,0
+Medical Collector,0
+Postal Clerk,0
+Distribution Clerk,0
+Purchasing Buyer,0
+Qa Software Tester,0
+Application Developer,0
+Entry Level Developer,0
+Front End Developer,0
+Front End Engineer,2
+Front End Web Developer,0
+Full Stack Developer,0
+J2Ee Developer,0
+Robotics Engineer,2
+Appointment Scheduler,0
+Desk Clerk,0
+Document Processor,0
+Mailroom Clerk,0
+Office Cleaner,0
+Receiving Clerk,0
+Radiologic Technologist,0
+Radiology Technologist,0
+Ultrasound Technician,0
+Ultrasound Technologist,0
+Electrical Technician,0
+Flooring Installer,0
+Technical Marketing Engineer,2
+Web Content Editor,0
+Engineering Project Manager,1
+Infrastructure Project Manager,1
+Sap Project Manager,1
+Software Product Manager,1
+Technical Product Manager,1
+Cashier,0
+Mystery Shopper,0
+Infrastructure Architect,0
+Actuary,0
+Arabic Linguist,0
+Game Programmer,0
+Mortgage Loan Processor,0
+Computational Linguist,0
+Bank Teller,0
+Credit Analyst,0
+Credit Officer,0
+Credit Risk Analyst,0
+Credit Specialist,0
+Financial Analyst,0
+Financial Specialist,0
+Fund Accountant,0
+Payment Processor,0
+Payroll Processor,0
+Tax Examiner,0
+Clinical Trial Assistant,0
+Cad Drafter,0
+Business Manager,3
+Inpatient Coder,0
+Assistant Branch Manager,1
+Front Desk Attendant,0
+Front Office Clerk,0
+Administrative Officer,0
+Administrative Specialist,0
+Branch Office Administrator,0
+Help Desk,0
+Order Processor,0
+Title Clerk,0
+Warranty Clerk,0
+Crm Analyst,0
+Sales Operations Analyst,0
+Freelance,0
+Technology,0
+Analog Design Engineer,2
+Automation Engineer,2
+Medical Claims Processor,0
+Logistics Clerk,0
+Shipping,0
+Executive Producer,0
+.Net Developer,0
+Abap Developer,0
+Asp.Net Developer,0
+Associate Software Engineer,2
+C Developer,0
+C# Developer,0
+Dot Net Developer,0
+Firmware Engineer,2
+Bookkeeper,0
+Bookkeeping,0
+Commercial Analyst,0
+Commission Analyst,0
+Corporate Financial Analyst,0
+Cost Accountant,0
+Derivatives Analyst,0
+Energy Analyst,0
+Environmental Analyst,0
+Equity Analyst,0
+Equity Research Analyst,0
+Equity Research Associate,0
+Finance Analyst,0
+Finance Specialist,0
+Financial Auditor,0
+Forensic Accountant,0
+Certified Professional Coder,0
+Junior Java Developer,0
+Junior Software Engineer,2
+Operations Research Analyst,0
+Rpg Programmer,0
+Clinical Data Analyst,0
+Database Administrator,0
+Healthcare Data Analyst,0
+Mainframe Programmer,0
+Oracle Database Developer,0
+Sql Data Analyst,0
+Armored Truck Driver,0
+Correctional Officer,0
+Deputy Director,4
+Forensic Chemist,0
+Safety Consultant,0
+Security Dispatcher,0
+Cad Operator,0
+Cad Technician,0
+Game Artist,0
+Radiology Assistant,0
+Sonographer,0
+Ultrasonographer,0
+Vascular Sonographer,0
+Vascular Technician,0
+Vascular Technologist,0
+X Ray Technician,0
+Cleaner,0
+Hospital Housekeeping,0
+Assembly Operator,0
+Electronic Assembler,0
+Line Operator,0
+Survey Researcher,0
+Web Content Manager,1
+Electrical Drafter,0
+Structural Designer,0
+Medical Biller,0
+Sales Associate,0
+Business Banking Relationship Manager,3
+Janitor,0
+Autocad Drafter,0
+Assistant Director,4
+Executive Personal Assistant,0
+Pricing Specialist,0
+Ticket Agent,0
+Contract Specialist,0
+Freelancer,0
+Requirements Analyst,0
+Seo Consultant,0
+Seo Manager,1
+Seo Specialist,0
+Creative Project Manager,1
+Erp Project Manager,1
+Healthcare Project Manager,1
+Product Manager,1
+Project Consultant,0
+Project Manager,1
+Customer Assistant,0
+Drafter,0
+Junior Architect,0
+Space Planner,0
+Truss Designer,0
+Urban Planner,0
+Insurance Sales,0
+Insurance Sales Representative,0
+Life Insurance Agent,0
+Java Software Engineer,2
+Java Web Developer,0
+Junior Developer,0
+Performance Analyst,0
+Risk Management Analyst,0
+Salesforce Business Analyst,3
+Data Analyst,0
+Database Architect,0
+Health Data Analyst,0
+Sql Dba,0
+Sql Server Dba,0
+Shipping Clerk,0
+Timekeeper,0
+Administration,0
+Administrative Director,4
+Assistant Administrator,0
+Compliance Analyst,0
+Front Desk Coordinator,0
+Office Clerk,0
+Operations Clerk,0
+Procurement Clerk,0
+Receiver,0
+Registration Clerk,0
+Registration Specialist,0
+Unit Secretary,0
+Healthcare Business Analyst,3
+Surgery Scheduler,0
+Post Office,0
+Demand Planner,0
+Logistics Coordinator,0
+Procurement Agent,0
+Purchasing Coordinator,0
+Shipping Coordinator,0
+Supply Chain Coordinator,0
+Supply Coordinator,0
+Assignment Editor,0
+Front Desk Agent,0
+Radio Operator,0
+Manual Qa Tester,0
+Manual Tester,0
+Coldfusion Developer,0
+Computer Scientist,0
+Drupal Developer,0
+Java,0
+Java Developer,0
+Java Engineer,2
+Java Programmer,0
+Java Software Developer,0
+Home Inspector,0
+Biomedical Engineer,2
+Biotechnology,0
+Environmental Engineer,2
+Industrial Organizational Psychologist,0
+Accounts Payable,0
+Auditor,0
+Budget Analyst,0
+Collection Agent,0
+Collection Representative,0
+Collection Specialist,0
+Collections Specialist,0
+Compliance Auditor,0
+Cost Controller,0
+Credit Controller,0
+Debt Collector,0
+Exchange Engineer,2
+Financial Engineer,2
+Financial Examiner,0
+Loan Closer,0
+Mortgage Closer,0
+Mortgage Loan Closer,0
+Processor,0
+Trader,0
+Treasury Accountant,0
+Clinical Analyst,0
+Meter Reader,0
+Gas Station Attendant,0
+Lactation Consultant,0
+Ticket Taker,0
+Usher,0
+911 Dispatcher,0
+911 Operator,0
+Fingerprint Technician,0
+Forensic Examiner,0
+Forensic Scientist,0
+Intelligence,0
+Military Analyst,0
+Safety Coordinator,0
+Security Technician,0
+Skip Tracer,0
+Information Analyst,0
+Information Specialist,0
+Network Systems Administrator,0
+Senior Systems Engineer,2
+Software Engineer,2
+Systems Administrator,0
+Systems Analyst,0
+Unix Administrator,0
+Unix System Administrator,0
+Vmware Administrator,0
+Windows Administrator,0
+Windows System Administrator,0
+Registered Dental Assistant,0
+Registered Medical Assistant,0
+Surgical Assistant,0
+Carpet Cleaner,0
+Custodian,0
+General Laborer,0
+Housekeeping Attendant,0
+Assembly Line Worker,0
+Assembly Worker,0
+Forklift,0
+Master Control Operator,0
+Curriculum Designer,0
+Curriculum Specialist,0
+Epic Trainer,0
+Virtual Teacher,0
+3D Modeler,0
+Compositor,0
+Fx Artist,0
+Game Developer,0
+Accessioner,0
+Autopsy Assistant,0
+Certified Surgical Technologist,0
+Contact Tracing,0
+Director Of Nursing,4
+Design Engineer,2
+Business Management Consultant,3
+General Labor,0
+General Worker,0
+Tax Analyst,0
+Appointment Setter,0
+Survey Technician,0
+Accountant,0
+Claims Auditor,0
+Loan Underwriter,0
+Tax Accountant,0
+Coding Specialist,0
+Biztalk Developer,0
+Report Analyst,0
+Revenue Cycle Analyst,0
+Cloud Architect,0
+Data Technician,0
+Database Specialist,0
+Financial Data Analyst,0
+Sql Database Administrator,0
+Process Server,0
+Game Designer,0
+Embryologist,0
+Medical Office Assistant,0
+Customs Broker,0
+Import Coordinator,0
+Import Specialist,0
+Merchandising Coordinator,0
+Purchaser,0
+Retail Buyer,0
+Assistant Producer,0
+Communications Consultant,0
+Content Producer,0
+Clinical Project Manager,1
+Environmental Project Manager,1
+Clerk,0
+Commodity Buyer,0
+Infrastructure Analyst,0
+Landscape Architect,0
+Associate Creative Director,4
+Claims Manager,1
+Administration Manager,1
+Department Assistant,0
+Document Specialist,0
+Executive Administrator,0
+Front Desk Assistant,0
+Implementation Specialist,0
+Avionics Technician,0
+Custodial Worker,0
+Dock Worker,0
+Facilities Maintenance,0
+Fiber Optic Splicer,0
+Fiber Optic Technician,0
+Analyst,0
+Customer Care Representative,0
+Proposal Manager,1
+Sales Development Representative,0
+Mathematician,0
+Aerospace Engineer,2
+Cad Designer,0
+Child Psychologist,0
+Criminalist,0
+Forensic Engineer,2
+Forensic Specialist,0
+Security Manager,1
+Edi Developer,0
+Embedded Software Engineer,2
+Financial Systems Analyst,0
+Fpga Design Engineer,2
+It Security Engineer,2
+Linux System Engineer,2
+Network Engineer,2
+Network Security Engineer,2
+Network Support Engineer,2
+Network Systems Engineer,2
+Senior Systems Analyst,0
+System Engineer,2
+Systems Engineer,2
+Business Controller,3
+Delivery Manager,1
+Tax Associate,0
+Medical Administrative Specialist,0
+Tax Professional,0
+Insurance Producer,0
+Specialist,0
+Contracts Manager,1
+Billing Manager,1
+Sourcing Analyst,0
+Auto Sales,0
+Inside Sales Associate,0
+Inside Sales Representative,0
+Insurance Sales Agent,0
+National Account Executive,0
+Pharmaceutical Sales Representative,0
+Sales Account Executive,0
+Sales Agent,0
+Nurse Aide,0
+Nurse Technician,0
+Nursing Attendant,0
+Traveling Nurse,0
+Bookseller,0
+Freelance Translator,0
+Applications Engineer,2
+Digital Marketing,0
+Digital Marketing Analyst,0
+Digital Marketing Consultant,0
+Digital Marketing Coordinator,0
+Digital Marketing Manager,1
+Digital Marketing Specialist,0
+Digital Marketing Strategist,0
+Email Marketing Specialist,0
+Marketing Automation Specialist,0
+Marketing Consultant,0
+Marketing Operations Manager,1
+Social Media Analyst,0
+Social Media Consultant,0
+Social Media Marketing,0
+Vice President Of Marketing,0
+Vp Marketing,0
+Business Project Manager,3
+Commercial Project Manager,1
+Implementation Project Manager,1
+Marketing Project Manager,1
+Pmo Manager,1
+Product Marketing Manager,1
+Project Controller,0
+Senior Product Manager,1
+Dealer,0
+Personal Shopper,0
+Store Shopper,0
+Electrical Engineer,2
+Fabrication Manager,1
+Quantity Surveyor,0
+Surveyor,0
+Commercial Underwriter,0
+Insurance Analyst,0
+Licensed Insurance Agent,0
+Property Claims Adjuster,0
+Healthcare Consultant,0
+Medical Administrative Assistant,0
+Medical Consultant,0
+Medical Office Specialist,0
+Patient Account Representative,0
+Pharmacy Technician Trainee,0
+Eligibility Specialist,0
+Eligibility Worker,0
+Mail Carrier,0
+Professional Organizer,0
+Buyer Planner,0
+Export Specialist,0
+Gas Controller,0
+Logistics Assistant,0
+Materials Coordinator,0
+Procurement Specialist,0
+Purchasing Analyst,0
+Service Manager,1
+Sourcing Specialist,0
+Assistant Media Planner,0
+Broadcast Producer,0
+Communications Associate,0
+Digital Media Specialist,0
+Video Coordinator,0
+Etl Tester,0
+Qa Tester,0
+Quality Assurance Tester,0
+Software Qa Engineer,2
+Software Quality Assurance,0
+Software Quality Assurance Engineer,2
+Software Test Engineer,2
+Software Tester,0
+Test Analyst,0
+Test Engineer,2
+Tester,0
+Java Consultant,0
+CPR Instructor,0
+Community Health Educator,0
+Curriculum Developer,0
+Day Care Teacher,0
+Early Childhood Teacher,0
+Educational Consultant,0
+Flight Instructor,0
+Training Consultant,0
+3D Animator,0
+3D Artist,0
+Architectural Draftsman,0
+Digital Artist,0
+Draftsman,0
+Graphic Artist,0
+CNA,0
+Clinical Pharmacist,0
+Compounder,0
+Dental Ceramist,0
+Dental Lab Technician,0
+Dental Technician,0
+Dialysis Technician,0
+Hemodialysis Technician,0
+Hospital Cleaner,0
+Hospital Pharmacist,0
+Medical Assembler,0
+Programmer,0
+Senior Programmer,0
+Software Programmer,0
+Web Programmer,0
+Cognos Developer,0
+Pricing Analyst,0
+Sap Business Analyst,3
+Business Data Analyst,3
+Senior Design Engineer,2
+Ux Designer,0
+Hris Analyst,0
+Talent Acquisition,0
+Talent Acquisition Manager,1
+Talent Acquisition Specialist,0
+Paralegal,0
+Title Examiner,0
+Fundraiser,0
+Underwriting Assistant,0
+Analytical Scientist,0
+Biochemist,0
+Chemical Engineer,2
+Chemical Technician,0
+Telemetry Technician,0
+Actuarial Analyst,0
+Bursar,0
+Cash Manager,1
+Compensation Manager,1
+Cost Accounting Manager,1
+Cost Estimator,0
+Junior Loan Processor,0
+Junior Underwriter,0
+Loan Processor,0
+Mortgage Processor,0
+Mortgage Underwriter,0
+Tax Advisor,0
+Tax Consultant,0
+Tax Specialist,0
+Trading Analyst,0
+Travel Manager,1
+Armed Security Officer,0
+Bouncer,0
+Clinical Trial Associate,0
+Fire Safety Director,4
+Fraud Investigator,0
+Intelligence Specialist,0
+Loss Prevention Officer,0
+Police Records Clerk,0
+Safety Director,4
+Safety Inspector,0
+Security Specialist,0
+Surveillance Investigator,0
+Business Analyst,3
+Construction Estimator,0
+Crm Administrator,0
+Etl Informatica Developer,0
+Help Desk Technician,0
+It Engineer,2
+Linux Engineer,2
+Linux System Administrator,0
+Network Administrator,0
+Network Security Administrator,0
+Sap Basis Administrator,0
+Security Administrator,0
+Security Architect,0
+Solution Architect,0
+System Administrator,0
+Systems Programmer,0
+Technical Support Analyst,0
+Technical Support Specialist,0
+Technology Analyst,0
+Vmware Engineer,2
+Wireless Network Engineer,2
+Mobile Engineer,2
+R&D Engineer,2
+Research And Development Engineer,2
+Wireless Engineer,2
+Administrative Manager,1
+Credentialing Coordinator,0
+Credentialing Specialist,0
+Document Controller,0
+Enrollment Specialist,0
+Facilities Coordinator,0
+Fraud Specialist,0
+Office Receptionist,0
+Program Evaluator,0
+Receptionist,0
+Referral Coordinator,0
+Referral Specialist,0
+Security Receptionist,0
+Unit Clerk,0
+Ward Clerk,0
+Cdl Driver,0
+Class A Driver,0
+Class B CDL,0
+Class B Driver,0
+Commercial Driver,0
+Otr Truck Driver,0
+Tractor Trailer Driver,0
+Blackjack Dealer,0
+Casino Dealer,0
+Optician,0
+Senior Pharmacy Technician,0
+Surgical First Assistant,0
+Surgical Physician Assistant,0
+Cabin Cleaner,0
+Cable Installation Technician,0
+Cable Technician,0
+Instrumentation Technician,0
+Interior Painter,0
+Manufacturing Operator,0
+Asset Protection Manager,1
+Icu Nurse,0
+Travel Nurse,0
+Car Detailer,0
+Package Handler,0
+Packager,0
+Document Control Manager,1
+Escrow Officer,0
+Clinical Trial Manager,1
+Computer Programmer,0
+Information Architect,0
+Clinic Manager,1
+Tax Auditor,0
+Business Associate,3
+Travel Rn,0
+Business Process Manager,3
+Statistician,0
+Digital Account Executive,0
+Inside Sales Executive,0
+Medical Sales Representative,0
+Outside Sales Rep,0
+Outside Sales Representative,0
+Pre Sales Consultant,0
+Regional Sales Representative,0
+Sales Account Manager,1
+Sales Analyst,0
+Sales Executive,0
+Sales Marketing,0
+Sales Support Specialist,0
+Agency Nurse,0
+Er Nurse,0
+Nurse Rn,0
+Nursing Assistant,0
+Spanish Interpreter,0
+Cad Engineer,2
+Hardware Engineer,2
+Restaurant Host,0
+Child Life Specialist,0
+Early Intervention Specialist,0
+Interior Decorator,0
+Criminal Analyst,0
+Evidence Technician,0
+Loss Prevention Investigator,0
+Private Investigator,0
+Safety Supervisor,0
+Security Coordinator,0
+Automotive Service Technician,0
+Broadband Technician,0
+Computer Systems Analyst,0
+Control Engineer,2
+Embedded Engineer,2
+Help Desk Administrator,0
+Help Desk Analyst,0
+Integration Developer,0
+It Recruiter,0
+Junior Web Developer,0
+Linux Administrator,0
+Middleware Engineer,2
+Network Security Analyst,0
+Operations Engineer,2
+Sas Analyst,0
+Sas Programmer,0
+Senior Systems Administrator,0
+Sharepoint Developer,0
+Technical Support,0
+Technical Support Agent,0
+Technical Support Representative,0
+Technology Specialist,0
+Virtualization Engineer,2
+Wireless Consultant,0
+Financial Planning Analyst,0
+Kyc Analyst,0
+Product Analyst,0
+Research Technician,0
+Sap Analyst,0
+Clinical Data Manager,1
+Enterprise Data Architect,0
+Junior Data Analyst,0
+Oracle Database Administrator,0
+Senior Data Analyst,0
+Windows Server Administrator,0
+Digital Designer,0
+Visual Designer,0
+Recruiter,0
+Recruitment Specialist,0
+Senior Recruiter,0
+Paralegal Assistant,0
+Patent Paralegal,0
+Personal Injury Paralegal,0
+Trademark Paralegal,0
+Healthcare Analyst,0
+Medical Administrator,0
+Medical Office Administrator,0
+Medical Records Clerk,0
+Medical Records Technician,0
+Pharmacy Clerk,0
+Buyer,0
+Export Coordinator,0
+Inventory Controller,0
+Inventory Coordinator,0
+Logistics Associate,0
+Shipping Supervisor,0
+Assistant Account Executive,0
+Associate Editor,0
+Broadcast Technician,0
+Content Editor,0
+Transcriptionist,0
+Qa Engineer,2
+Warehouse Packer,0
+Warehouse Picker,0
+Warehouse Selector,0
+Management Consulting,0
+Principal Consultant,0
+Senior Consultant,0
+Strategy Consultant,0
+Assistant Brand Manager,1
+Assistant Marketing Manager,1
+Associate Brand Manager,1
+Associate Marketing Manager,1
+Brand Manager,1
+Brand Marketing Manager,1
+Director Of Digital Marketing,4
+Director Of Marketing,4
+Marketing,0
+Marketing Account Executive,0
+Marketing Account Manager,1
+Marketing Director,4
+Marketing Executive,0
+Marketing Manager,1
+Senior Marketing Manager,1
+Social Media Marketing Manager,1
+Agile Project Manager,1
+Director Of Product Management,4
+Pmo Analyst,0
+Product Development Manager,1
+Project Analyst,0
+Project Control Analyst,0
+Project Management Consultant,0
+Director Of Ecommerce,4
+Ecommerce Manager,1
+Merchandise Buyer,0
+Autocad Draftsman,0
+Concrete Pump Operator,0
+Land Surveyor,0
+Claims Analyst,0
+Claims Investigator,0
+Insurance Appraiser,0
+Insurance Investigator,0
+Insurance Underwriter,0
+Band Director,4
+Education Specialist,0
+Environmental Educator,0
+Training Manager,1
+Book Reviewer,0
+Clinical Research,0
+Dietetic Technician,0
+Drug Safety Associate,0
+Formulation Scientist,0
+Healthcare Management,0
+Escrow Assistant,0
+Biomedical Technician,0
+Chemical Lab Technician,0
+Laboratory Technician,0
+Radiographer,0
+Research Analyst,0
+Account Analyst,0
+Accounting Analyst,0
+Accounts Payable Analyst,0
+Billing Clerk,0
+Billing Coordinator,0
+Billing Representative,0
+Billing Specialist,0
+Billing Supervisor,0
+Finance Administrator,0
+Finance Assistant,0
+Finance Associate,0
+Finance Consultant,0
+Financial Assistant,0
+Financial Associate,0
+Financial Coordinator,0
+Financial Representative,0
+Financial Services Representative,0
+Loan Specialist,0
+Staff Auditor,0
+Tax Manager,1
+Valuation Analyst,0
+Clinical Coordinator,0
+Clinical Support Specialist,0
+Certified Welding Inspector,0
+Computer Technician,0
+General Maintenance Technician,0
+General Service Technician,0
+Industrial Maintenance Mechanic,0
+Industrial Maintenance Technician,0
+Service Advisor,0
+Cnc Machine Operator,0
+Inventory Control Supervisor,0
+Manufacturing Associate,0
+Operator,0
+Order Selector,0
+Scanner,0
+Pcb Design Engineer,2
+Pcb Designer,0
+Service Engineer,2
+Document Control Specialist,0
+Facility Coordinator,0
+Implementation Coordinator,0
+Medical Office Receptionist,0
+Medical Receptionist,0
+Regulatory Affairs Specialist,0
+Validation Specialist,0
+Bus Driver,0
+Bus Operator,0
+Class A CDL,0
+Company Driver,0
+Flatbed Driver,0
+Local Cdl,0
+Local Delivery Driver,0
+Local Truck Driver,0
+Otr Driver,0
+Owner Operator,0
+Parts Delivery Driver,0
+Pizza Delivery Driver,0
+School Bus Driver,0
+Tanker Driver,0
+Truck Driver,0
+Trucker,0
+Casino Manager,1
+Dietary Manager,1
+Food Production Manager,1
+Gate Agent,0
+Hostess,0
+Hotel Front Desk,0
+Hotel Receptionist,0
+Pediatric Oncology Nurse,0
+Chief Investment Officer,0
+Nurse Practitioner,0
+Audio Technician,0
+Devops Engineer,2
+Tax Director,4
+Clinical Nurse Manager,1
+Disability Case Manager,1
+Insurance Sales Manager,1
+Medical Practice Manager,1
+Medical Records Specialist,0
+Content Developer,0
+Corporate Trainer,0
+Customer Account Manager,1
+Division Order Analyst,0
+Inventory Analyst,0
+Lot Attendant,0
+Operation Specialist,0
+Peoplesoft Consultant,0
+Process Analyst,0
+Process Improvement Engineer,2
+Procurement Analyst,0
+Social Media Strategist,0
+Strategic Sourcing Manager,1
+Advertising Sales Representative,0
+Business Development Representative,3
+Field Sales Representative,0
+Field Service Representative,0
+Group Sales Manager,1
+Independent Sales Representative,0
+Medical Sales,0
+Outside Sales,0
+Regional Sales Executive,0
+Retail Sales Representative,0
+Route Sales Representative,0
+Sales Administrator,0
+Sales Advisor,0
+Sales Representative,0
+Assistant Nurse Manager,1
+Certified Nurse Assistant,0
+Graduate Nurse,0
+Neonatal Nurse,0
+Nurse Assistant,0
+Pediatric Nurse,0
+Field Service Technician,0
+Regulatory Affairs Associate,0
+Aeronautical Engineer,2
+Agricultural Engineer,2
+Antenna Engineer,2
+Avionics Engineer,2
+Cfd Engineer,2
+Electrical Design Engineer,2
+Electrical Designer,0
+Electronics Engineer,2
+Fea Engineer,2
+Hvac Design Engineer,2
+Lobby Attendant,0
+Night Auditor,0
+Reservation Agent,0
+Restaurant Operations Manager,1
+Restaurant Server,0
+Room Attendant,0
+Room Service Server,0
+Travel Agent,0
+Travel Counselor,0
+Travel Specialist,0
+Decorator,0
+Youth Development Specialist,0
+Armed Guard,0
+Armed Security,0
+Bodyguard,0
+Crime Analyst,0
+Intelligence Officer,0
+Loss Prevention,0
+Personnel Security Specialist,0
+Privacy Officer,0
+Public Affairs Specialist,0
+Safety Assistant,0
+Bi Analyst,0
+Citrix Engineer,2
+Desktop Support,0
+Desktop Support Specialist,0
+Help Desk Specialist,0
+It Architect,0
+It Support,0
+It Support Analyst,0
+Junior Systems Administrator,0
+Network Architect,0
+Network Specialist,0
+Network Support Technician,0
+Performance Tester,0
+Sap Administrator,0
+Sap Security Consultant,0
+Senior Network Engineer,2
+Service Desk Analyst,0
+Sharepoint Consultant,0
+Solutions Architect,0
+Systems Architect,0
+Tech Support,0
+Technology Coordinator,0
+Telecommunications Analyst,0
+Unloader,0
+Warehouse Operator,0
+Business Consultant,3
+Process Improvement Specialist,0
+Professional Services Consultant,0
+Solutions Consultant,0
+Strategic Consultant,0
+Call Center,0
+Circulation Manager,1
+Market Analyst,0
+Market Research Analyst,0
+Market Researcher,0
+Marketing Analyst,0
+Marketing Research Analyst,0
+Media Buyer,0
+Unit Coordinator,0
+Architectural Project Manager,1
+Assistant Product Manager,1
+Associate Project Manager,1
+It Project Coordinator,0
+Junior Project Manager,1
+Product Developer,0
+Project Administrator,0
+Project Coordinator,0
+Project Director,4
+Project Management Assistant,0
+Project Officer,0
+Project Scheduler,0
+Project Supervisor,0
+Courtesy Clerk,0
+Deli Clerk,0
+Floor Supervisor,0
+Merchandise Coordinator,0
+Autocad Designer,0
+Civil Drafter,0
+Dozer Operator,0
+Electrical Project Manager,1
+Estimator,0
+Heavy Equipment Mechanic,0
+Independent Contractor,0
+Installation Coordinator,0
+Pipeline Controller,0
+Shop Foreman,0
+Claim Analyst,0
+Claim Examiner,0
+Claims,0
+Claims Adjuster,0
+Claims Supervisor,0
+Insurance Clerk,0
+Netsuite Consultant,0
+Php Developer,0
+Php Web Developer,0
+Sap Abap Developer,0
+Software Trainer,0
+Bi Developer,0
+Business Developer,3
+Business Objects Developer,3
+Cost Analyst,0
+Erp Analyst,0
+Field Investigator,0
+Fraud Analyst,0
+Junior Financial Analyst,0
+Loss Prevention Detective,0
+Patent Analyst,0
+Planning Analyst,0
+Clinical Data Associate,0
+Clinical Data Coordinator,0
+Cloud Consultant,0
+Data Center Manager,1
+Data Specialist,0
+Database Manager,1
+Gis Specialist,0
+Marketing Data Analyst,0
+Oracle Consultant,0
+Server Engineer,2
+Ui Designer,0
+User Interface Designer,0
+Web Designer,0
+Compensation Specialist,0
+Hr Analyst,0
+Payroll Administrator,0
+Placement Coordinator,0
+Public Relations,0
+Recruiting Assistant,0
+Recruiting Coordinator,0
+Recruitment Manager,1
+Sales Recruiter,0
+Staffing Consultant,0
+Staffing Coordinator,0
+Staffing Manager,1
+Staffing Specialist,0
+Technology Trainer,0
+Workforce Management Analyst,0
+Assistant District Attorney,0
+Associate Attorney,0
+Contract Attorney,0
+Defense Attorney,0
+Immigration Attorney,0
+Immigration Paralegal,0
+Legal Administrative Assistant,0
+Legal Assistant,0
+Legal Secretary,0
+Litigation Associate,0
+Litigation Attorney,0
+Litigation Legal Assistant,0
+Litigation Paralegal,0
+Real Estate Paralegal,0
+Senior Paralegal,0
+Community Outreach Coordinator,0
+Community Outreach Specialist,0
+Fundraising Manager,1
+Outreach Coordinator,0
+Volunteer,0
+Event Producer,0
+Sports Information Director,4
+Mechanical Designer,0
+Mechatronics Engineer,2
+Noc Engineer,2
+Office Engineer,2
+Operating Engineer,2
+Process Control Engineer,2
+Procurement Engineer,2
+Project Engineer,2
+Resident Engineer,2
+Rf Design Engineer,2
+Rf Engineer,2
+Site Engineer,2
+Storage Engineer,2
+Supplier Quality Engineer,2
+Support Engineer,2
+Telecom Engineer,2
+Voip Engineer,2
+Welding,0
+Business Coordinator,3
+Documentation Specialist,0
+Facilities Administrator,0
+Front Office Coordinator,0
+Incident Manager,1
+Maintenance Director,4
+Production Clerk,0
+Records Manager,1
+Scheduling Coordinator,0
+Technical Assistant,0
+Virtual Assistant,0
+Box Truck Driver,0
+Concrete Truck Driver,0
+Courier Driver,0
+Driver,0
+Dump Truck Driver,0
+Freight Agent,0
+Fuel Truck Driver,0
+Garbage Truck Driver,0
+Heavy Truck Driver,0
+Non Cdl Driver,0
+Professional Driver,0
+Route Driver,0
+Shuttle Bus Driver,0
+Shuttle Driver,0
+Tow Truck Driver,0
+Caterer,0
+Catering Manager,1
+Food Service Director,4
+Front Desk Associate,0
+Guest Services,0
+Hotel Night Auditor,0
+Lab Aide,0
+Risk Management Specialist,0
+Lease Administrator,0
+Loss Mitigation Specialist,0
+Agronomist,0
+Associate Scientist,0
+Biological Scientist,0
+Biological Technician,0
+Biostatistician,0
+Chemical Operator,0
+Computational Biologist,0
+Environmental Chemist,0
+Environmental Scientist,0
+Lab Technologist,0
+Laboratory Analyst,0
+Radiology Technician,0
+Research Associate,0
+Accounting Auditor,0
+Accounts Payable Specialist,0
+Accounts Receivable Specialist,0
+Audit Associate,0
+Billing Analyst,0
+Budget Manager,1
+Budget Officer,0
+CPA,0
+Certified Public Accountant,0
+Chartered Accountant,0
+Collection Manager,1
+Collection Supervisor,0
+Credit Counselor,0
+Financial Counselor,0
+Financial Reporting Manager,1
+Investment Analyst,0
+Loan Analyst,0
+Portfolio Analyst,0
+Treasury Analyst,0
+Underwriter,0
+Case Manager,1
+Clinical Supervisor,0
+Health Information Manager,1
+Healthcare Recruiter,0
+Intake Specialist,0
+Medical Case Manager,1
+Medical Information Specialist,0
+Medical Manager,1
+Medical Scheduler,0
+Patient Financial Counselor,0
+Patient Registrar,0
+Patient Service Representative,0
+Patient Service Specialist,0
+Patient Services Representative,0
+Screener,0
+Criminal Investigator,0
+Food Inspector,0
+Game Warden,0
+Regulatory Specialist,0
+Cargo Agent,0
+Inventory Planner,0
+Logistics Administrator,0
+Logistics Analyst,0
+Logistics Planner,0
+Purchasing Specialist,0
+Senior Buyer,0
+Supply Chain Planner,0
+Certified Personal Trainer,0
+Anchor,0
+Broadcast Journalist,0
+Communications,0
+Communications Officer,0
+Content Specialist,0
+Creative Producer,0
+Proofreader,0
+Sound Technician,0
+Technical Designer,0
+Qa Analyst,0
+Clinical Nurse Educator,0
+Computer Teacher,0
+Early Childhood Education,0
+Education Consultant,0
+Head Start Teacher,0
+Library Technician,0
+Online Instructor,0
+School Administrator,0
+Substitute Teacher,0
+Test Proctor,0
+Training Coordinator,0
+Training Supervisor,0
+Agent,0
+Aircraft Painter,0
+Art Director,4
+Assistant Art Director,4
+Character Artist,0
+Concept Artist,0
+Creative Consultant,0
+Designer,0
+Drone Pilot,0
+Illustrator,0
+Industrial Painter,0
+Technical Writer,0
+Ticketing Agent,0
+Video Game Tester,0
+Anesthesiologist Assistant,0
+Cardiac Sonographer,0
+Cardiovascular Technologist,0
+Certified Occupational Therapy Assistant,0
+Certified Pharmacy Technician,0
+Clinical Exercise Physiologist,0
+Dosimetrist,0
+Er Rn,0
+Health Inspector,0
+Hearing Aid Specialist,0
+Hearing Instrument Specialist,0
+Medical Illustrator,0
+Medical Physicist,0
+Pharmacist Technician,0
+Pharmacy Technician,0
+Phlebotomy,0
+Phlebotomy Technician,0
+Radiology Manager,1
+Specimen Processor,0
+Sterile Processing Technician,0
+Surgical Technician,0
+Surgical Technologist,0
+Aircraft Fueler,0
+Aircraft Technician,0
+Atm Technician,0
+Automation Specialist,0
+Aviation Technician,0
+Calibration Technician,0
+Electronics Technician,0
+Equipment Technician,0
+Forklift Mechanic,0
+Generalist,0
+Hvac Service Technician,0
+Hvac Technician,0
+Janitorial Manager,1
+Maintenance Manager,1
+Maintenance Superintendent,0
+Newspaper Delivery,0
+Parking Enforcement Officer,0
+Sewing,0
+Theater Manager,1
+Watchmaker,0
+Assistant Buyer,0
+Associate Buyer,0
+Automation Technician,0
+Cmm Programmer,0
+Controls Technician,0
+Inventory,0
+Manufacturing Analyst,0
+Manufacturing Technician,0
+Material Handler,0
+Order Builder,0
+Order Picker,0
+Order Puller,0
+Picker,0
+Production Operator,0
+Deli Manager,1
+Director Of Development,4
+Business Development Officer,3
+Field Representative,0
+Dialysis Nurse,0
+Oncology Nurse,0
+Service Delivery Manager,1
+Excavator Operator,0
+Claim Representative,0
+Insurance Manager,1
+Auto Body Technician,0
+Dental Office Manager,1
+Configuration Manager,1
+Clinical Nurse,0
+Events Assistant,0
+Transportation Dispatcher,0
+Bar Manager,1
+Family Nurse Practitioner,0
+Nurse Clinician,0
+Assembly Technician,0
+Night Manager,1
+Reservation Specialist,0
+Reservationist,0
+Reservations Agent,0
+Restaurant General Manager,1
+Restaurant Supervisor,0
+Server,0
+Server Assistant,0
+Travel Assistant,0
+Behavioral Technician,0
+Nursing Home Administrator,0
+Youth Program Director,4
+Air Marshal,0
+Court Security Officer,0
+Detective,0
+Forensic Investigator,0
+Gunsmith,0
+Investigator,0
+Security Supervisor,0
+Cisco Engineer,2
+Cisco Network Engineer,2
+Computer Operator,0
+Controls Engineer,2
+Digital Account Manager,1
+Edi Analyst,0
+Information Security Engineer,2
+Integration Analyst,0
+It Specialist,0
+Junior Network Engineer,2
+Network Consultant,0
+Network Support Specialist,0
+Salesforce Administrator,0
+Sap Functional Consultant,0
+Support Technician,0
+Crisis Counselor,0
+Mechanical Drafter,0
+Production Engineer,2
+Security Engineer,2
+Simulation Engineer,2
+Underground Miner,0
+Unix Engineer,2
+Verification Engineer,2
+Voice Engineer,2
+Chief Administrative Officer,0
+Emergency Management Specialist,0
+Loss Prevention Manager,1
+Proposal Coordinator,0
+Provider Relations Representative,0
+Secretary,0
+Trading Assistant,0
+Volunteer Coordinator,0
+Car Driver,0
+Carrier,0
+Construction Driver,0
+Contract Driver,0
+Courier,0
+Forklift Driver,0
+Tanker,0
+Taxi Driver,0
+Assistant Restaurant Manager,1
+Banquet Captain,0
+Brewer,0
+Chef Manager,1
+Executive Chef,0
+Food Production Worker,0
+Front Of House Manager,1
+Front Office Supervisor,0
+Greeter,0
+Hotel Front Office Manager,1
+Hotel General Manager,1
+Hotel Operations Manager,1
+Contract Negotiator,0
+Housing Specialist,0
+Proposal Specialist,0
+Analytical Chemist,0
+Cytogenetic Technologist,0
+Food Scientist,0
+Food Technologist,0
+Laboratory Assistant,0
+Patent Agent,0
+Taxonomist,0
+Accounting Consultant,0
+Accounting Technician,0
+Accounts Receivable Clerk,0
+Appraiser,0
+Broker Assistant,0
+Commercial Loan Officer,0
+Commodity Trader,0
+Corporate Accountant,0
+Entry Level Accountant,0
+Equity Trader,0
+Financial Accountant,0
+Fund Accounting Manager,1
+General Accountant,0
+General Ledger Accountant,0
+Investment Banking Analyst,0
+Private Equity Analyst,0
+Risk Analyst,0
+Treasury Manager,1
+Clinic Receptionist,0
+Dental Receptionist,0
+Front Office Assistant,0
+Yard Jockey,0
+Associate Consultant,0
+Consultant,0
+Financial Consultant,0
+Technical Consultant,0
+Technology Consultant,0
+Product Demonstrator,0
+Promotions Manager,1
+Purchasing Agent,0
+Special Events Coordinator,0
+Assistant Project Manager,1
+Associate Product Manager,1
+Product Director,4
+Product Owner,0
+Project Estimator,0
+Project Lead,0
+Project Leader,0
+Project Management Specialist,0
+Inventory Specialist,0
+Merchandising Assistant,0
+Stock Manager,1
+Architectural Drafter,0
+Drilling Supervisor,0
+General Contractor,0
+Safety Professional,0
+Safety Specialist,0
+Adjuster,0
+Claim Specialist,0
+Claims Examiner,0
+Claims Representative,0
+Insurance Broker,0
+Policy Advisor,0
+Mobile Phlebotomist,0
+Orthopedic Technician,0
+Aircraft Assembler,0
+Aircraft Maintenance Technician,0
+Aircraft Mechanic,0
+Auto Mechanic,0
+Auto Technician,0
+Automotive Mechanic,0
+Automotive Technician,0
+Aviation Maintenance Technician,0
+Aviation Mechanic,0
+Car Mechanic,0
+Copier Technician,0
+Diesel Mechanic,0
+Diesel Technician,0
+Fire Alarm Technician,0
+Generator Technician,0
+Gse Mechanic,0
+Hvac,0
+Hvac Mechanic,0
+Lead Technician,0
+Materials Planner,0
+Office Cleaning,0
+Prepress,0
+Prepress Technician,0
+Telecom Technician,0
+Upholsterer,0
+Wire Technician,0
+Assistant Designer,0
+Cnc Operator,0
+Inventory Associate,0
+Inventory Clerk,0
+Lathe Operator,0
+Manufacturing Process Engineer,2
+Night Stocker,0
+Overnight Stocker,0
+Penetration Tester,0
+Peoplesoft Developer,0
+Programmer Analyst,0
+Salesforce Developer,0
+Sharepoint Administrator,0
+Business Development Analyst,3
+Business Development Associate,3
+Business Development Specialist,3
+Financial Reporting Analyst,0
+Financial Risk Analyst,0
+Gis Analyst,0
+Program Analyst,0
+Transportation Analyst,0
+Data Manager,1
+Geospatial Analyst,0
+Gis Technician,0
+Oracle Dba,0
+Graphics Designer,0
+Senior Graphic Designer,0
+Employee Relations Specialist,0
+Human Resources Representative,0
+Onboarding Specialist,0
+Payroll Supervisor,0
+Special Events Manager,1
+Telephone Interviewer,0
+Training Specialist,0
+Corporate Paralegal,0
+Juvenile Probation Officer,0
+Legal Receptionist,0
+Legislative Assistant,0
+Patent Examiner,0
+Family Support Specialist,0
+Family Support Worker,0
+Field Organizer,0
+Organizer,0
+Business Partner,3
+Operations Analyst,0
+Strategic Planner,0
+Strategist,0
+Workforce Analyst,0
+Business Development Consultant,3
+Business Development Director,3
+Business Development Manager,3
+Client Manager,1
+Commercial Account Manager,1
+Commercial Sales Manager,1
+Hvac Sales,0
+Online Sales Manager,1
+Regional Sales Manager,1
+Relationship Manager,1
+Sales Consultant,0
+Sales Coordinator,0
+Senior Sales Executive,0
+Acute Care Nurse Practitioner,0
+Neonatal Nurse Practitioner,0
+Nursing,0
+Staff Nurse,0
+Environmental Specialist,0
+Staffing Recruiter,0
+Aircraft Engineer,2
+Asic Design Engineer,2
+Circuit Design Engineer,2
+Dsp Engineer,2
+Field Application Engineer,2
+Field Service Engineer,2
+Ic Design Engineer,2
+Integration Engineer,2
+Chemistry Tutor,0
+Childcare Teacher,0
+Computer Science Tutor,0
+Director Of Education,4
+Grant Coordinator,0
+Hvac Instructor,0
+Instructor,0
+Library Media Specialist,0
+School Librarian,0
+Vocational Counselor,0
+Clinical Research Coordinator,0
+Clinical Research Manager,1
+Health Coach,0
+Lab Assistant,0
+Medical Laboratory Scientist,0
+Medical Laboratory Technician,0
+Medical Laboratory Technologist,0
+Medical Technician,0
+Medical Technologist,0
+Health Services Manager,1
+Intake Coordinator,0
+Medical Interpreter,0
+Medical Secretary,0
+Patient Access Representative,0
+Patient Access Specialist,0
+Fire Investigator,0
+Ranger,0
+Title Processor,0
+Inventory Control Manager,1
+Logistics Specialist,0
+Supply Planner,0
+Blog Writer,0
+Blogger,0
+Content Writer,0
+Corporate Event Planner,0
+Event Coordinator,0
+Media Coordinator,0
+Multimedia Specialist,0
+Public Relations Coordinator,0
+Packaging,0
+Communications Technician,0
+Insurance Specialist,0
+Representative,0
+Business Continuity Manager,3
+Channel Sales Manager,1
+Regional Manager,1
+Butcher,0
+Director Of Finance,4
+Infusion Nurse,0
+Psychiatric Nurse Practitioner,0
+Care Manager,1
+Computer Support Specialist,0
+Cyber Security Engineer,2
+Front Desk Supervisor,0
+Administrative Services Manager,1
+Chief Risk Officer,0
+Business Administrator,3
+Information Technology Manager,1
+Knowledge Manager,1
+Management Analyst,0
+Management Consultant,0
+Managing Consultant,0
+Process Consultant,0
+Production Team Leader,0
+Shift Manager,1
+Shop Manager,1
+Strategic Planning Manager,1
+Strategy Manager,1
+Traffic Manager,1
+Transportation Manager,1
+Channel Manager,1
+Director Of Business Development,3
+Inside Sales Manager,1
+Parts Advisor,0
+Product Trainer,0
+Sales Specialist,0
+Senior Sales Manager,1
+Telecom Sales,0
+Aesthetic Nurse,0
+Certified Nurse Aide,0
+Informatics Nurse,0
+Licensed Practical Nurse,0
+Licensed Practical Nurse Lpn,0
+Lpn Nurse,0
+Mental Health Nurse,0
+Occupational Health Nurse,0
+Practical Nurse,0
+Interviewer,0
+Operations Specialist,0
+Production Coordinator,0
+Risk Manager,1
+Component Engineer,2
+Electronic Engineer,2
+Energy Engineer,2
+Equipment Engineer,2
+Failure Analysis Engineer,2
+Hvac Engineer,2
+Material Engineer,2
+Mechanical Design Engineer,2
+Mechanical Engineer,2
+Metallurgical Engineer,2
+Osp Engineer,2
+Performance Test Engineer,2
+Physical Design Engineer,2
+Planning Engineer,2
+Principal Electrical Engineer,2
+Principal Engineer,2
+Principal Mechanical Engineer,2
+Process Engineer,2
+Product Engineer,2
+Professional Engineer,2
+Propulsion Engineer,2
+Satellite Engineer,2
+Senior Civil Engineer,2
+Senior Electrical Engineer,2
+Senior Engineer,2
+Senior Mechanical Design Engineer,2
+Senior Mechanical Engineer,2
+Solar Engineer,2
+Stress Engineer,2
+Structural Design Engineer,2
+Structural Engineer,2
+Technical Engineer,2
+Tooling Engineer,2
+Validation Engineer,2
+Building Maintenance,0
+Building Manager,1
+Business Office Manager,3
+Enrolled Agent,0
+Facility Manager,1
+Facility Supervisor,0
+Health And Safety Coordinator,0
+Office Coordinator,0
+Office Secretary,0
+Operations Coordinator,0
+Production Controller,0
+Program Coordinator,0
+Registrar,0
+Scheduler,0
+Service Assistant,0
+Support Coordinator,0
+Value Stream Manager,1
+Chauffeur,0
+City Driver,0
+Forklift Operator,0
+Lift Operator,0
+Packer,0
+Personal Driver,0
+Assistant Cook,0
+Cafe Manager,1
+Catering Coordinator,0
+Catering Sales Manager,1
+Club Manager,1
+Coffee Shop Manager,1
+Cook,0
+Director Of Events,4
+Director Of Food And Beverage,4
+Executive Pastry Chef,0
+Food And Beverage Manager,1
+Food Broker,0
+Food Manager,1
+Food Services Manager,1
+Guest Relations Manager,1
+Guest Services Manager,1
+Hospitality Manager,1
+Hotel Assistant Manager,1
+Hotel Concierge,0
+Hotel Housekeeping,0
+Hotel Manager,1
+Housekeeping Manager,1
+Housekeeping Supervisor,0
+Kitchen Manager,1
+Kitchen Supervisor,0
+Laundry Attendant,0
+Locker Room Attendant,0
+Parking Manager,1
+Poker Dealer,0
+Prep Cook,0
+Resort Manager,1
+Restaurant,0
+Restaurant Assistant Manager,1
+Restaurant Manager,1
+Service Director,4
+Slot Attendant,0
+Table Games Dealer,0
+Valet,0
+Valet Attendant,0
+Certified Home Health Aide,0
+Funeral Arranger,0
+Funeral Attendant,0
+Home Health Care,0
+Preschool Director,4
+Armorer,0
+Correction Officer,0
+Director Of Security,4
+Head Of Security,0
+Security Director,4
+Administrator,0
+Business Intelligence Consultant,3
+Clinical Systems Analyst,0
+Communication Technician,0
+Crm Manager,1
+Desktop Administrator,0
+Desktop Support Engineer,2
+It Analyst,0
+It Consultant,0
+It Support Specialist,0
+Netsuite Administrator,0
+Network Analyst,0
+Network Designer,0
+Network Technician,0
+Pc Specialist,0
+Programming,0
+Sap Consultant,0
+Service Desk Technician,0
+Support Specialist,0
+Technical Business Analyst,3
+Technical Support Manager,1
+Technology Manager,1
+Telecommunications,0
+Web Manager,1
+Web Producer,0
+Wordpress Developer,0
+Clinical Therapist,0
+Family Counselor,0
+Youth Counselor,0
+Asset Manager,1
+Assistant Property Manager,1
+Broker,0
+Foreclosure Specialist,0
+Property Management Assistant,0
+Arborist,0
+Assistant Librarian,0
+Cartographer,0
+Chemist,0
+Clinical Laboratory Scientist,0
+Clinical Laboratory Technician,0
+Clinical Laboratory Technologist,0
+Dna Analyst,0
+Entomologist,0
+Environmental Technician,0
+Epidemiologist,0
+Formulation Chemist,0
+Geoscientist,0
+Histotechnician,0
+Lab Analyst,0
+Microbiology,0
+Phlebotomist,0
+Research Administrator,0
+Research Coordinator,0
+Research Director,4
+Science Writer,0
+Scientific Writer,0
+Account Administrator,0
+Accounting Assistant,0
+Accounting Associate,0
+Accounting Specialist,0
+Accounts Payable Assistant,0
+Accounts Payable Clerk,0
+Assistant Bookkeeper,0
+Audit Director,4
+Bankruptcy Specialist,0
+Billing Assistant,0
+Commercial Lender,0
+Financial Aid Advisor,0
+Financial Officer,0
+Hedge Fund Accountant,0
+Investment Accountant,0
+Investment Associate,0
+Investment Banking Associate,0
+Loan Assistant,0
+Loan Officer,0
+Mortgage Broker,0
+Mortgage Loan Officer,0
+Payroll Clerk,0
+Private Equity Associate,0
+Reconciliation Analyst,0
+Tax Assistant,0
+Teller,0
+Trust Accountant,0
+Underwriting Manager,1
+Vault Teller,0
+Admitting Clerk,0
+Clinic Assistant,0
+Medical Clerk,0
+Patient Representative,0
+Surgical Coordinator,0
+Transplant Coordinator,0
+Campaign Manager,1
+Canvasser,0
+City Clerk,0
+Code Enforcement Officer,0
+Deputy Sheriff,0
+Director Of Public Safety,4
+Domestic Violence Advocate,0
+Fire Inspector,0
+Grants Administrator,0
+Insurance Fraud Investigator,0
+Social Work Assistant,0
+Expeditor,0
+Logistician,0
+Logistics Consultant,0
+Logistics Supervisor,0
+Operations Supervisor,0
+Sourcing Manager,1
+Supply Chain,0
+Supply Chain Specialist,0
+Diet Technician,0
+Dietary Supervisor,0
+Nutrition Educator,0
+Nutrition Manager,1
+Spa Receptionist,0
+Audio Engineer,2
+Broadcast Engineer,2
+Development Coordinator,0
+Event Manager,1
+Media Strategist,0
+Production Associate,0
+Public Relations Assistant,0
+Public Relations Specialist,0
+Senior Account Executive,0
+Stage Hand,0
+Technical Director,4
+Inspector,0
+Qa Consultant,0
+Qa Inspector,0
+Qa Lead,0
+Qa Test Lead,0
+Quality Assurance Engineer,2
+Quality Assurance Inspector,0
+Quality Assurance Technician,0
+Quality Control Engineer,2
+Quality Control Technician,0
+Quality Engineer,2
+Quality Technician,0
+Senior Quality Engineer,2
+Test Architect,0
+Test Technician,0
+Bioinformatician,0
+Bioinformatics,0
+Business Intelligence Developer,3
+Cnc Programmer,0
+Fpga Engineer,2
+Oral Surgery Assistant,0
+Orthodontic Assistant,0
+Orthotist,0
+Phlebotomy Supervisor,0
+Prn,0
+Radiation Therapist,0
+Sleep Technician,0
+Auto Glass Technician,0
+Bench Technician,0
+Carpenter,0
+Carpenter Helper,0
+Carpentry,0
+Combo Welder,0
+Composite Technician,0
+Desktop Support Technician,0
+Equipment Specialist,0
+Laundry,0
+Maintenance Engineer,2
+Maintenance Planner,0
+Ndt Technician,0
+Process Manager,1
+Sanitation Worker,0
+Service Technician,0
+Tower Climber,0
+Trailer Mechanic,0
+Trash Collector,0
+Bindery Operator,0
+Cnc Machinist,0
+Embroidery Machine Operator,0
+Inventory Control Clerk,0
+Laser Operator,0
+Line Leader,0
+Machine Operator,0
+Manufacturing Specialist,0
+Mechanical Inspector,0
+Merchandise Planner,0
+Monitor,0
+Packaging Machine Operator,0
+Packaging Manager,1
+Packaging Operator,0
+Packaging Specialist,0
+Process Operator,0
+Roll Off Driver,0
+Sensor Operator,0
+Smt Operator,0
+Warehouse Specialist,0
+Warehouseman,0
+Yard Driver,0
+Automotive Consultant,0
+Benefits Consultant,0
+Economic Consultant,0
+Implementation Consultant,0
+Integration Consultant,0
+Lean Consultant,0
+Salesforce Consultant,0
+Call Center Specialist,0
+Advertising Account Executive,0
+Assistant Sales Manager,1
+Automotive Sales Manager,1
+Brand Consultant,0
+Brand Specialist,0
+Brand Strategist,0
+Channel Marketing Manager,1
+Conference Coordinator,0
+Content Manager,1
+Content Strategist,0
+Digital Strategist,0
+Field Marketing Manager,1
+Marketer,0
+Marketing Professional,0
+Marketing Strategist,0
+Talent Manager,1
+Product Support Specialist,0
+Project Architect,0
+Project Executive,0
+Project Superintendent,0
+Bookstore,0
+Head Cashier,0
+Pharmacy Cashier,0
+Restaurant Cashier,0
+Retail Cashier,0
+Retail Sales Consultant,0
+Service Cashier,0
+Store Cashier,0
+Store Detective,0
+Visual Merchandiser,0
+Electrical Estimator,0
+Elevator Technician,0
+Equipment Operator,0
+Field Inspector,0
+Foreman,0
+Heavy Equipment Operator,0
+Lead Carpenter,0
+Right Of Way Agent,0
+Insurance Adjuster,0
+Rails Developer,0
+Ruby Developer,0
+Software Analyst,0
+Software Support Engineer,2
+Web Analyst,0
+Administrative Analyst,0
+Analytics Consultant,0
+Analytics Manager,1
+Business Analyst Manager,3
+Business Architect,3
+Business Development Coordinator,3
+Business Development Executive,3
+Business Intelligence Analyst,3
+Business Strategist,3
+Business Systems Analyst,3
+Collection Analyst,0
+Data Engineer,2
+Financial Business Analyst,3
+Imagery Analyst,0
+It Business Analyst,3
+Junior Analyst,0
+Junior Business Analyst,3
+Research Engineer,2
+Senior Business Analyst,3
+Data Center Technician,0
+Senior Database Administrator,0
+Benefits Administrator,0
+Employment Specialist,0
+Hr Specialist,0
+Human Resources Specialist,0
+Physician Recruiter,0
+Reporting Analyst,0
+Training Administrator,0
+Travel Coordinator,0
+Background Investigator,0
+Bankruptcy Paralegal,0
+Contract Administrator,0
+Foster Care Case Manager,1
+Intellectual Property Attorney,0
+Legal Analyst,0
+Legal Consultant,0
+Patent Attorney,0
+Staff Attorney,0
+Development Officer,0
+Major Gifts Officer,0
+Outreach Worker,0
+Volunteer Manager,1
+Youth Worker,0
+Announcer,0
+Scout,0
+Sports Coordinator,0
+Automotive Instructor,0
+Biology Tutor,0
+Business Instructor,3
+Clinical Educator,0
+Community Assistant,0
+Culinary Instructor,0
+Educational Diagnostician,0
+English Tutor,0
+Esl Tutor,0
+Instructional Aide,0
+Instructional Assistant,0
+Librarian,0
+Medical Instructor,0
+Online English Teacher,0
+Paraeducator,0
+Reference Librarian,0
+Special Education Aide,0
+Special Education Assistant,0
+Special Education Paraprofessional,0
+Archivist,0
+Arts Manager,1
+Cinematographer,0
+Civil Designer,0
+Creative Designer,0
+Creative Strategist,0
+Curatorial Assistant,0
+Film Producer,0
+Game Tester,0
+Motion Graphics Designer,0
+Photo Editor,0
+Retoucher,0
+Technical Artist,0
+Technical Illustrator,0
+Vfx Artist,0
+Video Editor,0
+Visual Information Specialist,0
+Anesthesiologist,0
+Assisted Living Administrator,0
+Biomedical Equipment Technician,0
+Cardiologist,0
+Cardiology Nurse Practitioner,0
+Cardiothoracic Surgeon,0
+Certified Dental Assistant,0
+Certified Ophthalmic Assistant,0
+Ct Technologist,0
+Cytotechnologist,0
+Diagnostic Medical Sonographer,0
+Echocardiographer,0
+Eeg Technician,0
+Ekg Technician,0
+Endoscopy Technician,0
+Genetic Counselor,0
+Health Specialist,0
+Histologist,0
+Histology Technician,0
+Histotechnologist,0
+Laboratory Technologist,0
+Laser Technician,0
+Mammographer,0
+Mammography Technologist,0
+Medical Dosimetrist,0
+Medication Technician,0
+Brand Director,4
+Business Unit Manager,3
+Psychiatric Nurse,0
+Materials Manager,1
+Manufacturing Engineer,2
+Outside Machinist,0
+Procurement Officer,0
+Senior Manufacturing Engineer,2
+Stockroom Associate,0
+Benefits Analyst,0
+Cyber Security Specialist,0
+Information Security Specialist,0
+Transportation Coordinator,0
+Assistant Hotel Manager,1
+Executive Sous Chef,0
+Director Of Rehabilitation,4
+Chairman,0
+Hotel Sales Manager,1
+Community Health Nurse,0
+Service Coordinator,0
+Warehouse Administrator,0
+Fitter,0
+Landscape Manager,1
+Insurance Consultant,0
+Floor Manager,1
+Computer Repair Technician,0
+Information Security Consultant,0
+Insurance Coordinator,0
+Compliance Specialist,0
+Management Engineer,2
+Process Improvement Manager,1
+Recruiting Manager,1
+Revenue Cycle Manager,1
+Salon Manager,1
+Security Analyst,0
+Strategy Analyst,0
+Car Sales,0
+Client Success Manager,1
+Director Of Sales,4
+District Sales Manager,1
+External Wholesaler,0
+Finance Manager,1
+National Sales Director,4
+National Sales Manager,1
+Sales Operations Manager,1
+Sales Trainer,0
+Senior Merchandiser,0
+Technical Sales Engineer,2
+Flight Nurse,0
+Assistant Manager,1
+Cannabis,0
+Coordinator,0
+Hvac Installer,0
+Pest Control Technician,0
+Aerospace Technician,0
+Automotive Engineer,2
+Bridge Engineer,2
+Build Engineer,2
+Chemical Process Engineer,2
+Consulting Engineer,2
+Deployment Engineer,2
+Drilling Engineer,2
+Entry Level Electrical Engineer,2
+Facilities Engineer,2
+Facility Engineer,2
+Field Engineer,2
+Hydraulic Engineer,2
+Industrial Engineer,2
+Infrastructure Engineer,2
+Parking Attendant,0
+Parking Lot Attendant,0
+Restaurant Worker,0
+Sous Chef,0
+Team Member,0
+Wine Consultant,0
+Hairstylist,0
+Home Care Aide,0
+Midwife,0
+Personal Care Assistant,0
+Provider,0
+Recreation Leader,0
+Shopper,0
+Youth Advocate,0
+Youth Coordinator,0
+Youth Specialist,0
+Combat Engineer,2
+Fire Marshal,0
+Hospital Security Officer,0
+Safety Officer,0
+Security Agent,0
+Traffic Coordinator,0
+Change Manager,1
+Desktop Engineer,2
+Desktop Support Analyst,0
+Enterprise Architect,0
+Exchange Administrator,0
+Gis Manager,1
+Instructional Technology Specialist,0
+Noc Technician,0
+Support Analyst,0
+Technical Analyst,0
+Technical Trainer,0
+Family Therapist,0
+Health Psychologist,0
+Peer Counselor,0
+Residence Counselor,0
+Substance Abuse Counselor,0
+Mri Technician,0
+Mri Technologist,0
+Nuclear Medicine Technologist,0
+Operating Room Assistant,0
+Pathologist Assistant,0
+Patient Coordinator,0
+Perfusionist,0
+Pharmacy Assistant,0
+Physical Therapist Assistant,0
+Radiology,0
+Vaccinator,0
+Aircraft Inspector,0
+Audio Visual Technician,0
+Auto Body Painter,0
+Automotive Service Manager,1
+Cabinet Installer,0
+Cabinet Maker,0
+Crew Scheduler,0
+Driller,0
+Finish Carpenter,0
+Form Carpenter,0
+Hvac Apprentice,0
+Hvac Helper,0
+Installer,0
+Lab Technician,0
+Lube Technician,0
+Machine Builder,0
+Maintenance Specialist,0
+Maintenance Technician,0
+Paint Mixer,0
+Pipeline Technician,0
+Printer Technician,0
+Refrigeration Technician,0
+Relay Technician,0
+Small Engine Mechanic,0
+Support Worker,0
+Tire Technician,0
+Tool Crib Attendant,0
+Toolmaker,0
+Utility Worker,0
+Welding Inspector,0
+Cargo Handler,0
+Director Of Manufacturing,4
+Electrical Inspector,0
+Factory Worker,0
+Manufacturing Operations Manager,1
+Manufacturing Planner,0
+Packaging Designer,0
+Press Brake Operator,0
+Production Scheduler,0
+Sewing Machine Operator,0
+Storage Manager,1
+Hospital Receptionist,0
+Medical Officer,0
+Mental Health Case Manager,1
+Patient Care Associate,0
+Pharmacy Analyst,0
+Assistant Community Manager,1
+Campaign Coordinator,0
+Public Information Officer,0
+Social Services Specialist,0
+Director Of Logistics,4
+Director Of Purchasing,4
+Receiving Manager,1
+Shipping Manager,1
+Supply Chain Consultant,0
+Supply Manager,1
+Fitness Consultant,0
+Fitness Director,4
+Fitness Manager,1
+Personal Fitness Trainer,0
+Sports Director,4
+Studio Assistant,0
+Trainer,0
+Wellness Consultant,0
+Wellness Coordinator,0
+Wellness Nurse,0
+Box Office Manager,1
+Development Assistant,0
+Executive Creative Director,4
+Line Producer,0
+Media Consultant,0
+Media Producer,0
+Media Relations Manager,1
+Medical Editor,0
+Medical Writer,0
+Public Relations Director,4
+Publisher,0
+Segment Producer,0
+Television Producer,0
+Video Producer,0
+Writing Assistant,0
+Director Of Quality,4
+Qa Director,4
+Qa Manager,1
+Qa Specialist,0
+Qa Supervisor,0
+Quality Analyst,0
+Quality Assurance Analyst,0
+Quality Assurance Specialist,0
+Quality Control Analyst,0
+Quality Control Inspector,0
+Quality Control Specialist,0
+Quality Inspector,0
+Usability Engineer,2
+Admissions Assistant,0
+Aide,0
+Assistant Teacher,0
+Classroom Assistant,0
+Clinical Instructor,0
+Computer Science Teacher,0
+Custodial Supervisor,0
+Driving Instructor,0
+Economics Teacher,0
+Educational Assistant,0
+Graduate Assistant,0
+Instructional Coordinator,0
+Library Director,4
+Online Teacher,0
+Online Tutor,0
+Para Educator,0
+Sign Language Interpreter,0
+Special Education Coordinator,0
+Superintendent,0
+Conservator,0
+Director Of Photography,4
+Event Designer,0
+Multimedia Artist,0
+Multimedia Designer,0
+Photography Assistant,0
+Production Artist,0
+Real Estate Photographer,0
+Sound Designer,0
+Sound Engineer,2
+Studio Engineer,2
+Video Production,0
+Central Service Technician,0
+Clinical Dietitian,0
+Dental Assistant,0
+Dental Hygienist,0
+Dialysis Rn,0
+Dietitian,0
+Discharge Planner,0
+Environmental Health Specialist,0
+Health Technician,0
+Hospital Technician,0
+Hygienist,0
+Intervention Specialist,0
+Lead Medical Assistant,0
+Lead Pharmacy Technician,0
+Marine Engineer,2
+Materials Engineer,2
+Mechanical Project Engineer,2
+Packaging Engineer,2
+Performance Engineer,2
+Product Development Engineer,2
+Reliability Engineer,2
+Senior Process Engineer,2
+Senior Project Engineer,2
+Senior Structural Engineer,2
+Shift Engineer,2
+Video Engineer,2
+Welding Supervisor,0
+Account Representative,0
+Area Supervisor,0
+Assistant Facility Manager,1
+Business Support,3
+Counter Manager,1
+Facilitator,0
+Facilities Management,0
+Master Scheduler,0
+Office Support,0
+Program Officer,0
+Program Specialist,0
+Recovery Specialist,0
+Retention Specialist,0
+Senior Administrative Assistant,0
+Study Coordinator,0
+Team Coordinator,0
+Freight Associate,0
+Freight Coordinator,0
+Loader,0
+Mover,0
+Parts Runner,0
+Transportation Inspector,0
+Banquet Chef,0
+Beverage Manager,1
+Casino,0
+Casino Host,0
+Catering Chef,0
+Chef De Cuisine,0
+Chef De Partie,0
+Crew Chief,0
+Dining Room Manager,1
+Executive Housekeeper,0
+Food Prep,0
+Food Service Supervisor,0
+Food Service Worker,0
+Food Worker,0
+Houseperson,0
+Kitchen Assistant,0
+Kitchen Staff,0
+Kitchen Steward,0
+Warehouse Technician,0
+Environmental Consultant,0
+Organizational Development Consultant,0
+Service Consultant,0
+Call Center Agent,0
+Call Center Operator,0
+Collections Agent,0
+Customer Support Manager,1
+Customer Support Representative,0
+Solutions Engineer,2
+Advertising Sales,0
+Commercial Manager,1
+Community Manager,1
+Digital Producer,0
+Lead Generator,0
+Marketing Associate,0
+Marketing Communications,0
+Marketing Communications Manager,1
+Marketing Communications Specialist,0
+Marketing Engineer,2
+Media Director,4
+Media Planner,0
+Print Production Manager,1
+Social Media Director,4
+Wedding Planner,0
+Product Coordinator,0
+Project Assistant,0
+Bakery Clerk,0
+Bench Jeweler,0
+Grocery Stocker,0
+Merchandiser,0
+Retail Consultant,0
+Retail Merchandiser,0
+Retail Sales,0
+Retail Sales Associate,0
+Retail Sales Manager,1
+Retail Salesperson,0
+Retail Specialist,0
+Sales Merchandiser,0
+Stocker,0
+Visual Merchandising Manager,1
+Boilermaker,0
+Construction Consultant,0
+Elevator Mechanic,0
+Home Builder,0
+Pipe Fitter,0
+Insurance Verification Specialist,0
+Lead Engineer,2
+Lead Software Engineer,2
+Python Developer,0
+Senior Software Developer,0
+Senior Software Engineer,2
+Software Developer,0
+Web Architect,0
+Business Intelligence Manager,3
+Business Process Analyst,3
+Erp Consultant,0
+Microstrategy Developer,0
+Research Manager,1
+Researcher,0
+Senior Analyst,0
+Server Administrator,0
+3D Designer,0
+Junior Designer,0
+Senior Designer,0
+Benefits Specialist,0
+Driver Recruiter,0
+Hr Generalist,0
+Human Resources Business Partner,3
+Human Resources Executive,0
+Human Resources Generalist,0
+Medical Recruiter,0
+Payroll Manager,1
+Workforce Manager,1
+Digital Court Reporter,0
+Legal Administrator,0
+Legal Clerk,0
+Legal Editor,0
+Legal Officer,0
+Personal Injury Attorney,0
+Trial Attorney,0
+Animal Control Officer,0
+Veterinary Assistant,0
+Community Health Worker,0
+Community Liaison,0
+Family Advocate,0
+Peer Support Specialist,0
+Victim Advocate,0
+Recreation Specialist,0
+Sports,0
+Apartment Leasing Agent,0
+Apartment Property Manager,1
+Commercial Property Manager,1
+Housing Counselor,0
+Leasing Agent,0
+Leasing Consultant,0
+Leasing Specialist,0
+Regional Property Manager,1
+Security Guard,0
+Senior Planner,0
+Title Officer,0
+Transaction Coordinator,0
+Certified Phlebotomy Technician,0
+Clinical Technician,0
+Environmental Planner,0
+Health Physicist,0
+Industrial Hygienist,0
+Laboratory Manager,1
+Library Clerk,0
+Meteorologist,0
+Microbiology Technician,0
+Renewable Energy,0
+Scientist,0
+Seismologist,0
+Accounting Administrator,0
+Accounting Director,4
+Accounts Payable Coordinator,0
+Acquisition Specialist,0
+Aml Analyst,0
+Assistant Controller,0
+Banking Analyst,0
+Business Banker,3
+Commercial Banker,0
+Economist,0
+Fund Manager,1
+Investment Banker,0
+Junior Accountant,0
+Loan Originator,0
+Procurement Administrator,0
+Senior Credit Analyst,0
+Treasurer,0
+Trust Officer,0
+Cancer Registrar,0
+Clinical Liaison,0
+Pattern Maker,0
+Product Design Engineer,2
+Stock Clerk,0
+Center Manager,1
+Transportation Supervisor,0
+Warehouse Assistant,0
+DBA,0
+Chief Development Officer,0
+Business Director,3
+Dermatology Nurse Practitioner,0
+Budtender,0
+Manufacturing Manager,1
+Kitchen Designer,0
+Chief Nursing Officer,0
+Director Of Radiology,4
+Health Unit Coordinator,0
+Hospital Director,4
+Social Work Case Manager,1
+Information Officer,0
+Interaction Designer,0
+Corporate Recruiter,0
+Assistant Front Office Manager,1
+Facilities Director,4
+Operations Team Leader,0
+Transportation Planner,0
+Screen Printer,0
+Warehouse Coordinator,0
+District Manager,1
+Economic Analyst,0
+Employee Relations Manager,1
+Field Manager,1
+Field Sales Manager,1
+Food Service Manager,1
+Franchise Manager,1
+General Manager,1
+Human Resources Manager,1
+Key Account Manager,1
+Labor Relations Manager,1
+Learning And Development Manager,1
+National Account Manager,1
+Operations Manager,1
+Policy Analyst,0
+Press Secretary,0
+Program Manager,1
+Public Relations Manager,1
+Real Estate Manager,1
+Regional Operations Manager,1
+Regional Sales Director,4
+Regulatory Affairs Manager,1
+Sales Manager,1
+Senior Operations Manager,1
+Tour Manager,1
+Unit Manager,1
+Validation Manager,1
+Vice President Of Sales,0
+Car Dealer,0
+Distribution Supervisor,0
+Jewelry Consultant,0
+Licensed Customs Broker,0
+Sales Coach,0
+Sales Director,4
+Sales Supervisor,0
+Technical Sales,0
+Technical Sales Representative,0
+Technology Sales,0
+Territory Sales Representative,0
+Wine Sales Representative,0
+Nurse Extern,0
+Private Duty Nurse,0
+Student Nurse,0
+Category Manager,1
+Implementation Manager,1
+Linguist,0
+Safety Technician,0
+Trainee,0
+Chief Engineer,2
+Cisco Voice Engineer,2
+City Engineer,2
+Civil Project Engineer,2
+Civil Structural Engineer,2
+Construction Engineer,2
+Corrosion Engineer,2
+Distribution Center Supervisor,0
+Electrical Engineering,0
+Engineering Consultant,0
+Engineering Program Manager,1
+Entry Level Mechanical Engineer,2
+Fire Protection Engineer,2
+Geotechnical Engineer,2
+Highway Engineer,2
+Industrial Designer,0
+Junior Mechanical Engineer,2
+Lead Mechanical Engineer,2
+Warehouse Clerk,0
+Warehouse Driver,0
+Warranty Manager,1
+Yard Laborer,0
+Yard Manager,1
+Yard Supervisor,0
+Career Coach,0
+Change Management Consultant,0
+Employment Consultant,0
+Franchise Consultant,0
+Independent Consultant,0
+Recruitment Consultant,0
+Small Business Consultant,3
+Call Center Manager,1
+Call Center Supervisor,0
+Contact Center Manager,1
+Customer Experience Manager,1
+Customer Service Consultant,0
+Customer Service Director,4
+Customer Service Trainer,0
+Customer Success Manager,1
+Customer Support Specialist,0
+Communications Specialist,0
+Content Creator,0
+Event Specialist,0
+Graphic Designer,0
+Marketing Administrator,0
+Marketing Assistant,0
+Marketing Coordinator,0
+Marketing Officer,0
+Marketing Specialist,0
+Package Designer,0
+Promotions Coordinator,0
+Retail Marketing Manager,1
+Social Media Assistant,0
+Social Media Coordinator,0
+Product Assistant,0
+Product Specialist,0
+Project Specialist,0
+Dairy Manager,1
+Grocery Clerk,0
+Merchandising Manager,1
+Produce Clerk,0
+Retail Assistant,0
+Retail Associate,0
+Retail Clerk,0
+Retail Operations Manager,1
+Retail Supervisor,0
+Sales Assistant,0
+Store Assistant,0
+Store Associate,0
+Store Clerk,0
+Store Supervisor,0
+Vendor Manager,1
+Construction Apprentice,0
+Construction Laborer,0
+Construction Project Coordinator,0
+Construction Project Manager,1
+Construction Worker,0
+Drywall Finisher,0
+Field Operator,0
+Framer,0
+Installation Technician,0
+Lineman,0
+Lineman Apprentice,0
+Pipe Welder,0
+Plant Worker,0
+Claim Adjuster,0
+Claims Assistant,0
+Claims Processor,0
+Health Insurance Agent,0
+Health Insurance Specialist,0
+Insurance Agent,0
+Insurance Assistant,0
+Neurodiagnostic Technologist,0
+Nuclear Pharmacist,0
+Nutritionist,0
+Occupational Therapy Aide,0
+Occupational Therapy Assistant,0
+Oncology Pharmacist,0
+Ophthalmic Assistant,0
+Ophthalmic Technician,0
+Optometric Assistant,0
+Optometrist Assistant,0
+Orderly,0
+Pacu Rn,0
+Paramedic,0
+Patient Care Manager,1
+Patient Care Technician,0
+Patient Navigator,0
+Patient Sitter,0
+Patient Transport,0
+Patient Transporter,0
+Pediatric Physician Assistant,0
+Personal Care Attendant,0
+Pharmaceutical Sales,0
+Pharmacist,0
+Psychiatric Aide,0
+Psychiatric Technician,0
+Registered Behavior Technician,0
+Registered Respiratory Therapist,0
+Rehab Technician,0
+Respiratory Care Practitioner,0
+Respiratory Therapist,0
+Speech Pathologist Assistant,0
+Technologist,0
+Travel Cna,0
+Veterinary Technician,0
+Control Room Operator,0
+Electric Lineman,0
+Environmental Services Manager,1
+Facility Maintenance Manager,1
+Floor Technician,0
+Groundskeeper,0
+Gutter,0
+Health And Safety Manager,1
+House Painter,0
+Irrigation Technician,0
+Janitorial Supervisor,0
+Journeyman Plumber,0
+Landscape Technician,0
+Lighting Technician,0
+Maintenance Coordinator,0
+Maintenance Electrician,0
+Maintenance Mechanic,0
+Maintenance Supervisor,0
+Marine Technician,0
+Mechanical Assembler,0
+Mechanical Technician,0
+Office Technician,0
+Operations Technician,0
+Optical Technician,0
+Parts Manager,1
+Pc Technician,0
+Pipeline Operator,0
+Plant Technician,0
+Pool Manager,1
+Pool Technician,0
+Property Caretaker,0
+Pumper,0
+Refrigeration Mechanic,0
+Repair Technician,0
+Residential Electrician,0
+Roughneck,0
+Sheet Metal Mechanic,0
+Ship Fitter,0
+Slot Technician,0
+Stage Technician,0
+Structural Welder,0
+Substation Electrician,0
+Tig Welder,0
+Tower Technician,0
+Tradesman,0
+Wastewater Operator,0
+Water Operator,0
+Welder Fabricator,0
+Window Cleaner,0
+Camera Operator,0
+Cmm Operator,0
+Die Maker,0
+Instrument Fitter,0
+Machinist,0
+Material Controller,0
+Packaging Technician,0
+Parts Driver,0
+Plant Controller,0
+Procurement Coordinator,0
+Product Designer,0
+Production Designer,0
+Production Planner,0
+Refinery,0
+Refinery Operator,0
+Stockroom Clerk,0
+Retirement Specialist,0
+Development Associate,0
+Leasing Manager,1
+New Home Sales Consultant,0
+Property Administrator,0
+Property Management,0
+Real Estate Consultant,0
+Real Estate Salesperson,0
+Realtor,0
+Residential Director,4
+Salon Receptionist,0
+Clinical Consultant,0
+Clinical Research Associate,0
+Conservationist,0
+Ecologist,0
+Ehs Manager,1
+Ehs Specialist,0
+Environmental Coordinator,0
+Environmental Manager,1
+Fisheries Biologist,0
+Fisheries Technician,0
+Geneticist,0
+Geophysicist,0
+Horticulturist,0
+Hydrogeologist,0
+Hydrologist,0
+Laboratory Director,4
+Laboratory Supervisor,0
+Library Assistant,0
+Library Associate,0
+Materials Scientist,0
+Microbiologist,0
+Microbiology Technologist,0
+Molecular Biologist,0
+Molecular Technologist,0
+Organic Chemist,0
+Production Chemist,0
+Research Chemist,0
+Research Consultant,0
+Resource Specialist,0
+Senior Scientist,0
+Soil Scientist,0
+Toxicologist,0
+Client Relationship Manager,1
+Financial Planner,0
+Inventory Accountant,0
+Inventory Auditor,0
+Investment Advisor,0
+Investment Specialist,0
+Loan Administrator,0
+Loan Coordinator,0
+Loan Servicing Specialist,0
+Mortgage Assistant,0
+Mortgage Banker,0
+Mortgage Originator,0
+Payroll Accountant,0
+Payroll Analyst,0
+Payroll Coordinator,0
+Payroll Specialist,0
+Portfolio Manager,1
+Production Accountant,0
+Property Accountant,0
+Real Estate Accountant,0
+Reconciliation Specialist,0
+Revenue Accountant,0
+Revenue Analyst,0
+Senior Financial Analyst,0
+Staff Accountant,0
+Universal Banker,0
+Chief Medical Officer,0
+Clinical Social Worker,0
+Metallurgist,0
+Mining Engineer,2
+Naval Architect,0
+Pipeline Engineer,2
+Piping Designer,0
+Piping Engineer,2
+Power Engineer,2
+Process Safety Engineer,2
+Recording Engineer,2
+Reservoir Engineer,2
+Safety Engineer,2
+Traffic Engineer,2
+Transmission Engineer,2
+Utility Engineer,2
+Water Engineer,2
+Welding Engineer,2
+Department Manager,1
+Facilities Manager,1
+Facility Technician,0
+Knowledge Management Specialist,0
+Meeting Planner,0
+Office Assistant,0
+Planner,0
+Program Assistant,0
+Scheduling Manager,1
+Unit Assistant,0
+Car Porter,0
+Charter Pilot,0
+Commercial Pilot,0
+Conductor,0
+Corporate Pilot,0
+Driver Helper,0
+Locomotive Engineer,2
+Messenger,0
+Test Driver,0
+Test Pilot,0
+Train Conductor,0
+Train Engineer,2
+Transportation Engineer,2
+Cocktail Server,0
+Coffee Roaster,0
+Executive Steward,0
+Food Service Specialist,0
+Grill Cook,0
+Guide,0
+Head Chef,0
+House Manager,1
+Houseman,0
+Kitchen Hand,0
+Kitchen Helper,0
+Kitchen Worker,0
+After School Teacher,0
+Chemistry Teacher,0
+Chinese Teacher,0
+Classroom Teacher,0
+College Advisor,0
+College Counselor,0
+Cosmetology Instructor,0
+Cosmetology Teacher,0
+Director Of Admissions,4
+Director Of Training,4
+Drama Teacher,0
+Education Teacher,0
+Educator,0
+Elementary Music Teacher,0
+Elementary School Teacher,0
+English Instructor,0
+English Teacher,0
+Esl Instructor,0
+Esl Teacher,0
+Family Consumer Science Teacher,0
+French Teacher,0
+Ged Instructor,0
+German Teacher,0
+Health Teacher,0
+Hebrew Teacher,0
+Instructional Coach,0
+Language Specialist,0
+Learning Specialist,0
+Literacy Specialist,0
+Museum Educator,0
+Parent Educator,0
+Proctor,0
+Provost,0
+Public Health Educator,0
+Reading Specialist,0
+Recreation Supervisor,0
+School Aide,0
+School Principal,0
+Student Advisor,0
+Student Counselor,0
+Study Abroad Advisor,0
+University Counselor,0
+Film,0
+Floral Designer,0
+Florist,0
+Freelance Artist,0
+Freelance Makeup Artist,0
+Freelance Photographer,0
+Interior Design,0
+Interior Design Consultant,0
+Interior Designer,0
+Lighting Designer,0
+Party Planner,0
+Photographer,0
+Photography,0
+Print Designer,0
+Product Photographer,0
+Program Director,4
+Senior Art Director,4
+Senior Interior Designer,0
+Sports Photographer,0
+Studio Photographer,0
+Video Production Assistant,0
+Videographer,0
+Visual Manager,1
+Certified Diabetes Educator,0
+Certified Dietary Manager,1
+Certified Medication Aide,0
+Child Psychiatrist,0
+Clinical Medical Assistant,0
+Clinical Specialist,0
+Diabetes Educator,0
+EMT,0
+Emergency Department Technician,0
+Emergency Medical Technician,0
+Emergency Room Technician,0
+Er Technician,0
+Firefighter Paramedic,0
+Flight Paramedic,0
+Home Health Aide,0
+Hospitality Aide,0
+Medical Examiner,0
+Medical Liaison,0
+Medical Office Manager,1
+Medical Sonographer,0
+Lead Developer,0
+Mobile Application Developer,0
+Mobile Developer,0
+Principal Software Engineer,2
+Senior Web Developer,0
+Software Architect,0
+Software Development Engineer,2
+Software Manager,1
+Technical Architect,0
+Web Application Developer,0
+Web Developer,0
+Erp Manager,1
+Market Research Manager,1
+Research Specialist,0
+Sustainability Manager,1
+Mainframe Developer,0
+Senior Instructional Designer,0
+Career Consultant,0
+Director Of Human Resources,4
+Hr Coordinator,0
+Hr Manager,1
+Hris Manager,1
+Human Resources Analyst,0
+Human Resources Coordinator,0
+Junior Recruiter,0
+Payroll Assistant,0
+Safety Advisor,0
+Staff Assistant,0
+Client Relations Manager,1
+Corporate Counsel,0
+Corporate Lawyer,0
+Court Interpreter,0
+Environmental Attorney,0
+Estate Planning Attorney,0
+Hearing Officer,0
+Law Office Assistant,0
+Legal Counsel,0
+Prosecutor,0
+Public Defender,0
+Real Estate Attorney,0
+Tax Attorney,0
+Dog Groomer,0
+Dog Trainer,0
+Groomer,0
+Pet Groomer,0
+Pet Stylist,0
+Veterinary Receptionist,0
+Community Service Officer,0
+Development Director,4
+Hospice Social Worker,0
+Outdoor Guide,0
+Ski Patrol,0
+Health Care Assistant,0
+Health Coordinator,0
+Hospital Social Worker,0
+Medical Assistant Instructor,0
+Medical Lab Assistant,0
+Medical Staff Coordinator,0
+Medical Support Assistant,0
+Nurse Case Manager,1
+Nurse Consultant,0
+Optical Assistant,0
+Optometric Technician,0
+Patient Advocate,0
+Patient Care Coordinator,0
+Patient Services Coordinator,0
+Rn Case Manager,1
+Case Worker,0
+Constable,0
+Director Of Social Services,4
+Group Home Manager,1
+Medical Social Worker,0
+Outreach Specialist,0
+Plans Examiner,0
+Public Works Director,4
+School Social Worker,0
+Sheriff,0
+Social Services Assistant,0
+Social Worker Assistant,0
+Logistics Engineer,2
+Logistics Manager,1
+Procurement Director,4
+Purchasing Director,4
+Supply Chain Analyst,0
+Supply Chain Director,4
+Warehouse Manager,1
+Diet Clerk,0
+Exercise Specialist,0
+Fitness Coach,0
+Fitness Coordinator,0
+Fitness Specialist,0
+Fitness Trainer,0
+Nutrition Director,4
+Personal Trainer,0
+Sports Nutritionist,0
+Swim Instructor,0
+Wellness Coach,0
+Wellness Director,4
+Communicator,0
+Copy Editor,0
+Customer Advocate,0
+Editor,0
+Editor In Chief,0
+Editorial Assistant,0
+Fact Checker,0
+Freelance Producer,0
+Journalism,0
+Journalist,0
+Media Analyst,0
+Media Specialist,0
+News Director,4
+News Editor,0
+News Producer,0
+Production Editor,0
+Publicist,0
+Radio Producer,0
+Reporter,0
+Research Assistant,0
+Senior Editor,0
+Service Writer,0
+Sports Producer,0
+Staff Writer,0
+Studio Manager,1
+Talent Coordinator,0
+Technical Editor,0
+Quality Assurance,0
+Quality Assurance Associate,0
+Quality Assurance Auditor,0
+Quality Assurance Director,4
+Quality Assurance Manager,1
+Quality Auditor,0
+Quality Consultant,0
+Quality Control,0
+Quality Control Assistant,0
+Quality Control Associate,0
+Quality Control Chemist,0
+Quality Control Manager,1
+Quality Control Supervisor,0
+Quality Coordinator,0
+Quality Improvement Specialist,0
+Quality Manager,1
+Quality Specialist,0
+Quality Supervisor,0
+Supplier Quality Manager,1
+Test Coordinator,0
+Test Manager,1
+Testing Coordinator,0
+Configuration Analyst,0
+Development Engineer,2
+Director Of Software Engineering,4
+Integration Architect,0
+Java Architect,0
+Line Cook,0
+Pastry Chef,0
+Pastry Cook,0
+Pizza Cook,0
+Pizza Maker,0
+Resident Manager,1
+Restaurant Consultant,0
+Runner,0
+Sandwich Maker,0
+Service Worker,0
+Short Order Cook,0
+Spa Attendant,0
+Spa Director,4
+Tour Guide,0
+Valet Driver,0
+Winemaker,0
+Care Provider,0
+Direct Care Staff,0
+Elderly Caregiver,0
+Embalmer,0
+Funeral Assistant,0
+House Cleaner,0
+Housekeeping,0
+Maid,0
+Personal Care Aide,0
+Personal Chef,0
+Private Chef,0
+Crossing Guard,0
+Facility Security Officer,0
+Fire Chief,0
+Forensic Nurse,0
+Jailer,0
+Park Ranger,0
+Security Assistant,0
+Security Officer,0
+Training Officer,0
+Citrix Administrator,0
+Computer Engineer,2
+Console Operator,0
+Cyber Security Analyst,0
+Deployment Manager,1
+Desktop Support Manager,1
+Electronic Technician,0
+Functional Consultant,0
+Help Desk Manager,1
+Information Security Analyst,0
+Information Security Manager,1
+Information Technology Technician,0
+Integration Specialist,0
+It Auditor,0
+Modeler,0
+Network Manager,1
+Pacs Administrator,0
+Technical Coordinator,0
+Technical Recruiter,0
+Technical Specialist,0
+Technology Director,4
+Web Editor,0
+Counselor,0
+Direct Care Worker,0
+Drug And Alcohol Counselor,0
+Guidance Counselor,0
+Marriage And Family Therapist,0
+Front Office Manager,1
+Health Educator,0
+Medical Courier,0
+Medical Science Liaison,0
+Nurse Administrator,0
+Nurse Coordinator,0
+Nurse Manager,1
+Nursing Supervisor,0
+Patient Liaison,0
+Pharmacy Supervisor,0
+Rehab Aide,0
+Rehab Director,4
+City Manager,1
+City Planner,0
+Forensic Social Worker,0
+Park Manager,1
+Psychiatric Social Worker,0
+Public Health Advisor,0
+Social Worker,0
+Procurement Manager,1
+Purchasing Manager,1
+Supply Chain Manager,1
+Exercise Physiologist,0
+Fitness Instructor,0
+Group Exercise Instructor,0
+Group Fitness Instructor,0
+Gymnastics Instructor,0
+Head Coach,0
+Pilates Instructor,0
+Strength And Conditioning Coach,0
+Tennis Instructor,0
+Training Instructor,0
+Board Operator,0
+Curriculum Writer,0
+Digital Archivist,0
+Freelance Copywriter,0
+Freelance Writer,0
+Managing Editor,0
+Script Writer,0
+Senior Technical Writer,0
+Sports Writer,0
+Telecommunications Manager,1
+Writer,0
+Optical Engineer,2
+Petroleum Engineer,2
+Plant Engineer,2
+Plastics Engineer,2
+Port Engineer,2
+Product Safety Engineer,2
+Radar Technician,0
+Railroad Engineer,2
+Satellite Technician,0
+Water Resource Engineer,2
+Media Assistant,0
+Office Administrative Assistant,0
+Operations Assistant,0
+Program Administrator,0
+Program Associate,0
+Residence Manager,1
+Support Manager,1
+Team Leader,0
+Airline Pilot,0
+Boat Captain,0
+Commercial Diver,0
+Dispatcher,0
+First Officer,0
+Flight Dispatcher,0
+Freight Broker,0
+Helicopter Pilot,0
+Petroleum Inspector,0
+Pilot,0
+Private Pilot,0
+Transportation Driver,0
+Transportation Specialist,0
+Transporter,0
+Baker,0
+Bar Server,0
+Beverage Server,0
+Butler,0
+Campground Manager,1
+Catering Assistant,0
+Chef,0
+Chef Assistant,0
+Cocktail Waitress,0
+Dietary Cook,0
+Enologist,0
+Fine Dining Server,0
+Food Safety Specialist,0
+Food Server,0
+Food Stylist,0
+Innkeeper,0
+Nutrition Assistant,0
+Occupational Therapist,0
+Optometrist,0
+Palliative Care Nurse Practitioner,0
+Patient Care Assistant,0
+Patient Care Specialist,0
+Pediatric Occupational Therapist,0
+Pediatric Physical Therapist,0
+Physiologist,0
+Psychological Assistant,0
+Radiologist,0
+Rn Supervisor,0
+Auto Damage Appraiser,0
+Automotive Detailer,0
+Automotive Service Advisor,0
+Bike Mechanic,0
+Crew Member,0
+Exterminator,0
+Facilities Assistant,0
+Farm Worker,0
+Handyman,0
+Heavy Equipment Operators,0
+Installation Manager,1
+Insulator,0
+Journeyman,0
+Lathe Machinist,0
+Line Service Technician,0
+Low Voltage Technician,0
+Maintenance,0
+Maintenance Worker,0
+Marine Mechanic,0
+Marine Surveyor,0
+Mechanic,0
+Millwright,0
+Motorcycle Technician,0
+Paint Technician,0
+Parts Specialist,0
+Pipeline,0
+Pressure Washer,0
+Pump Operator,0
+Roustabout,0
+School Custodian,0
+Steamfitter,0
+Steel Worker,0
+Substation Technician,0
+Tower Crane Operator,0
+Tree Climber,0
+Tree Trimmer,0
+Utility Operator,0
+Welder Apprentice,0
+Welder Helper,0
+Coating Inspector,0
+Fabricator,0
+Freight Handler,0
+Industrial Cleaner,0
+Parts Clerk,0
+Product Tester,0
+Production Manager,1
+Production Supervisor,0
+Shift Leader,0
+Tool And Die Maker,0
+Platform Engineer,2
+Process Technician,0
+Release Engineer,2
+Software Development Manager,1
+Software Engineering Manager,1
+Staff Engineer,2
+Director Of Sustainability,4
+Health Policy Analyst,0
+Psychometrician,0
+Sustainability Consultant,0
+Sustainability Coordinator,0
+Instructional Designer,0
+Junior Graphic Designer,0
+Activities Coordinator,0
+Career Specialist,0
+Chief Human Resources Officer,0
+Construction Supervisor,0
+Corporate Travel Consultant,0
+Hr Consultant,0
+Hr Recruiter,0
+Human Resource Consultant,0
+Human Resources Associate,0
+Human Resources Recruiter,0
+Labor Relations Specialist,0
+Nurse Recruiter,0
+Attorney,0
+Attorney General,0
+Judicial Law Clerk,0
+Law Clerk,0
+Law Librarian,0
+Lawyer,0
+Negotiator,0
+Horse Trainer,0
+Kennel Assistant,0
+Kennel Attendant,0
+Kennel Technician,0
+Veterinary Pathologist,0
+Party Chief,0
+Sushi Chef,0
+Barber,0
+Care Taker,0
+Caretaker,0
+Home Attendant,0
+Home Care Provider,0
+Home Caregiver,0
+Personal Caregiver,0
+Private Caregiver,0
+Senior Caregiver,0
+Detention Officer,0
+Firearms Instructor,0
+Guard,0
+Immigration Officer,0
+Juvenile Detention Officer,0
+Military Officer,0
+Patrol Officer,0
+Police Cadet,0
+Police Lieutenant,0
+Police Sergeant,0
+Probation Officer,0
+Public Safety Officer,0
+Cyber Security,0
+Devops,0
+Field Technician,0
+Information Security,0
+Information Technology,0
+Infrastructure Manager,1
+It Operations Manager,1
+It Program Manager,1
+Monitor Technician,0
+Network Operations Manager,1
+Senior Program Manager,1
+Systems Manager,1
+Technical Lead,0
+Addiction Counselor,0
+Behavior Analyst,0
+Behavioral Therapist,0
+Chemical Dependency Counselor,0
+Counseling Psychologist,0
+Developmental Psychologist,0
+Licensed Professional Counselor,0
+Rehabilitation Counselor,0
+Vocational Rehabilitation Counselor,0
+Commercial Real Estate Broker,0
+Housing Coordinator,0
+Lease Operator,0
+Real Estate Administrative Assistant,0
+Real Estate Agent,0
+Real Estate Appraiser,0
+Real Estate Assistant,0
+Real Estate Associate,0
+Real Estate Broker,0
+Residential Property Manager,1
+Archaeologist,0
+Clinical Associate,0
+Energy Consultant,0
+Gemologist,0
+Geologist,0
+Library Aide,0
+Medical Engineer,2
+Medical Scientist,0
+Physical Scientist,0
+Radiation Safety Officer,0
+Research Scientist,0
+Wildlife Biologist,0
+Assessor,0
+Asset Management Analyst,0
+Bank Examiner,0
+Banking Consultant,0
+Controller,0
+Corporate Controller,0
+Finance Controller,0
+Financial Advisor,0
+Financial Advisor Trainee,0
+Financial Controller,0
+Financial Manager,1
+In House Counsel,0
+Investment Manager,1
+Lending Manager,1
+Loan Consultant,0
+Loan Officer Assistant,0
+Mortgage Advisor,0
+Mortgage Specialist,0
+Personal Financial Advisor,0
+Premium Auditor,0
+Reimbursement Specialist,0
+Senior Auditor,0
+Senior Tax Accountant,0
+Senior Treasury Analyst,0
+Case Aide,0
+Supervisor,0
+Contract Analyst,0
+Executive Manager,1
+Front Desk Manager,1
+Global Account Manager,1
+Manager,1
+Market Manager,1
+Patient Access Manager,1
+Regional Director,4
+Senior Manager,1
+Vice President Of Finance,0
+Vice President Of Operations,0
+Vp Of Finance,0
+Demonstrator,0
+Sales Lead,0
+Sales Team Leader,0
+Salesperson,0
+Technical Account Manager,1
+Territory Account Manager,1
+Territory Sales Manager,1
+Wholesale Account Executive,0
+Mds Coordinator,0
+Public Health Nurse,0
+Utilization Review Nurse,0
+Bilingual,0
+Optical Manager,1
+Recreation Aide,0
+Architectural Engineer,2
+Clinical Engineer,2
+Commissioning Engineer,2
+Electrical Apprentice,0
+Electromechanical Technician,0
+Energy Manager,1
+Engineer,2
+Flight Test Engineer,2
+General Engineer,2
+Hardware Technician,0
+Instrument Engineer,2
+Academic Advisor,0
+Academic Counselor,0
+Admissions Counselor,0
+Agriculture Teacher,0
+Assistant Principal,0
+Assistant Superintendent,0
+Bilingual Teacher,0
+Business Education Teacher,3
+Curator,0
+Director Of Special Education,4
+Education Administrator,0
+Education Coordinator,0
+Elementary School Principal,0
+Foreign Language Teacher,0
+Guitar Teacher,0
+Learning Consultant,0
+Nursing Faculty,0
+Nursing Instructor,0
+Residence Hall Director,4
+Special Needs Teacher,0
+Teacher,0
+Technology Teacher,0
+University President,0
+Entertainer,0
+Fashion Designer,0
+Floral Assistant,0
+Junior Art Director,4
+Producer,0
+Senior Architect,0
+Set Designer,0
+Storyboard Artist,0
+Venue Manager,1
+Associate Dentist,0
+Behavior Technician,0
+Care Assistant,0
+Certified Medical Assistant,0
+Chiropractic Assistant,0
+Clinical Assistant,0
+Clinician,0
+Direct Care Professional,0
+Doctor Assistant,0
+Emergency Medicine Physician Assistant,0
+Health Aide,0
+Health Assistant,0
+Hospice Aide,0
+Interventional Radiologist,0
+Lpn,0
+Lvn,0
+Medical Assistant,0
+Mental Health Assistant,0
+Warehouse Lead,0
+Warehouse Supervisor,0
+Bilingual Customer Service,0
+Call Center Representative,0
+Client Services Manager,1
+Customer Service,0
+Customer Service Representative,0
+Customer Service Supervisor,0
+Director Of Customer Service,4
+Account Executive,0
+Advertising Director,4
+Animator,0
+Communications Coordinator,0
+Assistant Store Manager,1
+Bookstore Manager,1
+Grocery Manager,1
+Meat Manager,1
+Produce Manager,1
+Assistant Construction Manager,1
+Building Official,0
+Chief Estimator,0
+Construction Coordinator,0
+Construction Foreman,0
+Construction Manager,1
+Electrical Helper,0
+Fence Installer,0
+Fork Lift Operator,0
+Paver,0
+Plumber,0
+Scaffold Builder,0
+Welder,0
+Executive Recruiter,0
+Business Specialist,3
+Assistant Operations Manager,1
+Paraprofessional,0
+Chief Diversity Officer,0
+Design Manager,1
+Lacrosse Coach,0
+Swim Coach,0
+Tennis Coach,0
+Volleyball Coach,0
+Wrestling Coach,0
+Electrical Assistant,0
+Electrician,0
+Electrician Helper,0
+Dock Supervisor,0
+Journeyman Electrician,0
+Journeyman Lineman,0
+Plant Supervisor,0
+Nurse Supervisor,0
+Pharmacy Manager,1
+Football Coach,0
+Gymnastics Coach,0
+Soccer Coach,0
+Bid Manager,1
+Interpreter,0
+Team Manager,1
+Baggage Handler,0
+Food Runner,0
+Surveillance Operator,0
+Chief Marketing Officer,0
+Executive Director,4
+Managing Director,4
+Senior Vice President,0
+Helper,0
+Summer Camp Counselor,0
+Property Manager,1
+Real Estate Developer,0
+Inventory Supervisor,0
+Investment Officer,0
+Revenue Manager,1
+Senior Staff Accountant,0
+Admissions Representative,0
+Assistant Registrar,0
+Junior Copywriter,0
+Landscape Designer,0
+Business Advisor,3
+Contract Manager,1
+Director Of Environmental Services,4
+Business Assistant,3
+Diversity Manager,1
+Executive,0
+General Counsel,0
+Grants Manager,1
+Management Trainee,0
+Medical Director,4
+Membership Director,4
+President,0
+Principal,0
+Resident Director,4
+School Director,4
+Vice President,0
+Part Time Sales Associate,0
+Sales Clerk,0
+Sales Contractor,0
+Sales Engineer,2
+Sales Professional,0
+Salesman,0
+Strategic Account Manager,1
+Technical Sales Manager,1
+Territory Manager,1
+Vendor,0
+Yacht Broker,0
+Certified Nursing Assistant,0
+Clinical Nursing Instructor,0
+Mds Nurse,0
+Nurse Anesthetist,0
+Nurse Educator,0
+Telephone Triage Nurse,0
+Triage Nurse,0
+Camp Director,4
+Community Planner,0
+Night,0
+Signing Agent,0
+Traveler,0
+Assistant Engineer,2
+Boiler Operator,0
+Bridge Inspector,0
+Building Engineer,2
+Civil Engineering Technician,0
+Construction Inspector,0
+Corrosion Technician,0
+Cost Engineer,2
+Director Of Engineering,4
+Electrical Engineering Technician,0
+Engineering Director,4
+Engineering Manager,1
+Engineering Technician,0
+Gas Technician,0
+Human Factors Engineer,2
+Industrial Electrician,0
+Industrial Mechanic,0
+Instrument Technician,0
+Junior Engineer,2
+Mechanical Engineering Technician,0
+Nuclear Engineer,2
+Plumbing Engineer,2
+Power Plant Engineer,2
+Refrigeration Engineer,2
+Stationary Engineer,2
+Utility Locator,0
+Emergency Management,0
+Management Assistant,0
+Office Associate,0
+Office Manager,1
+Operations Associate,0
+Personal Assistant,0
+Practice Administrator,0
+Practice Manager,1
+Senior Executive Assistant,0
+Shift Supervisor,0
+Team Lead,0
+Aircraft Dispatcher,0
+Aircraft Electrician,0
+Airport Attendant,0
+Bus Aide,0
+Dispatch Manager,1
+Fleet Coordinator,0
+Fleet Mechanic,0
+Flight Coordinator,0
+Flight Engineer,2
+Helicopter Mechanic,0
+Patient Escort,0
+Signal Maintainer,0
+Terminal Operator,0
+Traffic Controller,0
+Transit Bus Driver,0
+Transit Operator,0
+Transport Driver,0
+Van Driver,0
+Bakery Assistant,0
+Barback,0
+Barista,0
+Bartender,0
+Breakfast Attendant,0
+Cart Attendant,0
+Golf Cart Attendant,0
+Lifeguard,0
+Mental Health Worker,0
+Neonatologist,0
+Nephrologist,0
+Neurologist,0
+Neuropsychologist,0
+Neurosurgeon,0
+Ob Gyn,0
+Obstetrician,0
+Occupational Medicine Physician,0
+Oncologist,0
+Ophthalmologist,0
+Oral Surgeon,0
+Orthodontist,0
+Orthopaedic Surgeon,0
+Orthopedic Nurse Practitioner,0
+Orthopedic Surgeon,0
+Outpatient Therapist,0
+Pathologist,0
+Pediatric Cardiologist,0
+Pediatric Dentist,0
+Pediatric Hospitalist,0
+Pediatrician,0
+Periodontist,0
+Physician,0
+Physician Assistant,0
+Plastic Surgeon,0
+Podiatrist,0
+Prosthetist,0
+Prosthodontist,0
+Public Health Dentist,0
+Registered Dietitian,0
+Renal Dietitian,0
+Retail Pharmacist,0
+Sports Medicine Physician,0
+Staff Pharmacist,0
+Surgeon,0
+Trauma Surgeon,0
+Urologist,0
+Vascular Surgeon,0
+Wic Nutritionist,0
+Aircraft Cleaner,0
+Auto Appraiser,0
+Auto Detailer,0
+Day Porter,0
+Detailer,0
+Electrical Superintendent,0
+Equipment Manager,1
+Farm,0
+Farm Hand,0
+Farm Manager,1
+Farmer,0
+Finisher,0
+Jeweler,0
+Landscape Foreman,0
+Landscaping,0
+Loadmaster,0
+Low Voltage Electrician,0
+Luthier,0
+Maintenance Assistant,0
+Manual Machinist,0
+Marine Electrician,0
+Mig Welder,0
+Motorcycle Mechanic,0
+Oil Field,0
+Pipefitter,0
+Plasterer,0
+Plumbing Inspector,0
+Porter,0
+Rig Welder,0
+Solar Installer,0
+Solar Panel Installer,0
+Solar Technician,0
+Sprinkler Fitter,0
+Union Carpenter,0
+Wildlife Technician,0
+Wind Technician,0
+Wind Turbine Technician,0
+Lumper,0
+Manufacturing,0
+Production Specialist,0
+Seamstress,0
+Stitcher,0
+Process Development Engineer,2
+Production Technician,0
+Release Manager,1
+Technical Manager,1
+Yield Engineer,2
+Aquatics Director,4
+Director Of Analytics,4
+Psychometrist,0
+Activities Director,4
+Benefits Manager,1
+Campus Recruiter,0
+Headhunter,0
+Hr Assistant,0
+Hr Representative,0
+Hse Manager,1
+Human Resource Assistant,0
+Human Resources Assistant,0
+Human Resources Officer,0
+Leadership Development Program,0
+Learning And Development Specialist,0
+Training Director,4
+Vice President Of Human Resources,0
+Administrative Law Judge,0
+City Attorney,0
+Court Administrator,0
+District Attorney,0
+Inspector General,0
+Managing Partner,0
+Mediator,0
+Subject Matter Expert,0
+Animal Trainer,0
+Dog Bather,0
+Dog Daycare,0
+Dog Handler,0
+Dog Sitter,0
+Dog Walker,0
+Equestrian,0
+Pet Sitter,0
+Wrangler,0
+Advocate,0
+Chaplain,0
+Hospital Chaplain,0
+Worship Leader,0
+Youth Minister,0
+Assistant Golf Professional,0
+Golf Course Superintendent,0
+Golf Professional,0
+Agile Coach,0
+Bridal Consultant,0
+Career Advisor,0
+Career Counselor,0
+Franchise Business Consultant,3
+Job Coach,0
+Life Coach,0
+Relocation Consultant,0
+Call Center Director,4
+Client Advisor,0
+Client Coordinator,0
+Customer Representative,0
+Customer Service Advisor,0
+Customer Service Agent,0
+Customer Service Assistant,0
+Customer Service Coordinator,0
+Customer Service Manager,1
+Account Assistant,0
+Account Coordinator,0
+Advertising Assistant,0
+Advertising Coordinator,0
+Booking Agent,0
+Copywriter,0
+Creative Assistant,0
+Creative Director,4
+Field Marketing Representative,0
+Marketing Copywriter,0
+Production Worker,0
+Promotions Assistant,0
+Senior Copywriter,0
+Sponsor,0
+Gas Station Cashier,0
+Grocery Bagger,0
+Grocery Store Manager,1
+Mall,0
+Meat Cutter,0
+Merchandising,0
+Retail Assistant Manager,1
+Retail Director,4
+Retail District Manager,1
+Retail Management,0
+Retail Manager,1
+Retail Store Manager,1
+Showroom Manager,1
+Store Director,4
+Store Manager,1
+Building Superintendent,0
+Civil Engineer,2
+Concrete Worker,0
+Construction Administrator,0
+Construction Assistant,0
+Construction Flagger,0
+Construction Helper,0
+Construction Project Engineer,2
+Construction Superintendent,0
+Construction Technician,0
+Director Of Construction,4
+Director Of Facilities,4
+Electrician Apprentice,0
+Glazier,0
+Highway Maintenance Worker,0
+Ironworker,0
+Roofer,0
+Saw Filer,0
+Insurance,0
+Medical Librarian,0
+Medication Aide,0
+Pharmacist Manager,1
+Pharmacy Technician Instructor,0
+Child Advocate,0
+Community Organizer,0
+Immigration Specialist,0
+Social Service,0
+Social Service Worker,0
+Youth Mentor,0
+Supply Chain Management,0
+Athletic Coordinator,0
+Athletic Director,4
+Certified Athletic Trainer,0
+Head Football Coach,0
+Naturalist,0
+Referee,0
+Umpire,0
+Author,0
+Creative Writer,0
+Environment Artist,0
+Field Interviewer,0
+Game Master,0
+Grant Writer,0
+Multimedia Journalist,0
+News Anchor,0
+News Photographer,0
+News Reporter,0
+Newspaper Reporter,0
+Photojournalist,0
+Proposal Writer,0
+Radio Host,0
+Report Writer,0
+Reviewer,0
+Speech Writer,0
+Sports Anchor,0
+Sports Reporter,0
+Video Journalist,0
+Desktop Publisher,0
+Academic Dean,0
+Accounting Instructor,0
+Admissions Officer,0
+Art Professor,0
+Assistant Professor,0
+Associate Professor,0
+Biology Instructor,0
+Business Teacher,3
+Chemistry Professor,0
+College Instructor,0
+Engineering Teacher,0
+Faculty,0
+Finance Professor,0
+High School Counselor,0
+Law Professor,0
+Lead Teacher,0
+Lecturer,0
+Long Term Substitute Teacher,0
+Math Teacher,0
+Preschool Assistant,0
+Professor,0
+School Counselor,0
+School Psychologist,0
+School Teacher,0
+Spanish Tutor,0
+Special Education Teacher,0
+Special Educator,0
+Student Assistant,0
+Student Mentor,0
+Teacher Aide,0
+Teacher Assistant,0
+Teachers Aide,0
+Teaching Assistant,0
+Actor,0
+Art Handler,0
+Artist,0
+Choir Director,4
+Church Musician,0
+Comic,0
+Copy Writer,0
+Dancer,0
+Entertainment Writer,0
+Gamer,0
+Interior Design Assistant,0
+Makeup Artist,0
+Music Director,4
+Promoter,0
+Recreation Coordinator,0
+Recreation Director,4
+Scenic Artist,0
+Talent Director,4
+Theatre,0
+Woodworker,0
+Acupuncturist,0
+Audiologist,0
+Clinical Psychologist,0
+Crna,0
+Dermatologist,0
+Doula,0
+Endocrinologist,0
+Gastroenterologist,0
+General Surgeon,0
+Gynecologist,0
+Hospitalist,0
+Immunologist,0
+Medical Doctor,0
+Mental Health Clinician,0
+Mental Health Counselor,0
+Mental Health Professional,0
+Mental Health Specialist,0
+Mental Health Technician,0
+Mental Health Therapist,0
+Pool Attendant,0
+Sommelier,0
+Wait Staff,0
+Waiter,0
+Waitress,0
+Babysitter,0
+Child Care Assistant,0
+Classroom Aide,0
+Day Camp Counselor,0
+Homemaker,0
+Live In Caregiver,0
+Cop,0
+Deployment Technician,0
+Federal Air Marshal,0
+Firefighter,0
+Fireman,0
+Forest Firefighter,0
+Gate Guard,0
+Hot Shot,0
+K9 Handler,0
+Military Police,0
+Military Police Officer,0
+Officer,0
+Parole Officer,0
+Peace Officer,0
+Police Chief,0
+Police Officer,0
+Special Police Officer,0
+CTO,0
+Information Manager,1
+Information Security Officer,0
+Information Systems Manager,1
+It Director,4
+It Manager,1
+Noc Manager,1
+Program Supervisor,0
+Service Desk Manager,1
+Technical Program Manager,1
+Technical Services Manager,1
+Aba Therapist,0
+Art Therapist,0
+Behavior Interventionist,0
+Mental Health Associate,0
+Recreation Therapist,0
+Recreational Therapist,0
+Rehabilitation Specialist,0
+Rehabilitation Therapist,0
+Academic Administrator,0
+Commercial Real Estate Appraiser,0
+Estate Manager,1
+Real Estate Analyst,0
+Residential Appraiser,0
+Model Maker,0
+Spa Coordinator,0
+Tailor,0
+Clinical Documentation Specialist,0
+Clinical Scientist,0
+Contact Tracer,0
+Cultivator,0
+Forester,0
+Library Page,0
+Marine Biologist,0
+Nuclear Physicist,0
+Organizational Psychologist,0
+Park Naturalist,0
+Physicist,0
+Public Health Analyst,0
+Research Psychologist,0
+Social Scientist,0
+Banker,0
+Branch Manager,1
+Director Of Accounting,4
+Finance Director,4
+Finance Executive,0
+Inventory Manager,1
+Investment Consultant,0
+Lead Auditor,0
+Management Accountant,0
+Mortgage Consultant,0
+Options Trader,0
+Payroll Consultant,0
+Personal Banker,0
+Private Banker,0
+Project Accountant,0
+Proprietary Trader,0
+Regional Account Manager,1
+Reimbursement Manager,1
+Relationship Banker,0
+Senior Account Manager,1
+Senior Accountant,0
+Senior Finance Manager,1
+Geriatric Nursing Assistant,0
+Assistant General Manager,1
+Business Operations Specialist,3
+Clinical Manager,1
+Real Estate Sales Agent,0
+Community Association Manager,1
+Presenter,0
+Forestry Technician,0
+Grounds Manager,1
+Office Administrator,0
+Information Technology Director,4
+Assistant Dean,0
+Associate Dean,0
+Dean,0
+Gardener,0
+Business Leader,3
+Peer Mentor,0
+Artistic Director,4
+Design Director,4
+Sailing Instructor,0
+Personal Care Worker,0
+Academic Director,4
+Chief Technology Officer,0
+Food Handler,0
+Plant Manager,1
+Power Plant Operator,0
+Project Engineering Manager,1
+Reactor Operator,0
+Vp Of Engineering,0
+Wastewater Treatment Operator,0
+Water Treatment Plant Operator,0
+Manager Trainee,1
+Office,0
+Office Worker,0
+Summer Associate,0
+Air Traffic Controller,0
+Bus Monitor,0
+Fleet Administrator,0
+Fleet Manager,1
+Flight Attendant,0
+Ordinary Seaman,0
+Passenger Service Agent,0
+Ramp Agent,0
+Steward,0
+Terminal Manager,1
+Toll Collector,0
+Beach Attendant,0
+Bellhop,0
+Bellman,0
+Busboy,0
+Busser,0
+Concierge,0
+Dietary Aide,0
+Doorman,0
+Hospice Chaplain,0
+Pharmaceutical,0
+Activist,0
+Community Worker,0
+Federal Contractor,0
+Government Contractor,0
+Assistant Athletic Director,4
+Assistant Basketball Coach,0
+Assistant Coach,0
+Assistant Football Coach,0
+Assistant Soccer Coach,0
+Diver,0
+Gym,0
+Licensed Massage Therapist,0
+Massage Therapist,0
+Performer,0
+Public Address Announcer,0
+Radio,0
+Speaker,0
+Central Office Technician,0
+Physician Liaison,0
+Primary Care Physician,0
+Psychiatrist,0
+Psychologist,0
+Psychotherapist,0
+Rheumatologist,0
+Speech Language Pathology Assistant,0
+Speech Pathologist,0
+Speech Pathology Assistant,0
+Crematory Operator,0
+Deckhand,0
+Heavy Construction,0
+Independent Adjuster,0
+Laborer,0
+Landscape Laborer,0
+Laundry Aide,0
+Loader Operator,0
+Locksmith,0
+Logger,0
+Lumberjack,0
+Mason,0
+Master Electrician,0
+Master Plumber,0
+Mechanic Helper,0
+Merchant Marine,0
+Miner,0
+Mover Helper,0
+Plumber Helper,0
+Rigger,0
+Spotter,0
+Tankerman,0
+Teamster,0
+Zamboni Driver,0
+Associate Pastor,0
+Camp Counselor,0
+Coach,0
+Mentor,0
+Travel Consultant,0
+Wedding Coordinator,0
+Client Associate,0
+Client Service Associate,0
+Customer Service Associate,0
+Customer Service Operator,0
+Customer Service Receptionist,0
+Customer Service Specialist,0
+Pbx Operator,0
+Phone Operator,0
+Service Representative,0
+Telephone Operator,0
+Ambassador,0
+Brand Ambassador,0
+Brand Representative,0
+Marketing Representative,0
+Key Holder,0
+Wholesaler,0
+Aerial Lineman,0
+Architect,0
+Brick Mason,0
+Builder,0
+Building Inspector,0
+Concrete Finisher,0
+Crane Operator,0
+Directional Driller,0
+Excavator,0
+Field Worker,0
+Flagger,0
+Claims Clerk,0
+Academic Tutor,0
+High School English Teacher,0
+High School History Teacher,0
+High School Math Teacher,0
+High School Science Teacher,0
+High School Spanish Teacher,0
+High School Teacher,0
+History Teacher,0
+History Tutor,0
+Infant Teacher,0
+Kindergarten Teacher,0
+Language Arts Teacher,0
+Latin Teacher,0
+Mandarin Teacher,0
+Math Instructor,0
+Math Tutor,0
+Middle School Science Teacher,0
+Middle School Teacher,0
+Montessori Teacher,0
+Music Teacher,0
+Orchestra Teacher,0
+Physical Education Teacher,0
+Physics Teacher,0
+Piano Teacher,0
+Postdoc,0
+Pre K Teacher,0
+Preschool Teacher,0
+Primary Teacher,0
+Private Tutor,0
+Professional Tutor,0
+Psychology Instructor,0
+Psychology Professor,0
+Psychology Teacher,0
+Reader,0
+Reading Teacher,0
+Reading Tutor,0
+Religion Teacher,0
+Sat Tutor,0
+School Secretary,0
+Science Teacher,0
+Secondary Teacher,0
+Social Science Teacher,0
+Social Studies Teacher,0
+Spanish Teacher,0
+Student Tutor,0
+Student Worker,0
+Teaching Artist,0
+Theater Teacher,0
+Theology Teacher,0
+Tutor,0
+Welding Instructor,0
+Writing Tutor,0
+Accompanist,0
+Art Model,0
+Choreographer,0
+Craftsman,0
+DJ,0
+Dance Instructor,0
+Dance Teacher,0
+Painter,0
+Potter,0
+Sculptor,0
+Tattoo Artist,0
+Voice Over Artist,0
+Chiropractor,0
+Coroner,0
+Dental,0
+Dentist,0
+Doctor,0
+Emergency Medicine Physician,0
+Endodontist,0
+Family Medicine Physician,0
+Family Physician,0
+General Dentist,0
+General Practitioner,0
+Hospital Volunteer,0
+Machine Learning Engineer,2
+Scrum Master,0
+Vp Engineering,0
+User Experience Researcher,0
+Activity Assistant,0
+Chief Compliance Officer,0
+Event Planning,0
+Hr Administrative Assistant,0
+Human Resources Clerk,0
+Payroll Director,4
+Bailiff,0
+Court Clerk,0
+Court Officer,0
+Court Reporter,0
+Deputy Clerk,0
+Deputy Court Clerk,0
+Judge,0
+Justice,0
+Notary Public,0
+Animal Care Technician,0
+Animal Caretaker,0
+Animal Keeper,0
+Animal Technician,0
+Associate Veterinarian,0
+Cowboy,0
+Hostler,0
+Marine Mammal Trainer,0
+Ranch Hand,0
+Ranch Manager,1
+Veterinarian,0
+Veterinary,0
+Zoologist,0
+Bishop,0
+Deaconess,0
+Lead Pastor,0
+Minister,0
+Pastor,0
+Priest,0
+Rabbi,0
+Baseball Coach,0
+Basketball Coach,0
+Basketball Referee,0
+Cheerleading Coach,0
+Diving Coach,0
+Event Planner,0
+Golf Coach,0
+Assistant Portfolio Manager,1
+Chief Information Officer,0
+Founder,0
+Funeral Director,4
+Ombudsman,0
+Partner,0
+Inventor,0
+Sales Trader,0
+Vp Sales,0
+Assistant Director Of Nursing,4
+Certified Nurse Midwife,0
+Charge Nurse,0
+Clinical Nurse Specialist,0
+Clinical Research Nurse,0
+Critical Care Nurse,0
+Emergency Room Nurse,0
+Home Health Nurse,0
+Hospice Nurse,0
+Nurse Liaison,0
+Nurse Midwife,0
+Nurse Specialist,0
+Nursing Home,0
+Occupational Nurse,0
+Operating Room Nurse,0
+Rehabilitation Nurse,0
+Research Nurse,0
+School Nurse,0
+Surgical Nurse,0
+Wound Care Nurse,0
+Captain,0
+Resident Assistant,0
+Starter,0
+Clinical Research Assistant,0
+Engineering Assistant,0
+Au Pair,0
+Child Care Worker,0
+Companion,0
+Elderly Companion,0
+House Sitter,0
+Live In Nanny,0
+Nanny,0
+Nursery Worker,0
+Summer Nanny,0
+Border Patrol Agent,0
+Forensic Pathologist,0
+Forensic Psychologist,0
+Infantry,0
+Infantryman,0
+Law Enforcement Officer,0
+Marine,0
+Military,0
+National Guard,0
+State Trooper,0
+Unarmed Security Guard,0
+Document Review Attorney,0
+Hacker,0
+Music Therapist,0
+Physical Therapist,0
+Physical Therapist Aide,0
+Physical Therapy Aide,0
+Physical Therapy Assistant,0
+Physical Therapy Technician,0
+Rehabilitation Aide,0
+Rehabilitation Technician,0
+Speech Language Pathologist,0
+Speech Therapist,0
+Speech Therapy Assistant,0
+Sports Physical Therapist,0
+Corporate Attorney,0
+Housekeeper,0
+Landscaper,0
+Vice Principal,0
+Aesthetician,0
+Apparel Designer,0
+Beautician,0
+Beauty Advisor,0
+Beauty Consultant,0
+Colorist,0
+Cosmetic Chemist,0
+Cosmetologist,0
+Costume Designer,0
+Design Consultant,0
+Esthetician,0
+Fashion Buyer,0
+Fashion Consultant,0
+Fashion Stylist,0
+Footwear Designer,0
+Hair Stylist,0
+Hairdresser,0
+Make Up Artist,0
+Male Model,0
+Manicurist,0
+Master Esthetician,0
+Model,0
+Nail Technician,0
+Personal Stylist,0
+Photo Stylist,0
+Salon Assistant,0
+Spa Manager,1
+Stylist,0
+Geographer,0
+Herbalist,0
+Historian,0
+Chief Financial Officer (CFO),0
+Head Teller,0
+Loss Prevention Specialist,0
+Money Manager,1
+Payroll,0
+Private Equity,0
+Retail Banker,0
+Body Shop Manager,1
+Transportation Security Officer,0
+Chief Information Security Officer,0
+Therapy Aide,0
+Affiliate Manager,1
+Clinical Operations Manager,1
+Caregiver,0
+Admissions Coordinator,0
+Clinical Director,4
+Accounting Professor,0
+Accounting Tutor,0
+Adjunct Instructor,0
+Adjunct Nursing Faculty,0
+Adjunct Professor,0
+Adjunct Teacher,0
+Admissions Advisor,0
+Sports Psychologist,0
+Fire Watch,0
+Groundman,0
+Groundsman,0
+Mascot,0
+Senior Pastor,0
+Investor,0
+Revenue Officer,0
+Musician,0
+Organist,0
+Pianist,0
+Singer,0
+Airport,0
+Director,4
+Nurse,0
+Technician,0
