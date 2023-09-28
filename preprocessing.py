@@ -57,7 +57,7 @@ reduced_data = pca.fit_transform(vectorized_documents.toarray())
 
 num_clusters= 5
 kmeans = KMeans(n_clusters = num_clusters,
-                n_init = 5,
+                n_init = 45,
                 max_iter=500,
                 random_state=42)
 kmeans.fit(vectorized_documents)
@@ -66,7 +66,12 @@ results = pd.DataFrame()
 results['document'] = sentence
 results['cluster'] = kmeans.labels_
 
-print(results.sample(5))
+# print(results.sample(5))
+
+results.to_csv('Clusters.csv', index=False)
+
+'''
+# visual graph of the clusters
 
 colors = ['red', 'green', 'blue', 'yellow', 'black']
 cluster = ['Cluster 1', 'Cluster 2', 'Cluster 3', 'Cluster 4', 'Cluster 5']
@@ -77,7 +82,6 @@ for i in range(num_clusters):
                 s = 10, color=colors[i],
                 label=f' {cluster[i]}')
 
-results.to_csv('Clusters.csv', index=False)
-
 plt.legend()
 plt.show()
+'''

@@ -24,11 +24,11 @@ Delivery Driver,0
 Chief Security Officer,0
 File Clerk,0
 Mail Processing,0
-Director Of Operations,4
+Director Of Operations,0
 Direct Support Professional,0
 Chief Communications Officer,0
 Administrative Clerk,0
-Executive Assistant,0
+Executive Assistant,4
 General Office Clerk,0
 Transcriber,0
 Sql Programmer,0
@@ -41,13 +41,13 @@ Telemarketer,0
 Bakery Manager,1
 Banquet Manager,1
 Clerk Typist,0
-Assistant,0
-Business Relationship Manager,3
+Assistant,4
+Business Relationship Manager,1
 Distribution Manager,1
-Administrative Assistant,0
+Administrative Assistant,4
 Administrative Secretary,0
-Clerical Assistant,0
-Executive Administrative Assistant,0
+Clerical Assistant,4
+Executive Administrative Assistant,4
 Order Filler,0
 Records Clerk,0
 Scribe,0
@@ -64,20 +64,20 @@ Quantitative Developer,0
 Statistical Programmer,0
 Tableau Developer,0
 Data Modeler,0
-Database Analyst,0
+Database Analyst,2
 Database Developer,0
 Etl Developer,0
 Hadoop Developer,0
-Sql Analyst,0
-Procurement Assistant,0
+Sql Analyst,2
+Procurement Assistant,4
 Receiving Associate,0
 Warehouse Associate,0
 Press Operator,0
 Pressman,0
 Printing Press Operator,0
-Automation Test Engineer,2
+Automation Test Engineer,3
 Automation Tester,0
-QA Automation Engineer,2
+QA Automation Engineer,3
 Tax Preparer,0
 Associate,0
 Chief Learning Officer,0
@@ -101,36 +101,36 @@ Front Office Receptionist,0
 Mail Sorter,0
 Order Clerk,0
 Medical Coder,0
-Purchasing Assistant,0
+Purchasing Assistant,4
 Supply Technician,0
 Android Developer,0
 Ios Developer,0
 Chief Of Staff,0
-Intelligence Analyst,0
+Intelligence Analyst,2
 Photo Retoucher,0
 Full Charge Bookkeeper,0
 Grant Accountant,0
-Epic Analyst,0
+Epic Analyst,2
 It Project Manager,1
 Software Project Manager,1
 Technology Project Manager,1
 Cobol Developer,0
-Quantitative Analyst,0
-Quantitative Research Analyst,0
+Quantitative Analyst,2
+Quantitative Research Analyst,2
 Report Developer,0
 Sas Developer,0
-Statistical Analyst,0
+Statistical Analyst,2
 Backend Developer,0
 Data Architect,0
 Database Designer,0
-Database Engineer,2
+Database Engineer,3
 Gis Developer,0
 Informatica Developer,0
 Ui Developer,0
 Ux Developer,0
 Stenographer,0
-Allocation Analyst,0
-Business Operations Manager,3
+Allocation Analyst,2
+Business Operations Manager,1
 Ecommerce,0
 Solar Sales,0
 Developer,0
@@ -139,7 +139,7 @@ Perl Developer,0
 Pega Developer,0
 Sap Developer,0
 Clinical Informatics Specialist,0
-Cloud Engineer,2
+Cloud Engineer,3
 Data Scientist,0
 Database Programmer,0
 Information Assurance,0
@@ -149,17 +149,17 @@ Sql Developer,0
 Sql Server Developer,0
 Teradata Developer,0
 Net Developer,0
-Sports Analyst,0
+Sports Analyst,2
 Chief Of Police,0
 Emergency Dispatcher,0
-Investigative Analyst,0
+Investigative Analyst,2
 Police Dispatcher,0
 Polygraph Examiner,0
 Public Safety Dispatcher,0
-Regulatory Analyst,0
+Regulatory Analyst,2
 Security Consultant,0
-Embedded Systems Engineer,2
-Implementation Analyst,0
+Embedded Systems Engineer,3
+Implementation Analyst,2
 Medical Billing Specialist,0
 Medical Collector,0
 Postal Clerk,0
@@ -169,11 +169,11 @@ Qa Software Tester,0
 Application Developer,0
 Entry Level Developer,0
 Front End Developer,0
-Front End Engineer,2
+Front End Engineer,3
 Front End Web Developer,0
 Full Stack Developer,0
 J2Ee Developer,0
-Robotics Engineer,2
+Robotics Engineer,3
 Appointment Scheduler,0
 Desk Clerk,0
 Document Processor,0
@@ -186,7 +186,7 @@ Ultrasound Technician,0
 Ultrasound Technologist,0
 Electrical Technician,0
 Flooring Installer,0
-Technical Marketing Engineer,2
+Technical Marketing Engineer,3
 Web Content Editor,0
 Engineering Project Manager,1
 Infrastructure Project Manager,1
@@ -202,21 +202,21 @@ Game Programmer,0
 Mortgage Loan Processor,0
 Computational Linguist,0
 Bank Teller,0
-Credit Analyst,0
+Credit Analyst,2
 Credit Officer,0
-Credit Risk Analyst,0
+Credit Risk Analyst,2
 Credit Specialist,0
-Financial Analyst,0
+Financial Analyst,2
 Financial Specialist,0
 Fund Accountant,0
 Payment Processor,0
 Payroll Processor,0
 Tax Examiner,0
-Clinical Trial Assistant,0
+Clinical Trial Assistant,4
 Cad Drafter,0
-Business Manager,3
+Business Manager,1
 Inpatient Coder,0
-Assistant Branch Manager,1
+Assistant Branch Manager,4
 Front Desk Attendant,0
 Front Office Clerk,0
 Administrative Officer,0
@@ -226,12 +226,12 @@ Help Desk,0
 Order Processor,0
 Title Clerk,0
 Warranty Clerk,0
-Crm Analyst,0
-Sales Operations Analyst,0
+Crm Analyst,2
+Sales Operations Analyst,2
 Freelance,0
 Technology,0
-Analog Design Engineer,2
-Automation Engineer,2
+Analog Design Engineer,3
+Automation Engineer,3
 Medical Claims Processor,0
 Logistics Clerk,0
 Shipping,0
@@ -239,48 +239,48 @@ Executive Producer,0
 .Net Developer,0
 Abap Developer,0
 Asp.Net Developer,0
-Associate Software Engineer,2
+Associate Software Engineer,3
 C Developer,0
 C# Developer,0
 Dot Net Developer,0
-Firmware Engineer,2
+Firmware Engineer,3
 Bookkeeper,0
 Bookkeeping,0
-Commercial Analyst,0
-Commission Analyst,0
-Corporate Financial Analyst,0
+Commercial Analyst,2
+Commission Analyst,2
+Corporate Financial Analyst,2
 Cost Accountant,0
-Derivatives Analyst,0
-Energy Analyst,0
-Environmental Analyst,0
-Equity Analyst,0
-Equity Research Analyst,0
+Derivatives Analyst,2
+Energy Analyst,2
+Environmental Analyst,2
+Equity Analyst,2
+Equity Research Analyst,2
 Equity Research Associate,0
-Finance Analyst,0
+Finance Analyst,2
 Finance Specialist,0
 Financial Auditor,0
 Forensic Accountant,0
 Certified Professional Coder,0
 Junior Java Developer,0
-Junior Software Engineer,2
-Operations Research Analyst,0
+Junior Software Engineer,3
+Operations Research Analyst,2
 Rpg Programmer,0
-Clinical Data Analyst,0
+Clinical Data Analyst,2
 Database Administrator,0
-Healthcare Data Analyst,0
+Healthcare Data Analyst,2
 Mainframe Programmer,0
 Oracle Database Developer,0
-Sql Data Analyst,0
+Sql Data Analyst,2
 Armored Truck Driver,0
 Correctional Officer,0
-Deputy Director,4
+Deputy Director,0
 Forensic Chemist,0
 Safety Consultant,0
 Security Dispatcher,0
 Cad Operator,0
 Cad Technician,0
 Game Artist,0
-Radiology Assistant,0
+Radiology Assistant,4
 Sonographer,0
 Ultrasonographer,0
 Vascular Sonographer,0
@@ -298,16 +298,16 @@ Electrical Drafter,0
 Structural Designer,0
 Medical Biller,0
 Sales Associate,0
-Business Banking Relationship Manager,3
+Business Banking Relationship Manager,1
 Janitor,0
 Autocad Drafter,0
 Assistant Director,4
-Executive Personal Assistant,0
+Executive Personal Assistant,4
 Pricing Specialist,0
 Ticket Agent,0
 Contract Specialist,0
 Freelancer,0
-Requirements Analyst,0
+Requirements Analyst,2
 Seo Consultant,0
 Seo Manager,1
 Seo Specialist,0
@@ -317,7 +317,7 @@ Healthcare Project Manager,1
 Product Manager,1
 Project Consultant,0
 Project Manager,1
-Customer Assistant,0
+Customer Assistant,4
 Drafter,0
 Junior Architect,0
 Space Planner,0
@@ -326,23 +326,23 @@ Urban Planner,0
 Insurance Sales,0
 Insurance Sales Representative,0
 Life Insurance Agent,0
-Java Software Engineer,2
+Java Software Engineer,3
 Java Web Developer,0
 Junior Developer,0
-Performance Analyst,0
-Risk Management Analyst,0
-Salesforce Business Analyst,3
-Data Analyst,0
+Performance Analyst,2
+Risk Management Analyst,2
+Salesforce Business Analyst,2
+Data Analyst,2
 Database Architect,0
-Health Data Analyst,0
+Health Data Analyst,2
 Sql Dba,0
 Sql Server Dba,0
 Shipping Clerk,0
 Timekeeper,0
 Administration,0
-Administrative Director,4
-Assistant Administrator,0
-Compliance Analyst,0
+Administrative Director,0
+Assistant Administrator,4
+Compliance Analyst,2
 Front Desk Coordinator,0
 Office Clerk,0
 Operations Clerk,0
@@ -351,7 +351,7 @@ Receiver,0
 Registration Clerk,0
 Registration Specialist,0
 Unit Secretary,0
-Healthcare Business Analyst,3
+Healthcare Business Analyst,2
 Surgery Scheduler,0
 Post Office,0
 Demand Planner,0
@@ -371,17 +371,17 @@ Computer Scientist,0
 Drupal Developer,0
 Java,0
 Java Developer,0
-Java Engineer,2
+Java Engineer,3
 Java Programmer,0
 Java Software Developer,0
 Home Inspector,0
-Biomedical Engineer,2
+Biomedical Engineer,3
 Biotechnology,0
-Environmental Engineer,2
+Environmental Engineer,3
 Industrial Organizational Psychologist,0
 Accounts Payable,0
 Auditor,0
-Budget Analyst,0
+Budget Analyst,2
 Collection Agent,0
 Collection Representative,0
 Collection Specialist,0
@@ -390,8 +390,8 @@ Compliance Auditor,0
 Cost Controller,0
 Credit Controller,0
 Debt Collector,0
-Exchange Engineer,2
-Financial Engineer,2
+Exchange Engineer,3
+Financial Engineer,3
 Financial Examiner,0
 Loan Closer,0
 Mortgage Closer,0
@@ -399,7 +399,7 @@ Mortgage Loan Closer,0
 Processor,0
 Trader,0
 Treasury Accountant,0
-Clinical Analyst,0
+Clinical Analyst,2
 Meter Reader,0
 Gas Station Attendant,0
 Lactation Consultant,0
@@ -411,25 +411,25 @@ Fingerprint Technician,0
 Forensic Examiner,0
 Forensic Scientist,0
 Intelligence,0
-Military Analyst,0
+Military Analyst,2
 Safety Coordinator,0
 Security Technician,0
 Skip Tracer,0
-Information Analyst,0
+Information Analyst,2
 Information Specialist,0
 Network Systems Administrator,0
-Senior Systems Engineer,2
-Software Engineer,2
+Senior Systems Engineer,3
+Software Engineer,3
 Systems Administrator,0
-Systems Analyst,0
+Systems Analyst,2
 Unix Administrator,0
 Unix System Administrator,0
 Vmware Administrator,0
 Windows Administrator,0
 Windows System Administrator,0
-Registered Dental Assistant,0
-Registered Medical Assistant,0
-Surgical Assistant,0
+Registered Dental Assistant,4
+Registered Medical Assistant,4
+Surgical Assistant,4
 Carpet Cleaner,0
 Custodian,0
 General Laborer,0
@@ -447,15 +447,15 @@ Compositor,0
 Fx Artist,0
 Game Developer,0
 Accessioner,0
-Autopsy Assistant,0
+Autopsy Assistant,4
 Certified Surgical Technologist,0
 Contact Tracing,0
-Director Of Nursing,4
-Design Engineer,2
-Business Management Consultant,3
+Director Of Nursing,0
+Design Engineer,3
+Business Management Consultant,0
 General Labor,0
 General Worker,0
-Tax Analyst,0
+Tax Analyst,2
 Appointment Setter,0
 Survey Technician,0
 Accountant,0
@@ -464,39 +464,39 @@ Loan Underwriter,0
 Tax Accountant,0
 Coding Specialist,0
 Biztalk Developer,0
-Report Analyst,0
-Revenue Cycle Analyst,0
+Report Analyst,2
+Revenue Cycle Analyst,2
 Cloud Architect,0
 Data Technician,0
 Database Specialist,0
-Financial Data Analyst,0
+Financial Data Analyst,2
 Sql Database Administrator,0
 Process Server,0
 Game Designer,0
 Embryologist,0
-Medical Office Assistant,0
+Medical Office Assistant,4
 Customs Broker,0
 Import Coordinator,0
 Import Specialist,0
 Merchandising Coordinator,0
 Purchaser,0
 Retail Buyer,0
-Assistant Producer,0
+Assistant Producer,4
 Communications Consultant,0
 Content Producer,0
 Clinical Project Manager,1
 Environmental Project Manager,1
 Clerk,0
 Commodity Buyer,0
-Infrastructure Analyst,0
+Infrastructure Analyst,2
 Landscape Architect,0
-Associate Creative Director,4
+Associate Creative Director,0
 Claims Manager,1
 Administration Manager,1
-Department Assistant,0
+Department Assistant,4
 Document Specialist,0
 Executive Administrator,0
-Front Desk Assistant,0
+Front Desk Assistant,4
 Implementation Specialist,0
 Avionics Technician,0
 Custodial Worker,0
@@ -504,32 +504,32 @@ Dock Worker,0
 Facilities Maintenance,0
 Fiber Optic Splicer,0
 Fiber Optic Technician,0
-Analyst,0
+Analyst,2
 Customer Care Representative,0
 Proposal Manager,1
 Sales Development Representative,0
 Mathematician,0
-Aerospace Engineer,2
+Aerospace Engineer,3
 Cad Designer,0
 Child Psychologist,0
 Criminalist,0
-Forensic Engineer,2
+Forensic Engineer,3
 Forensic Specialist,0
 Security Manager,1
 Edi Developer,0
-Embedded Software Engineer,2
-Financial Systems Analyst,0
-Fpga Design Engineer,2
-It Security Engineer,2
-Linux System Engineer,2
-Network Engineer,2
-Network Security Engineer,2
-Network Support Engineer,2
-Network Systems Engineer,2
-Senior Systems Analyst,0
-System Engineer,2
-Systems Engineer,2
-Business Controller,3
+Embedded Software Engineer,3
+Financial Systems Analyst,2
+Fpga Design Engineer,3
+It Security Engineer,3
+Linux System Engineer,3
+Network Engineer,3
+Network Security Engineer,3
+Network Support Engineer,3
+Network Systems Engineer,3
+Senior Systems Analyst,2
+System Engineer,3
+Systems Engineer,3
+Business Controller,0
 Delivery Manager,1
 Tax Associate,0
 Medical Administrative Specialist,0
@@ -538,7 +538,7 @@ Insurance Producer,0
 Specialist,0
 Contracts Manager,1
 Billing Manager,1
-Sourcing Analyst,0
+Sourcing Analyst,2
 Auto Sales,0
 Inside Sales Associate,0
 Inside Sales Representative,0
@@ -553,9 +553,9 @@ Nursing Attendant,0
 Traveling Nurse,0
 Bookseller,0
 Freelance Translator,0
-Applications Engineer,2
+Applications Engineer,3
 Digital Marketing,0
-Digital Marketing Analyst,0
+Digital Marketing Analyst,2
 Digital Marketing Consultant,0
 Digital Marketing Coordinator,0
 Digital Marketing Manager,1
@@ -565,12 +565,12 @@ Email Marketing Specialist,0
 Marketing Automation Specialist,0
 Marketing Consultant,0
 Marketing Operations Manager,1
-Social Media Analyst,0
+Social Media Analyst,2
 Social Media Consultant,0
 Social Media Marketing,0
 Vice President Of Marketing,0
 Vp Marketing,0
-Business Project Manager,3
+Business Project Manager,1
 Commercial Project Manager,1
 Implementation Project Manager,1
 Marketing Project Manager,1
@@ -581,16 +581,16 @@ Senior Product Manager,1
 Dealer,0
 Personal Shopper,0
 Store Shopper,0
-Electrical Engineer,2
+Electrical Engineer,3
 Fabrication Manager,1
 Quantity Surveyor,0
 Surveyor,0
 Commercial Underwriter,0
-Insurance Analyst,0
+Insurance Analyst,2
 Licensed Insurance Agent,0
 Property Claims Adjuster,0
 Healthcare Consultant,0
-Medical Administrative Assistant,0
+Medical Administrative Assistant,4
 Medical Consultant,0
 Medical Office Specialist,0
 Patient Account Representative,0
@@ -602,13 +602,13 @@ Professional Organizer,0
 Buyer Planner,0
 Export Specialist,0
 Gas Controller,0
-Logistics Assistant,0
+Logistics Assistant,4
 Materials Coordinator,0
 Procurement Specialist,0
-Purchasing Analyst,0
+Purchasing Analyst,2
 Service Manager,1
 Sourcing Specialist,0
-Assistant Media Planner,0
+Assistant Media Planner,4
 Broadcast Producer,0
 Communications Associate,0
 Digital Media Specialist,0
@@ -616,13 +616,13 @@ Video Coordinator,0
 Etl Tester,0
 Qa Tester,0
 Quality Assurance Tester,0
-Software Qa Engineer,2
+Software Qa Engineer,3
 Software Quality Assurance,0
-Software Quality Assurance Engineer,2
-Software Test Engineer,2
+Software Quality Assurance Engineer,3
+Software Test Engineer,3
 Software Tester,0
-Test Analyst,0
-Test Engineer,2
+Test Analyst,2
+Test Engineer,3
 Tester,0
 Java Consultant,0
 CPR Instructor,0
@@ -655,25 +655,25 @@ Senior Programmer,0
 Software Programmer,0
 Web Programmer,0
 Cognos Developer,0
-Pricing Analyst,0
-Sap Business Analyst,3
-Business Data Analyst,3
-Senior Design Engineer,2
+Pricing Analyst,2
+Sap Business Analyst,2
+Business Data Analyst,2
+Senior Design Engineer,3
 Ux Designer,0
-Hris Analyst,0
+Hris Analyst,2
 Talent Acquisition,0
 Talent Acquisition Manager,1
 Talent Acquisition Specialist,0
 Paralegal,0
 Title Examiner,0
 Fundraiser,0
-Underwriting Assistant,0
+Underwriting Assistant,4
 Analytical Scientist,0
 Biochemist,0
-Chemical Engineer,2
+Chemical Engineer,3
 Chemical Technician,0
 Telemetry Technician,0
-Actuarial Analyst,0
+Actuarial Analyst,2
 Bursar,0
 Cash Manager,1
 Compensation Manager,1
@@ -687,27 +687,27 @@ Mortgage Underwriter,0
 Tax Advisor,0
 Tax Consultant,0
 Tax Specialist,0
-Trading Analyst,0
+Trading Analyst,2
 Travel Manager,1
 Armed Security Officer,0
 Bouncer,0
 Clinical Trial Associate,0
-Fire Safety Director,4
+Fire Safety Director,0
 Fraud Investigator,0
 Intelligence Specialist,0
 Loss Prevention Officer,0
 Police Records Clerk,0
-Safety Director,4
+Safety Director,0
 Safety Inspector,0
 Security Specialist,0
 Surveillance Investigator,0
-Business Analyst,3
+Business Analyst,2
 Construction Estimator,0
 Crm Administrator,0
 Etl Informatica Developer,0
 Help Desk Technician,0
-It Engineer,2
-Linux Engineer,2
+It Engineer,3
+Linux Engineer,3
 Linux System Administrator,0
 Network Administrator,0
 Network Security Administrator,0
@@ -717,15 +717,15 @@ Security Architect,0
 Solution Architect,0
 System Administrator,0
 Systems Programmer,0
-Technical Support Analyst,0
+Technical Support Analyst,2
 Technical Support Specialist,0
-Technology Analyst,0
-Vmware Engineer,2
-Wireless Network Engineer,2
-Mobile Engineer,2
-R&D Engineer,2
-Research And Development Engineer,2
-Wireless Engineer,2
+Technology Analyst,2
+Vmware Engineer,3
+Wireless Network Engineer,3
+Mobile Engineer,3
+R&D Engineer,3
+Research And Development Engineer,3
+Wireless Engineer,3
 Administrative Manager,1
 Credentialing Coordinator,0
 Credentialing Specialist,0
@@ -752,8 +752,8 @@ Blackjack Dealer,0
 Casino Dealer,0
 Optician,0
 Senior Pharmacy Technician,0
-Surgical First Assistant,0
-Surgical Physician Assistant,0
+Surgical First Assistant,4
+Surgical Physician Assistant,4
 Cabin Cleaner,0
 Cable Installation Technician,0
 Cable Technician,0
@@ -773,9 +773,9 @@ Computer Programmer,0
 Information Architect,0
 Clinic Manager,1
 Tax Auditor,0
-Business Associate,3
+Business Associate,0
 Travel Rn,0
-Business Process Manager,3
+Business Process Manager,1
 Statistician,0
 Digital Account Executive,0
 Inside Sales Executive,0
@@ -785,22 +785,22 @@ Outside Sales Representative,0
 Pre Sales Consultant,0
 Regional Sales Representative,0
 Sales Account Manager,1
-Sales Analyst,0
+Sales Analyst,2
 Sales Executive,0
 Sales Marketing,0
 Sales Support Specialist,0
 Agency Nurse,0
 Er Nurse,0
 Nurse Rn,0
-Nursing Assistant,0
+Nursing Assistant,4
 Spanish Interpreter,0
-Cad Engineer,2
-Hardware Engineer,2
+Cad Engineer,3
+Hardware Engineer,3
 Restaurant Host,0
 Child Life Specialist,0
 Early Intervention Specialist,0
 Interior Decorator,0
-Criminal Analyst,0
+Criminal Analyst,2
 Evidence Technician,0
 Loss Prevention Investigator,0
 Private Investigator,0
@@ -808,19 +808,19 @@ Safety Supervisor,0
 Security Coordinator,0
 Automotive Service Technician,0
 Broadband Technician,0
-Computer Systems Analyst,0
-Control Engineer,2
-Embedded Engineer,2
+Computer Systems Analyst,2
+Control Engineer,3
+Embedded Engineer,3
 Help Desk Administrator,0
-Help Desk Analyst,0
+Help Desk Analyst,2
 Integration Developer,0
 It Recruiter,0
 Junior Web Developer,0
 Linux Administrator,0
-Middleware Engineer,2
-Network Security Analyst,0
-Operations Engineer,2
-Sas Analyst,0
+Middleware Engineer,3
+Network Security Analyst,2
+Operations Engineer,3
+Sas Analyst,2
 Sas Programmer,0
 Senior Systems Administrator,0
 Sharepoint Developer,0
@@ -828,29 +828,29 @@ Technical Support,0
 Technical Support Agent,0
 Technical Support Representative,0
 Technology Specialist,0
-Virtualization Engineer,2
+Virtualization Engineer,3
 Wireless Consultant,0
-Financial Planning Analyst,0
-Kyc Analyst,0
-Product Analyst,0
+Financial Planning Analyst,2
+Kyc Analyst,2
+Product Analyst,2
 Research Technician,0
-Sap Analyst,0
+Sap Analyst,2
 Clinical Data Manager,1
 Enterprise Data Architect,0
-Junior Data Analyst,0
+Junior Data Analyst,2
 Oracle Database Administrator,0
-Senior Data Analyst,0
+Senior Data Analyst,2
 Windows Server Administrator,0
 Digital Designer,0
 Visual Designer,0
 Recruiter,0
 Recruitment Specialist,0
 Senior Recruiter,0
-Paralegal Assistant,0
+Paralegal Assistant,4
 Patent Paralegal,0
 Personal Injury Paralegal,0
 Trademark Paralegal,0
-Healthcare Analyst,0
+Healthcare Analyst,2
 Medical Administrator,0
 Medical Office Administrator,0
 Medical Records Clerk,0
@@ -862,12 +862,12 @@ Inventory Controller,0
 Inventory Coordinator,0
 Logistics Associate,0
 Shipping Supervisor,0
-Assistant Account Executive,0
+Assistant Account Executive,4
 Associate Editor,0
 Broadcast Technician,0
 Content Editor,0
 Transcriptionist,0
-Qa Engineer,2
+Qa Engineer,3
 Warehouse Packer,0
 Warehouse Picker,0
 Warehouse Selector,0
@@ -875,41 +875,41 @@ Management Consulting,0
 Principal Consultant,0
 Senior Consultant,0
 Strategy Consultant,0
-Assistant Brand Manager,1
-Assistant Marketing Manager,1
+Assistant Brand Manager,4
+Assistant Marketing Manager,4
 Associate Brand Manager,1
 Associate Marketing Manager,1
 Brand Manager,1
 Brand Marketing Manager,1
-Director Of Digital Marketing,4
-Director Of Marketing,4
+Director Of Digital Marketing,0
+Director Of Marketing,0
 Marketing,0
 Marketing Account Executive,0
 Marketing Account Manager,1
-Marketing Director,4
+Marketing Director,0
 Marketing Executive,0
 Marketing Manager,1
 Senior Marketing Manager,1
 Social Media Marketing Manager,1
 Agile Project Manager,1
-Director Of Product Management,4
-Pmo Analyst,0
+Director Of Product Management,0
+Pmo Analyst,2
 Product Development Manager,1
-Project Analyst,0
-Project Control Analyst,0
+Project Analyst,2
+Project Control Analyst,2
 Project Management Consultant,0
-Director Of Ecommerce,4
+Director Of Ecommerce,0
 Ecommerce Manager,1
 Merchandise Buyer,0
 Autocad Draftsman,0
 Concrete Pump Operator,0
 Land Surveyor,0
-Claims Analyst,0
+Claims Analyst,2
 Claims Investigator,0
 Insurance Appraiser,0
 Insurance Investigator,0
 Insurance Underwriter,0
-Band Director,4
+Band Director,0
 Education Specialist,0
 Environmental Educator,0
 Training Manager,1
@@ -919,25 +919,25 @@ Dietetic Technician,0
 Drug Safety Associate,0
 Formulation Scientist,0
 Healthcare Management,0
-Escrow Assistant,0
+Escrow Assistant,4
 Biomedical Technician,0
 Chemical Lab Technician,0
 Laboratory Technician,0
 Radiographer,0
-Research Analyst,0
-Account Analyst,0
-Accounting Analyst,0
-Accounts Payable Analyst,0
+Research Analyst,2
+Account Analyst,2
+Accounting Analyst,2
+Accounts Payable Analyst,2
 Billing Clerk,0
 Billing Coordinator,0
 Billing Representative,0
 Billing Specialist,0
 Billing Supervisor,0
 Finance Administrator,0
-Finance Assistant,0
+Finance Assistant,4
 Finance Associate,0
 Finance Consultant,0
-Financial Assistant,0
+Financial Assistant,4
 Financial Associate,0
 Financial Coordinator,0
 Financial Representative,0
@@ -945,7 +945,7 @@ Financial Services Representative,0
 Loan Specialist,0
 Staff Auditor,0
 Tax Manager,1
-Valuation Analyst,0
+Valuation Analyst,2
 Clinical Coordinator,0
 Clinical Support Specialist,0
 Certified Welding Inspector,0
@@ -961,9 +961,9 @@ Manufacturing Associate,0
 Operator,0
 Order Selector,0
 Scanner,0
-Pcb Design Engineer,2
+Pcb Design Engineer,3
 Pcb Designer,0
-Service Engineer,2
+Service Engineer,3
 Document Control Specialist,0
 Facility Coordinator,0
 Implementation Coordinator,0
@@ -998,8 +998,8 @@ Pediatric Oncology Nurse,0
 Chief Investment Officer,0
 Nurse Practitioner,0
 Audio Technician,0
-Devops Engineer,2
-Tax Director,4
+Devops Engineer,3
+Tax Director,0
 Clinical Nurse Manager,1
 Disability Case Manager,1
 Insurance Sales Manager,1
@@ -1008,18 +1008,18 @@ Medical Records Specialist,0
 Content Developer,0
 Corporate Trainer,0
 Customer Account Manager,1
-Division Order Analyst,0
-Inventory Analyst,0
+Division Order Analyst,2
+Inventory Analyst,2
 Lot Attendant,0
 Operation Specialist,0
 Peoplesoft Consultant,0
-Process Analyst,0
-Process Improvement Engineer,2
-Procurement Analyst,0
+Process Analyst,2
+Process Improvement Engineer,3
+Procurement Analyst,2
 Social Media Strategist,0
 Strategic Sourcing Manager,1
 Advertising Sales Representative,0
-Business Development Representative,3
+Business Development Representative,0
 Field Sales Representative,0
 Field Service Representative,0
 Group Sales Manager,1
@@ -1032,24 +1032,24 @@ Route Sales Representative,0
 Sales Administrator,0
 Sales Advisor,0
 Sales Representative,0
-Assistant Nurse Manager,1
-Certified Nurse Assistant,0
+Assistant Nurse Manager,4
+Certified Nurse Assistant,4
 Graduate Nurse,0
 Neonatal Nurse,0
-Nurse Assistant,0
+Nurse Assistant,4
 Pediatric Nurse,0
 Field Service Technician,0
 Regulatory Affairs Associate,0
-Aeronautical Engineer,2
-Agricultural Engineer,2
-Antenna Engineer,2
-Avionics Engineer,2
-Cfd Engineer,2
-Electrical Design Engineer,2
+Aeronautical Engineer,3
+Agricultural Engineer,3
+Antenna Engineer,3
+Avionics Engineer,3
+Cfd Engineer,3
+Electrical Design Engineer,3
 Electrical Designer,0
-Electronics Engineer,2
-Fea Engineer,2
-Hvac Design Engineer,2
+Electronics Engineer,3
+Fea Engineer,3
+Hvac Design Engineer,3
 Lobby Attendant,0
 Night Auditor,0
 Reservation Agent,0
@@ -1065,21 +1065,21 @@ Youth Development Specialist,0
 Armed Guard,0
 Armed Security,0
 Bodyguard,0
-Crime Analyst,0
+Crime Analyst,2
 Intelligence Officer,0
 Loss Prevention,0
 Personnel Security Specialist,0
 Privacy Officer,0
 Public Affairs Specialist,0
-Safety Assistant,0
-Bi Analyst,0
-Citrix Engineer,2
+Safety Assistant,4
+Bi Analyst,2
+Citrix Engineer,3
 Desktop Support,0
 Desktop Support Specialist,0
 Help Desk Specialist,0
 It Architect,0
 It Support,0
-It Support Analyst,0
+It Support Analyst,2
 Junior Systems Administrator,0
 Network Architect,0
 Network Specialist,0
@@ -1087,40 +1087,40 @@ Network Support Technician,0
 Performance Tester,0
 Sap Administrator,0
 Sap Security Consultant,0
-Senior Network Engineer,2
-Service Desk Analyst,0
+Senior Network Engineer,3
+Service Desk Analyst,2
 Sharepoint Consultant,0
 Solutions Architect,0
 Systems Architect,0
 Tech Support,0
 Technology Coordinator,0
-Telecommunications Analyst,0
+Telecommunications Analyst,2
 Unloader,0
 Warehouse Operator,0
-Business Consultant,3
+Business Consultant,0
 Process Improvement Specialist,0
 Professional Services Consultant,0
 Solutions Consultant,0
 Strategic Consultant,0
 Call Center,0
 Circulation Manager,1
-Market Analyst,0
-Market Research Analyst,0
+Market Analyst,2
+Market Research Analyst,2
 Market Researcher,0
-Marketing Analyst,0
-Marketing Research Analyst,0
+Marketing Analyst,2
+Marketing Research Analyst,2
 Media Buyer,0
 Unit Coordinator,0
 Architectural Project Manager,1
-Assistant Product Manager,1
+Assistant Product Manager,4
 Associate Project Manager,1
 It Project Coordinator,0
 Junior Project Manager,1
 Product Developer,0
 Project Administrator,0
 Project Coordinator,0
-Project Director,4
-Project Management Assistant,0
+Project Director,0
+Project Management Assistant,4
 Project Officer,0
 Project Scheduler,0
 Project Supervisor,0
@@ -1138,7 +1138,7 @@ Independent Contractor,0
 Installation Coordinator,0
 Pipeline Controller,0
 Shop Foreman,0
-Claim Analyst,0
+Claim Analyst,2
 Claim Examiner,0
 Claims,0
 Claims Adjuster,0
@@ -1150,16 +1150,16 @@ Php Web Developer,0
 Sap Abap Developer,0
 Software Trainer,0
 Bi Developer,0
-Business Developer,3
-Business Objects Developer,3
-Cost Analyst,0
-Erp Analyst,0
+Business Developer,0
+Business Objects Developer,0
+Cost Analyst,2
+Erp Analyst,2
 Field Investigator,0
-Fraud Analyst,0
-Junior Financial Analyst,0
+Fraud Analyst,2
+Junior Financial Analyst,2
 Loss Prevention Detective,0
-Patent Analyst,0
-Planning Analyst,0
+Patent Analyst,2
+Planning Analyst,2
 Clinical Data Associate,0
 Clinical Data Coordinator,0
 Cloud Consultant,0
@@ -1167,18 +1167,18 @@ Data Center Manager,1
 Data Specialist,0
 Database Manager,1
 Gis Specialist,0
-Marketing Data Analyst,0
+Marketing Data Analyst,2
 Oracle Consultant,0
-Server Engineer,2
+Server Engineer,3
 Ui Designer,0
 User Interface Designer,0
 Web Designer,0
 Compensation Specialist,0
-Hr Analyst,0
+Hr Analyst,2
 Payroll Administrator,0
 Placement Coordinator,0
 Public Relations,0
-Recruiting Assistant,0
+Recruiting Assistant,4
 Recruiting Coordinator,0
 Recruitment Manager,1
 Sales Recruiter,0
@@ -1187,19 +1187,19 @@ Staffing Coordinator,0
 Staffing Manager,1
 Staffing Specialist,0
 Technology Trainer,0
-Workforce Management Analyst,0
-Assistant District Attorney,0
+Workforce Management Analyst,2
+Assistant District Attorney,4
 Associate Attorney,0
 Contract Attorney,0
 Defense Attorney,0
 Immigration Attorney,0
 Immigration Paralegal,0
-Legal Administrative Assistant,0
-Legal Assistant,0
+Legal Administrative Assistant,4
+Legal Assistant,4
 Legal Secretary,0
 Litigation Associate,0
 Litigation Attorney,0
-Litigation Legal Assistant,0
+Litigation Legal Assistant,4
 Litigation Paralegal,0
 Real Estate Paralegal,0
 Senior Paralegal,0
@@ -1209,36 +1209,36 @@ Fundraising Manager,1
 Outreach Coordinator,0
 Volunteer,0
 Event Producer,0
-Sports Information Director,4
+Sports Information Director,0
 Mechanical Designer,0
-Mechatronics Engineer,2
-Noc Engineer,2
-Office Engineer,2
-Operating Engineer,2
-Process Control Engineer,2
-Procurement Engineer,2
-Project Engineer,2
-Resident Engineer,2
-Rf Design Engineer,2
-Rf Engineer,2
-Site Engineer,2
-Storage Engineer,2
-Supplier Quality Engineer,2
-Support Engineer,2
-Telecom Engineer,2
-Voip Engineer,2
+Mechatronics Engineer,3
+Noc Engineer,3
+Office Engineer,3
+Operating Engineer,3
+Process Control Engineer,3
+Procurement Engineer,3
+Project Engineer,3
+Resident Engineer,3
+Rf Design Engineer,3
+Rf Engineer,3
+Site Engineer,3
+Storage Engineer,3
+Supplier Quality Engineer,3
+Support Engineer,3
+Telecom Engineer,3
+Voip Engineer,3
 Welding,0
-Business Coordinator,3
+Business Coordinator,0
 Documentation Specialist,0
 Facilities Administrator,0
 Front Office Coordinator,0
 Incident Manager,1
-Maintenance Director,4
+Maintenance Director,0
 Production Clerk,0
 Records Manager,1
 Scheduling Coordinator,0
-Technical Assistant,0
-Virtual Assistant,0
+Technical Assistant,4
+Virtual Assistant,4
 Box Truck Driver,0
 Concrete Truck Driver,0
 Courier Driver,0
@@ -1256,7 +1256,7 @@ Shuttle Driver,0
 Tow Truck Driver,0
 Caterer,0
 Catering Manager,1
-Food Service Director,4
+Food Service Director,0
 Front Desk Associate,0
 Guest Services,0
 Hotel Night Auditor,0
@@ -1274,14 +1274,14 @@ Computational Biologist,0
 Environmental Chemist,0
 Environmental Scientist,0
 Lab Technologist,0
-Laboratory Analyst,0
+Laboratory Analyst,2
 Radiology Technician,0
 Research Associate,0
 Accounting Auditor,0
 Accounts Payable Specialist,0
 Accounts Receivable Specialist,0
 Audit Associate,0
-Billing Analyst,0
+Billing Analyst,2
 Budget Manager,1
 Budget Officer,0
 CPA,0
@@ -1292,10 +1292,10 @@ Collection Supervisor,0
 Credit Counselor,0
 Financial Counselor,0
 Financial Reporting Manager,1
-Investment Analyst,0
-Loan Analyst,0
-Portfolio Analyst,0
-Treasury Analyst,0
+Investment Analyst,2
+Loan Analyst,2
+Portfolio Analyst,2
+Treasury Analyst,2
 Underwriter,0
 Case Manager,1
 Clinical Supervisor,0
@@ -1319,7 +1319,7 @@ Regulatory Specialist,0
 Cargo Agent,0
 Inventory Planner,0
 Logistics Administrator,0
-Logistics Analyst,0
+Logistics Analyst,2
 Logistics Planner,0
 Purchasing Specialist,0
 Senior Buyer,0
@@ -1334,7 +1334,7 @@ Creative Producer,0
 Proofreader,0
 Sound Technician,0
 Technical Designer,0
-Qa Analyst,0
+Qa Analyst,2
 Clinical Nurse Educator,0
 Computer Teacher,0
 Early Childhood Education,0
@@ -1349,7 +1349,7 @@ Training Coordinator,0
 Training Supervisor,0
 Agent,0
 Aircraft Painter,0
-Art Director,4
+Art Director,0
 Assistant Art Director,4
 Character Artist,0
 Concept Artist,0
@@ -1361,10 +1361,10 @@ Industrial Painter,0
 Technical Writer,0
 Ticketing Agent,0
 Video Game Tester,0
-Anesthesiologist Assistant,0
+Anesthesiologist Assistant,4
 Cardiac Sonographer,0
 Cardiovascular Technologist,0
-Certified Occupational Therapy Assistant,0
+Certified Occupational Therapy Assistant,4
 Certified Pharmacy Technician,0
 Clinical Exercise Physiologist,0
 Dosimetrist,0
@@ -1403,13 +1403,13 @@ Parking Enforcement Officer,0
 Sewing,0
 Theater Manager,1
 Watchmaker,0
-Assistant Buyer,0
+Assistant Buyer,4
 Associate Buyer,0
 Automation Technician,0
 Cmm Programmer,0
 Controls Technician,0
 Inventory,0
-Manufacturing Analyst,0
+Manufacturing Analyst,2
 Manufacturing Technician,0
 Material Handler,0
 Order Builder,0
@@ -1418,8 +1418,8 @@ Order Puller,0
 Picker,0
 Production Operator,0
 Deli Manager,1
-Director Of Development,4
-Business Development Officer,3
+Director Of Development,0
+Business Development Officer,0
 Field Representative,0
 Dialysis Nurse,0
 Oncology Nurse,0
@@ -1431,7 +1431,7 @@ Auto Body Technician,0
 Dental Office Manager,1
 Configuration Manager,1
 Clinical Nurse,0
-Events Assistant,0
+Events Assistant,4
 Transportation Dispatcher,0
 Bar Manager,1
 Family Nurse Practitioner,0
@@ -1444,11 +1444,11 @@ Reservations Agent,0
 Restaurant General Manager,1
 Restaurant Supervisor,0
 Server,0
-Server Assistant,0
-Travel Assistant,0
+Server Assistant,4
+Travel Assistant,4
 Behavioral Technician,0
 Nursing Home Administrator,0
-Youth Program Director,4
+Youth Program Director,0
 Air Marshal,0
 Court Security Officer,0
 Detective,0
@@ -1456,16 +1456,16 @@ Forensic Investigator,0
 Gunsmith,0
 Investigator,0
 Security Supervisor,0
-Cisco Engineer,2
-Cisco Network Engineer,2
+Cisco Engineer,3
+Cisco Network Engineer,3
 Computer Operator,0
-Controls Engineer,2
+Controls Engineer,3
 Digital Account Manager,1
-Edi Analyst,0
-Information Security Engineer,2
-Integration Analyst,0
+Edi Analyst,2
+Information Security Engineer,3
+Integration Analyst,2
 It Specialist,0
-Junior Network Engineer,2
+Junior Network Engineer,3
 Network Consultant,0
 Network Support Specialist,0
 Salesforce Administrator,0
@@ -1473,20 +1473,20 @@ Sap Functional Consultant,0
 Support Technician,0
 Crisis Counselor,0
 Mechanical Drafter,0
-Production Engineer,2
-Security Engineer,2
-Simulation Engineer,2
+Production Engineer,3
+Security Engineer,3
+Simulation Engineer,3
 Underground Miner,0
-Unix Engineer,2
-Verification Engineer,2
-Voice Engineer,2
+Unix Engineer,3
+Verification Engineer,3
+Voice Engineer,3
 Chief Administrative Officer,0
 Emergency Management Specialist,0
 Loss Prevention Manager,1
 Proposal Coordinator,0
 Provider Relations Representative,0
 Secretary,0
-Trading Assistant,0
+Trading Assistant,4
 Volunteer Coordinator,0
 Car Driver,0
 Carrier,0
@@ -1496,7 +1496,7 @@ Courier,0
 Forklift Driver,0
 Tanker,0
 Taxi Driver,0
-Assistant Restaurant Manager,1
+Assistant Restaurant Manager,4
 Banquet Captain,0
 Brewer,0
 Chef Manager,1
@@ -1515,14 +1515,14 @@ Analytical Chemist,0
 Cytogenetic Technologist,0
 Food Scientist,0
 Food Technologist,0
-Laboratory Assistant,0
+Laboratory Assistant,4
 Patent Agent,0
 Taxonomist,0
 Accounting Consultant,0
 Accounting Technician,0
 Accounts Receivable Clerk,0
 Appraiser,0
-Broker Assistant,0
+Broker Assistant,4
 Commercial Loan Officer,0
 Commodity Trader,0
 Corporate Accountant,0
@@ -1532,13 +1532,13 @@ Financial Accountant,0
 Fund Accounting Manager,1
 General Accountant,0
 General Ledger Accountant,0
-Investment Banking Analyst,0
-Private Equity Analyst,0
-Risk Analyst,0
+Investment Banking Analyst,2
+Private Equity Analyst,2
+Risk Analyst,2
 Treasury Manager,1
 Clinic Receptionist,0
 Dental Receptionist,0
-Front Office Assistant,0
+Front Office Assistant,4
 Yard Jockey,0
 Associate Consultant,0
 Consultant,0
@@ -1549,16 +1549,16 @@ Product Demonstrator,0
 Promotions Manager,1
 Purchasing Agent,0
 Special Events Coordinator,0
-Assistant Project Manager,1
+Assistant Project Manager,4
 Associate Product Manager,1
-Product Director,4
+Product Director,0
 Product Owner,0
 Project Estimator,0
 Project Lead,0
 Project Leader,0
 Project Management Specialist,0
 Inventory Specialist,0
-Merchandising Assistant,0
+Merchandising Assistant,4
 Stock Manager,1
 Architectural Drafter,0
 Drilling Supervisor,0
@@ -1599,29 +1599,29 @@ Prepress Technician,0
 Telecom Technician,0
 Upholsterer,0
 Wire Technician,0
-Assistant Designer,0
+Assistant Designer,4
 Cnc Operator,0
 Inventory Associate,0
 Inventory Clerk,0
 Lathe Operator,0
-Manufacturing Process Engineer,2
+Manufacturing Process Engineer,3
 Night Stocker,0
 Overnight Stocker,0
 Penetration Tester,0
 Peoplesoft Developer,0
-Programmer Analyst,0
+Programmer Analyst,2
 Salesforce Developer,0
 Sharepoint Administrator,0
-Business Development Analyst,3
-Business Development Associate,3
-Business Development Specialist,3
-Financial Reporting Analyst,0
-Financial Risk Analyst,0
-Gis Analyst,0
-Program Analyst,0
-Transportation Analyst,0
+Business Development Analyst,2
+Business Development Associate,0
+Business Development Specialist,0
+Financial Reporting Analyst,2
+Financial Risk Analyst,2
+Gis Analyst,2
+Program Analyst,2
+Transportation Analyst,2
 Data Manager,1
-Geospatial Analyst,0
+Geospatial Analyst,2
 Gis Technician,0
 Oracle Dba,0
 Graphics Designer,0
@@ -1636,20 +1636,20 @@ Training Specialist,0
 Corporate Paralegal,0
 Juvenile Probation Officer,0
 Legal Receptionist,0
-Legislative Assistant,0
+Legislative Assistant,4
 Patent Examiner,0
 Family Support Specialist,0
 Family Support Worker,0
 Field Organizer,0
 Organizer,0
-Business Partner,3
-Operations Analyst,0
+Business Partner,0
+Operations Analyst,2
 Strategic Planner,0
 Strategist,0
-Workforce Analyst,0
-Business Development Consultant,3
-Business Development Director,3
-Business Development Manager,3
+Workforce Analyst,2
+Business Development Consultant,0
+Business Development Director,0
+Business Development Manager,1
 Client Manager,1
 Commercial Account Manager,1
 Commercial Sales Manager,1
@@ -1666,18 +1666,18 @@ Nursing,0
 Staff Nurse,0
 Environmental Specialist,0
 Staffing Recruiter,0
-Aircraft Engineer,2
-Asic Design Engineer,2
-Circuit Design Engineer,2
-Dsp Engineer,2
-Field Application Engineer,2
-Field Service Engineer,2
-Ic Design Engineer,2
-Integration Engineer,2
+Aircraft Engineer,3
+Asic Design Engineer,3
+Circuit Design Engineer,3
+Dsp Engineer,3
+Field Application Engineer,3
+Field Service Engineer,3
+Ic Design Engineer,3
+Integration Engineer,3
 Chemistry Tutor,0
 Childcare Teacher,0
 Computer Science Tutor,0
-Director Of Education,4
+Director Of Education,0
 Grant Coordinator,0
 Hvac Instructor,0
 Instructor,0
@@ -1687,7 +1687,7 @@ Vocational Counselor,0
 Clinical Research Coordinator,0
 Clinical Research Manager,1
 Health Coach,0
-Lab Assistant,0
+Lab Assistant,4
 Medical Laboratory Scientist,0
 Medical Laboratory Technician,0
 Medical Laboratory Technologist,0
@@ -1717,23 +1717,23 @@ Packaging,0
 Communications Technician,0
 Insurance Specialist,0
 Representative,0
-Business Continuity Manager,3
+Business Continuity Manager,1
 Channel Sales Manager,1
 Regional Manager,1
 Butcher,0
-Director Of Finance,4
+Director Of Finance,0
 Infusion Nurse,0
 Psychiatric Nurse Practitioner,0
 Care Manager,1
 Computer Support Specialist,0
-Cyber Security Engineer,2
+Cyber Security Engineer,3
 Front Desk Supervisor,0
 Administrative Services Manager,1
 Chief Risk Officer,0
-Business Administrator,3
+Business Administrator,0
 Information Technology Manager,1
 Knowledge Manager,1
-Management Analyst,0
+Management Analyst,2
 Management Consultant,0
 Managing Consultant,0
 Process Consultant,0
@@ -1745,7 +1745,7 @@ Strategy Manager,1
 Traffic Manager,1
 Transportation Manager,1
 Channel Manager,1
-Director Of Business Development,3
+Director Of Business Development,0
 Inside Sales Manager,1
 Parts Advisor,0
 Product Trainer,0
@@ -1765,43 +1765,43 @@ Interviewer,0
 Operations Specialist,0
 Production Coordinator,0
 Risk Manager,1
-Component Engineer,2
-Electronic Engineer,2
-Energy Engineer,2
-Equipment Engineer,2
-Failure Analysis Engineer,2
-Hvac Engineer,2
-Material Engineer,2
-Mechanical Design Engineer,2
-Mechanical Engineer,2
-Metallurgical Engineer,2
-Osp Engineer,2
-Performance Test Engineer,2
-Physical Design Engineer,2
-Planning Engineer,2
-Principal Electrical Engineer,2
-Principal Engineer,2
-Principal Mechanical Engineer,2
-Process Engineer,2
-Product Engineer,2
-Professional Engineer,2
-Propulsion Engineer,2
-Satellite Engineer,2
-Senior Civil Engineer,2
-Senior Electrical Engineer,2
-Senior Engineer,2
-Senior Mechanical Design Engineer,2
-Senior Mechanical Engineer,2
-Solar Engineer,2
-Stress Engineer,2
-Structural Design Engineer,2
-Structural Engineer,2
-Technical Engineer,2
-Tooling Engineer,2
-Validation Engineer,2
+Component Engineer,3
+Electronic Engineer,3
+Energy Engineer,3
+Equipment Engineer,3
+Failure Analysis Engineer,3
+Hvac Engineer,3
+Material Engineer,3
+Mechanical Design Engineer,3
+Mechanical Engineer,3
+Metallurgical Engineer,3
+Osp Engineer,3
+Performance Test Engineer,3
+Physical Design Engineer,3
+Planning Engineer,3
+Principal Electrical Engineer,3
+Principal Engineer,3
+Principal Mechanical Engineer,3
+Process Engineer,3
+Product Engineer,3
+Professional Engineer,3
+Propulsion Engineer,3
+Satellite Engineer,3
+Senior Civil Engineer,3
+Senior Electrical Engineer,3
+Senior Engineer,3
+Senior Mechanical Design Engineer,3
+Senior Mechanical Engineer,3
+Solar Engineer,3
+Stress Engineer,3
+Structural Design Engineer,3
+Structural Engineer,3
+Technical Engineer,3
+Tooling Engineer,3
+Validation Engineer,3
 Building Maintenance,0
 Building Manager,1
-Business Office Manager,3
+Business Office Manager,1
 Enrolled Agent,0
 Facility Manager,1
 Facility Supervisor,0
@@ -1813,7 +1813,7 @@ Production Controller,0
 Program Coordinator,0
 Registrar,0
 Scheduler,0
-Service Assistant,0
+Service Assistant,4
 Support Coordinator,0
 Value Stream Manager,1
 Chauffeur,0
@@ -1822,15 +1822,15 @@ Forklift Operator,0
 Lift Operator,0
 Packer,0
 Personal Driver,0
-Assistant Cook,0
+Assistant Cook,4
 Cafe Manager,1
 Catering Coordinator,0
 Catering Sales Manager,1
 Club Manager,1
 Coffee Shop Manager,1
 Cook,0
-Director Of Events,4
-Director Of Food And Beverage,4
+Director Of Events,0
+Director Of Food And Beverage,0
 Executive Pastry Chef,0
 Food And Beverage Manager,1
 Food Broker,0
@@ -1839,7 +1839,7 @@ Food Services Manager,1
 Guest Relations Manager,1
 Guest Services Manager,1
 Hospitality Manager,1
-Hotel Assistant Manager,1
+Hotel Assistant Manager,4
 Hotel Concierge,0
 Hotel Housekeeping,0
 Hotel Manager,1
@@ -1854,9 +1854,9 @@ Poker Dealer,0
 Prep Cook,0
 Resort Manager,1
 Restaurant,0
-Restaurant Assistant Manager,1
+Restaurant Assistant Manager,4
 Restaurant Manager,1
-Service Director,4
+Service Director,0
 Slot Attendant,0
 Table Games Dealer,0
 Valet,0
@@ -1865,24 +1865,24 @@ Certified Home Health Aide,0
 Funeral Arranger,0
 Funeral Attendant,0
 Home Health Care,0
-Preschool Director,4
+Preschool Director,0
 Armorer,0
 Correction Officer,0
-Director Of Security,4
+Director Of Security,0
 Head Of Security,0
-Security Director,4
+Security Director,0
 Administrator,0
-Business Intelligence Consultant,3
-Clinical Systems Analyst,0
+Business Intelligence Consultant,0
+Clinical Systems Analyst,2
 Communication Technician,0
 Crm Manager,1
 Desktop Administrator,0
-Desktop Support Engineer,2
-It Analyst,0
+Desktop Support Engineer,3
+It Analyst,2
 It Consultant,0
 It Support Specialist,0
 Netsuite Administrator,0
-Network Analyst,0
+Network Analyst,2
 Network Designer,0
 Network Technician,0
 Pc Specialist,0
@@ -1890,7 +1890,7 @@ Programming,0
 Sap Consultant,0
 Service Desk Technician,0
 Support Specialist,0
-Technical Business Analyst,3
+Technical Business Analyst,2
 Technical Support Manager,1
 Technology Manager,1
 Telecommunications,0
@@ -1901,42 +1901,42 @@ Clinical Therapist,0
 Family Counselor,0
 Youth Counselor,0
 Asset Manager,1
-Assistant Property Manager,1
+Assistant Property Manager,4
 Broker,0
 Foreclosure Specialist,0
-Property Management Assistant,0
+Property Management Assistant,4
 Arborist,0
-Assistant Librarian,0
+Assistant Librarian,4
 Cartographer,0
 Chemist,0
 Clinical Laboratory Scientist,0
 Clinical Laboratory Technician,0
 Clinical Laboratory Technologist,0
-Dna Analyst,0
+Dna Analyst,2
 Entomologist,0
 Environmental Technician,0
 Epidemiologist,0
 Formulation Chemist,0
 Geoscientist,0
 Histotechnician,0
-Lab Analyst,0
+Lab Analyst,2
 Microbiology,0
 Phlebotomist,0
 Research Administrator,0
 Research Coordinator,0
-Research Director,4
+Research Director,0
 Science Writer,0
 Scientific Writer,0
 Account Administrator,0
-Accounting Assistant,0
+Accounting Assistant,4
 Accounting Associate,0
 Accounting Specialist,0
-Accounts Payable Assistant,0
+Accounts Payable Assistant,4
 Accounts Payable Clerk,0
-Assistant Bookkeeper,0
-Audit Director,4
+Assistant Bookkeeper,4
+Audit Director,0
 Bankruptcy Specialist,0
-Billing Assistant,0
+Billing Assistant,4
 Commercial Lender,0
 Financial Aid Advisor,0
 Financial Officer,0
@@ -1944,20 +1944,20 @@ Hedge Fund Accountant,0
 Investment Accountant,0
 Investment Associate,0
 Investment Banking Associate,0
-Loan Assistant,0
+Loan Assistant,4
 Loan Officer,0
 Mortgage Broker,0
 Mortgage Loan Officer,0
 Payroll Clerk,0
 Private Equity Associate,0
-Reconciliation Analyst,0
-Tax Assistant,0
+Reconciliation Analyst,2
+Tax Assistant,4
 Teller,0
 Trust Accountant,0
 Underwriting Manager,1
 Vault Teller,0
 Admitting Clerk,0
-Clinic Assistant,0
+Clinic Assistant,4
 Medical Clerk,0
 Patient Representative,0
 Surgical Coordinator,0
@@ -1967,12 +1967,12 @@ Canvasser,0
 City Clerk,0
 Code Enforcement Officer,0
 Deputy Sheriff,0
-Director Of Public Safety,4
+Director Of Public Safety,0
 Domestic Violence Advocate,0
 Fire Inspector,0
 Grants Administrator,0
 Insurance Fraud Investigator,0
-Social Work Assistant,0
+Social Work Assistant,4
 Expeditor,0
 Logistician,0
 Logistics Consultant,0
@@ -1986,39 +1986,39 @@ Dietary Supervisor,0
 Nutrition Educator,0
 Nutrition Manager,1
 Spa Receptionist,0
-Audio Engineer,2
-Broadcast Engineer,2
+Audio Engineer,3
+Broadcast Engineer,3
 Development Coordinator,0
 Event Manager,1
 Media Strategist,0
 Production Associate,0
-Public Relations Assistant,0
+Public Relations Assistant,4
 Public Relations Specialist,0
 Senior Account Executive,0
 Stage Hand,0
-Technical Director,4
+Technical Director,0
 Inspector,0
 Qa Consultant,0
 Qa Inspector,0
 Qa Lead,0
 Qa Test Lead,0
-Quality Assurance Engineer,2
+Quality Assurance Engineer,3
 Quality Assurance Inspector,0
 Quality Assurance Technician,0
-Quality Control Engineer,2
+Quality Control Engineer,3
 Quality Control Technician,0
-Quality Engineer,2
+Quality Engineer,3
 Quality Technician,0
-Senior Quality Engineer,2
+Senior Quality Engineer,3
 Test Architect,0
 Test Technician,0
 Bioinformatician,0
 Bioinformatics,0
-Business Intelligence Developer,3
+Business Intelligence Developer,0
 Cnc Programmer,0
-Fpga Engineer,2
-Oral Surgery Assistant,0
-Orthodontic Assistant,0
+Fpga Engineer,3
+Oral Surgery Assistant,4
+Orthodontic Assistant,4
 Orthotist,0
 Phlebotomy Supervisor,0
 Prn,0
@@ -2034,7 +2034,7 @@ Composite Technician,0
 Desktop Support Technician,0
 Equipment Specialist,0
 Laundry,0
-Maintenance Engineer,2
+Maintenance Engineer,3
 Maintenance Planner,0
 Ndt Technician,0
 Process Manager,1
@@ -2074,7 +2074,7 @@ Lean Consultant,0
 Salesforce Consultant,0
 Call Center Specialist,0
 Advertising Account Executive,0
-Assistant Sales Manager,1
+Assistant Sales Manager,4
 Automotive Sales Manager,1
 Brand Consultant,0
 Brand Specialist,0
@@ -2114,28 +2114,28 @@ Right Of Way Agent,0
 Insurance Adjuster,0
 Rails Developer,0
 Ruby Developer,0
-Software Analyst,0
-Software Support Engineer,2
-Web Analyst,0
-Administrative Analyst,0
+Software Analyst,2
+Software Support Engineer,3
+Web Analyst,2
+Administrative Analyst,2
 Analytics Consultant,0
 Analytics Manager,1
-Business Analyst Manager,3
-Business Architect,3
-Business Development Coordinator,3
-Business Development Executive,3
-Business Intelligence Analyst,3
-Business Strategist,3
-Business Systems Analyst,3
-Collection Analyst,0
-Data Engineer,2
-Financial Business Analyst,3
-Imagery Analyst,0
-It Business Analyst,3
-Junior Analyst,0
-Junior Business Analyst,3
-Research Engineer,2
-Senior Business Analyst,3
+Business Analyst Manager,2
+Business Architect,0
+Business Development Coordinator,0
+Business Development Executive,0
+Business Intelligence Analyst,2
+Business Strategist,0
+Business Systems Analyst,2
+Collection Analyst,2
+Data Engineer,3
+Financial Business Analyst,2
+Imagery Analyst,2
+It Business Analyst,2
+Junior Analyst,2
+Junior Business Analyst,2
+Research Engineer,3
+Senior Business Analyst,2
 Data Center Technician,0
 Senior Database Administrator,0
 Benefits Administrator,0
@@ -2143,7 +2143,7 @@ Employment Specialist,0
 Hr Specialist,0
 Human Resources Specialist,0
 Physician Recruiter,0
-Reporting Analyst,0
+Reporting Analyst,2
 Training Administrator,0
 Travel Coordinator,0
 Background Investigator,0
@@ -2151,7 +2151,7 @@ Bankruptcy Paralegal,0
 Contract Administrator,0
 Foster Care Case Manager,1
 Intellectual Property Attorney,0
-Legal Analyst,0
+Legal Analyst,2
 Legal Consultant,0
 Patent Attorney,0
 Staff Attorney,0
@@ -2165,22 +2165,22 @@ Scout,0
 Sports Coordinator,0
 Automotive Instructor,0
 Biology Tutor,0
-Business Instructor,3
+Business Instructor,0
 Clinical Educator,0
-Community Assistant,0
+Community Assistant,4
 Culinary Instructor,0
 Educational Diagnostician,0
 English Tutor,0
 Esl Tutor,0
 Instructional Aide,0
-Instructional Assistant,0
+Instructional Assistant,4
 Librarian,0
 Medical Instructor,0
 Online English Teacher,0
 Paraeducator,0
 Reference Librarian,0
 Special Education Aide,0
-Special Education Assistant,0
+Special Education Assistant,4
 Special Education Paraprofessional,0
 Archivist,0
 Arts Manager,1
@@ -2188,7 +2188,7 @@ Cinematographer,0
 Civil Designer,0
 Creative Designer,0
 Creative Strategist,0
-Curatorial Assistant,0
+Curatorial Assistant,4
 Film Producer,0
 Game Tester,0
 Motion Graphics Designer,0
@@ -2205,8 +2205,8 @@ Biomedical Equipment Technician,0
 Cardiologist,0
 Cardiology Nurse Practitioner,0
 Cardiothoracic Surgeon,0
-Certified Dental Assistant,0
-Certified Ophthalmic Assistant,0
+Certified Dental Assistant,4
+Certified Ophthalmic Assistant,4
 Ct Technologist,0
 Cytotechnologist,0
 Diagnostic Medical Sonographer,0
@@ -2225,22 +2225,22 @@ Mammographer,0
 Mammography Technologist,0
 Medical Dosimetrist,0
 Medication Technician,0
-Brand Director,4
-Business Unit Manager,3
+Brand Director,0
+Business Unit Manager,1
 Psychiatric Nurse,0
 Materials Manager,1
-Manufacturing Engineer,2
+Manufacturing Engineer,3
 Outside Machinist,0
 Procurement Officer,0
-Senior Manufacturing Engineer,2
+Senior Manufacturing Engineer,3
 Stockroom Associate,0
-Benefits Analyst,0
+Benefits Analyst,2
 Cyber Security Specialist,0
 Information Security Specialist,0
 Transportation Coordinator,0
-Assistant Hotel Manager,1
+Assistant Hotel Manager,4
 Executive Sous Chef,0
-Director Of Rehabilitation,4
+Director Of Rehabilitation,0
 Chairman,0
 Hotel Sales Manager,1
 Community Health Nurse,0
@@ -2254,46 +2254,46 @@ Computer Repair Technician,0
 Information Security Consultant,0
 Insurance Coordinator,0
 Compliance Specialist,0
-Management Engineer,2
+Management Engineer,3
 Process Improvement Manager,1
 Recruiting Manager,1
 Revenue Cycle Manager,1
 Salon Manager,1
-Security Analyst,0
-Strategy Analyst,0
+Security Analyst,2
+Strategy Analyst,2
 Car Sales,0
 Client Success Manager,1
-Director Of Sales,4
+Director Of Sales,0
 District Sales Manager,1
 External Wholesaler,0
 Finance Manager,1
-National Sales Director,4
+National Sales Director,0
 National Sales Manager,1
 Sales Operations Manager,1
 Sales Trainer,0
 Senior Merchandiser,0
-Technical Sales Engineer,2
+Technical Sales Engineer,3
 Flight Nurse,0
-Assistant Manager,1
+Assistant Manager,4
 Cannabis,0
 Coordinator,0
 Hvac Installer,0
 Pest Control Technician,0
 Aerospace Technician,0
-Automotive Engineer,2
-Bridge Engineer,2
-Build Engineer,2
-Chemical Process Engineer,2
-Consulting Engineer,2
-Deployment Engineer,2
-Drilling Engineer,2
-Entry Level Electrical Engineer,2
-Facilities Engineer,2
-Facility Engineer,2
-Field Engineer,2
-Hydraulic Engineer,2
-Industrial Engineer,2
-Infrastructure Engineer,2
+Automotive Engineer,3
+Bridge Engineer,3
+Build Engineer,3
+Chemical Process Engineer,3
+Consulting Engineer,3
+Deployment Engineer,3
+Drilling Engineer,3
+Entry Level Electrical Engineer,3
+Facilities Engineer,3
+Facility Engineer,3
+Field Engineer,3
+Hydraulic Engineer,3
+Industrial Engineer,3
+Infrastructure Engineer,3
 Parking Attendant,0
 Parking Lot Attendant,0
 Restaurant Worker,0
@@ -2303,29 +2303,29 @@ Wine Consultant,0
 Hairstylist,0
 Home Care Aide,0
 Midwife,0
-Personal Care Assistant,0
+Personal Care Assistant,4
 Provider,0
 Recreation Leader,0
 Shopper,0
 Youth Advocate,0
 Youth Coordinator,0
 Youth Specialist,0
-Combat Engineer,2
+Combat Engineer,3
 Fire Marshal,0
 Hospital Security Officer,0
 Safety Officer,0
 Security Agent,0
 Traffic Coordinator,0
 Change Manager,1
-Desktop Engineer,2
-Desktop Support Analyst,0
+Desktop Engineer,3
+Desktop Support Analyst,2
 Enterprise Architect,0
 Exchange Administrator,0
 Gis Manager,1
 Instructional Technology Specialist,0
 Noc Technician,0
-Support Analyst,0
-Technical Analyst,0
+Support Analyst,2
+Technical Analyst,2
 Technical Trainer,0
 Family Therapist,0
 Health Psychologist,0
@@ -2335,12 +2335,12 @@ Substance Abuse Counselor,0
 Mri Technician,0
 Mri Technologist,0
 Nuclear Medicine Technologist,0
-Operating Room Assistant,0
-Pathologist Assistant,0
+Operating Room Assistant,4
+Pathologist Assistant,4
 Patient Coordinator,0
 Perfusionist,0
-Pharmacy Assistant,0
-Physical Therapist Assistant,0
+Pharmacy Assistant,4
+Physical Therapist Assistant,4
 Radiology,0
 Vaccinator,0
 Aircraft Inspector,0
@@ -2374,7 +2374,7 @@ Toolmaker,0
 Utility Worker,0
 Welding Inspector,0
 Cargo Handler,0
-Director Of Manufacturing,4
+Director Of Manufacturing,0
 Electrical Inspector,0
 Factory Worker,0
 Manufacturing Operations Manager,1
@@ -2388,68 +2388,68 @@ Hospital Receptionist,0
 Medical Officer,0
 Mental Health Case Manager,1
 Patient Care Associate,0
-Pharmacy Analyst,0
-Assistant Community Manager,1
+Pharmacy Analyst,2
+Assistant Community Manager,4
 Campaign Coordinator,0
 Public Information Officer,0
 Social Services Specialist,0
-Director Of Logistics,4
-Director Of Purchasing,4
+Director Of Logistics,0
+Director Of Purchasing,0
 Receiving Manager,1
 Shipping Manager,1
 Supply Chain Consultant,0
 Supply Manager,1
 Fitness Consultant,0
-Fitness Director,4
+Fitness Director,0
 Fitness Manager,1
 Personal Fitness Trainer,0
-Sports Director,4
-Studio Assistant,0
+Sports Director,0
+Studio Assistant,4
 Trainer,0
 Wellness Consultant,0
 Wellness Coordinator,0
 Wellness Nurse,0
 Box Office Manager,1
-Development Assistant,0
-Executive Creative Director,4
+Development Assistant,4
+Executive Creative Director,0
 Line Producer,0
 Media Consultant,0
 Media Producer,0
 Media Relations Manager,1
 Medical Editor,0
 Medical Writer,0
-Public Relations Director,4
+Public Relations Director,0
 Publisher,0
 Segment Producer,0
 Television Producer,0
 Video Producer,0
-Writing Assistant,0
-Director Of Quality,4
-Qa Director,4
+Writing Assistant,4
+Director Of Quality,0
+Qa Director,0
 Qa Manager,1
 Qa Specialist,0
 Qa Supervisor,0
-Quality Analyst,0
-Quality Assurance Analyst,0
+Quality Analyst,2
+Quality Assurance Analyst,2
 Quality Assurance Specialist,0
-Quality Control Analyst,0
+Quality Control Analyst,2
 Quality Control Inspector,0
 Quality Control Specialist,0
 Quality Inspector,0
-Usability Engineer,2
-Admissions Assistant,0
+Usability Engineer,3
+Admissions Assistant,4
 Aide,0
-Assistant Teacher,0
-Classroom Assistant,0
+Assistant Teacher,4
+Classroom Assistant,4
 Clinical Instructor,0
 Computer Science Teacher,0
 Custodial Supervisor,0
 Driving Instructor,0
 Economics Teacher,0
-Educational Assistant,0
-Graduate Assistant,0
+Educational Assistant,4
+Graduate Assistant,4
 Instructional Coordinator,0
-Library Director,4
+Library Director,0
 Online Teacher,0
 Online Tutor,0
 Para Educator,0
@@ -2457,20 +2457,20 @@ Sign Language Interpreter,0
 Special Education Coordinator,0
 Superintendent,0
 Conservator,0
-Director Of Photography,4
+Director Of Photography,0
 Event Designer,0
 Multimedia Artist,0
 Multimedia Designer,0
-Photography Assistant,0
+Photography Assistant,4
 Production Artist,0
 Real Estate Photographer,0
 Sound Designer,0
-Sound Engineer,2
-Studio Engineer,2
+Sound Engineer,3
+Studio Engineer,3
 Video Production,0
 Central Service Technician,0
 Clinical Dietitian,0
-Dental Assistant,0
+Dental Assistant,4
 Dental Hygienist,0
 Dialysis Rn,0
 Dietitian,0
@@ -2480,25 +2480,25 @@ Health Technician,0
 Hospital Technician,0
 Hygienist,0
 Intervention Specialist,0
-Lead Medical Assistant,0
+Lead Medical Assistant,4
 Lead Pharmacy Technician,0
-Marine Engineer,2
-Materials Engineer,2
-Mechanical Project Engineer,2
-Packaging Engineer,2
-Performance Engineer,2
-Product Development Engineer,2
-Reliability Engineer,2
-Senior Process Engineer,2
-Senior Project Engineer,2
-Senior Structural Engineer,2
-Shift Engineer,2
-Video Engineer,2
+Marine Engineer,3
+Materials Engineer,3
+Mechanical Project Engineer,3
+Packaging Engineer,3
+Performance Engineer,3
+Product Development Engineer,3
+Reliability Engineer,3
+Senior Process Engineer,3
+Senior Project Engineer,3
+Senior Structural Engineer,3
+Shift Engineer,3
+Video Engineer,3
 Welding Supervisor,0
 Account Representative,0
 Area Supervisor,0
-Assistant Facility Manager,1
-Business Support,3
+Assistant Facility Manager,4
+Business Support,0
 Counter Manager,1
 Facilitator,0
 Facilities Management,0
@@ -2508,7 +2508,7 @@ Program Officer,0
 Program Specialist,0
 Recovery Specialist,0
 Retention Specialist,0
-Senior Administrative Assistant,0
+Senior Administrative Assistant,4
 Study Coordinator,0
 Team Coordinator,0
 Freight Associate,0
@@ -2532,7 +2532,7 @@ Food Service Supervisor,0
 Food Service Worker,0
 Food Worker,0
 Houseperson,0
-Kitchen Assistant,0
+Kitchen Assistant,4
 Kitchen Staff,0
 Kitchen Steward,0
 Warehouse Technician,0
@@ -2544,7 +2544,7 @@ Call Center Operator,0
 Collections Agent,0
 Customer Support Manager,1
 Customer Support Representative,0
-Solutions Engineer,2
+Solutions Engineer,3
 Advertising Sales,0
 Commercial Manager,1
 Community Manager,1
@@ -2554,14 +2554,14 @@ Marketing Associate,0
 Marketing Communications,0
 Marketing Communications Manager,1
 Marketing Communications Specialist,0
-Marketing Engineer,2
-Media Director,4
+Marketing Engineer,3
+Media Director,0
 Media Planner,0
 Print Production Manager,1
-Social Media Director,4
+Social Media Director,0
 Wedding Planner,0
 Product Coordinator,0
-Project Assistant,0
+Project Assistant,4
 Bakery Clerk,0
 Bench Jeweler,0
 Grocery Stocker,0
@@ -2582,20 +2582,20 @@ Elevator Mechanic,0
 Home Builder,0
 Pipe Fitter,0
 Insurance Verification Specialist,0
-Lead Engineer,2
-Lead Software Engineer,2
+Lead Engineer,3
+Lead Software Engineer,3
 Python Developer,0
 Senior Software Developer,0
-Senior Software Engineer,2
+Senior Software Engineer,3
 Software Developer,0
 Web Architect,0
-Business Intelligence Manager,3
-Business Process Analyst,3
+Business Intelligence Manager,1
+Business Process Analyst,2
 Erp Consultant,0
 Microstrategy Developer,0
 Research Manager,1
 Researcher,0
-Senior Analyst,0
+Senior Analyst,2
 Server Administrator,0
 3D Designer,0
 Junior Designer,0
@@ -2603,7 +2603,7 @@ Senior Designer,0
 Benefits Specialist,0
 Driver Recruiter,0
 Hr Generalist,0
-Human Resources Business Partner,3
+Human Resources Business Partner,0
 Human Resources Executive,0
 Human Resources Generalist,0
 Medical Recruiter,0
@@ -2617,7 +2617,7 @@ Legal Officer,0
 Personal Injury Attorney,0
 Trial Attorney,0
 Animal Control Officer,0
-Veterinary Assistant,0
+Veterinary Assistant,4
 Community Health Worker,0
 Community Liaison,0
 Family Advocate,0
@@ -2650,13 +2650,13 @@ Renewable Energy,0
 Scientist,0
 Seismologist,0
 Accounting Administrator,0
-Accounting Director,4
+Accounting Director,0
 Accounts Payable Coordinator,0
 Acquisition Specialist,0
-Aml Analyst,0
-Assistant Controller,0
-Banking Analyst,0
-Business Banker,3
+Aml Analyst,2
+Assistant Controller,4
+Banking Analyst,2
+Business Banker,0
 Commercial Banker,0
 Economist,0
 Fund Manager,1
@@ -2664,40 +2664,40 @@ Investment Banker,0
 Junior Accountant,0
 Loan Originator,0
 Procurement Administrator,0
-Senior Credit Analyst,0
+Senior Credit Analyst,2
 Treasurer,0
 Trust Officer,0
 Cancer Registrar,0
 Clinical Liaison,0
 Pattern Maker,0
-Product Design Engineer,2
+Product Design Engineer,3
 Stock Clerk,0
 Center Manager,1
 Transportation Supervisor,0
-Warehouse Assistant,0
+Warehouse Assistant,4
 DBA,0
 Chief Development Officer,0
-Business Director,3
+Business Director,0
 Dermatology Nurse Practitioner,0
 Budtender,0
 Manufacturing Manager,1
 Kitchen Designer,0
 Chief Nursing Officer,0
-Director Of Radiology,4
+Director Of Radiology,0
 Health Unit Coordinator,0
-Hospital Director,4
+Hospital Director,0
 Social Work Case Manager,1
 Information Officer,0
 Interaction Designer,0
 Corporate Recruiter,0
-Assistant Front Office Manager,1
-Facilities Director,4
+Assistant Front Office Manager,4
+Facilities Director,0
 Operations Team Leader,0
 Transportation Planner,0
 Screen Printer,0
 Warehouse Coordinator,0
 District Manager,1
-Economic Analyst,0
+Economic Analyst,2
 Employee Relations Manager,1
 Field Manager,1
 Field Sales Manager,1
@@ -2710,13 +2710,13 @@ Labor Relations Manager,1
 Learning And Development Manager,1
 National Account Manager,1
 Operations Manager,1
-Policy Analyst,0
+Policy Analyst,2
 Press Secretary,0
 Program Manager,1
 Public Relations Manager,1
 Real Estate Manager,1
 Regional Operations Manager,1
-Regional Sales Director,4
+Regional Sales Director,0
 Regulatory Affairs Manager,1
 Sales Manager,1
 Senior Operations Manager,1
@@ -2729,7 +2729,7 @@ Distribution Supervisor,0
 Jewelry Consultant,0
 Licensed Customs Broker,0
 Sales Coach,0
-Sales Director,4
+Sales Director,0
 Sales Supervisor,0
 Technical Sales,0
 Technical Sales Representative,0
@@ -2744,24 +2744,24 @@ Implementation Manager,1
 Linguist,0
 Safety Technician,0
 Trainee,0
-Chief Engineer,2
-Cisco Voice Engineer,2
-City Engineer,2
-Civil Project Engineer,2
-Civil Structural Engineer,2
-Construction Engineer,2
-Corrosion Engineer,2
+Chief Engineer,3
+Cisco Voice Engineer,3
+City Engineer,3
+Civil Project Engineer,3
+Civil Structural Engineer,3
+Construction Engineer,3
+Corrosion Engineer,3
 Distribution Center Supervisor,0
 Electrical Engineering,0
 Engineering Consultant,0
 Engineering Program Manager,1
-Entry Level Mechanical Engineer,2
-Fire Protection Engineer,2
-Geotechnical Engineer,2
-Highway Engineer,2
+Entry Level Mechanical Engineer,3
+Fire Protection Engineer,3
+Geotechnical Engineer,3
+Highway Engineer,3
 Industrial Designer,0
-Junior Mechanical Engineer,2
-Lead Mechanical Engineer,2
+Junior Mechanical Engineer,3
+Lead Mechanical Engineer,3
 Warehouse Clerk,0
 Warehouse Driver,0
 Warranty Manager,1
@@ -2774,13 +2774,13 @@ Employment Consultant,0
 Franchise Consultant,0
 Independent Consultant,0
 Recruitment Consultant,0
-Small Business Consultant,3
+Small Business Consultant,0
 Call Center Manager,1
 Call Center Supervisor,0
 Contact Center Manager,1
 Customer Experience Manager,1
 Customer Service Consultant,0
-Customer Service Director,4
+Customer Service Director,0
 Customer Service Trainer,0
 Customer Success Manager,1
 Customer Support Specialist,0
@@ -2789,29 +2789,29 @@ Content Creator,0
 Event Specialist,0
 Graphic Designer,0
 Marketing Administrator,0
-Marketing Assistant,0
+Marketing Assistant,4
 Marketing Coordinator,0
 Marketing Officer,0
 Marketing Specialist,0
 Package Designer,0
 Promotions Coordinator,0
 Retail Marketing Manager,1
-Social Media Assistant,0
+Social Media Assistant,4
 Social Media Coordinator,0
-Product Assistant,0
+Product Assistant,4
 Product Specialist,0
 Project Specialist,0
 Dairy Manager,1
 Grocery Clerk,0
 Merchandising Manager,1
 Produce Clerk,0
-Retail Assistant,0
+Retail Assistant,4
 Retail Associate,0
 Retail Clerk,0
 Retail Operations Manager,1
 Retail Supervisor,0
-Sales Assistant,0
-Store Assistant,0
+Sales Assistant,4
+Store Assistant,4
 Store Associate,0
 Store Clerk,0
 Store Supervisor,0
@@ -2830,22 +2830,22 @@ Lineman Apprentice,0
 Pipe Welder,0
 Plant Worker,0
 Claim Adjuster,0
-Claims Assistant,0
+Claims Assistant,4
 Claims Processor,0
 Health Insurance Agent,0
 Health Insurance Specialist,0
 Insurance Agent,0
-Insurance Assistant,0
+Insurance Assistant,4
 Neurodiagnostic Technologist,0
 Nuclear Pharmacist,0
 Nutritionist,0
 Occupational Therapy Aide,0
-Occupational Therapy Assistant,0
+Occupational Therapy Assistant,4
 Oncology Pharmacist,0
-Ophthalmic Assistant,0
+Ophthalmic Assistant,4
 Ophthalmic Technician,0
-Optometric Assistant,0
-Optometrist Assistant,0
+Optometric Assistant,4
+Optometrist Assistant,4
 Orderly,0
 Pacu Rn,0
 Paramedic,0
@@ -2855,7 +2855,7 @@ Patient Navigator,0
 Patient Sitter,0
 Patient Transport,0
 Patient Transporter,0
-Pediatric Physician Assistant,0
+Pediatric Physician Assistant,4
 Personal Care Attendant,0
 Pharmaceutical Sales,0
 Pharmacist,0
@@ -2866,7 +2866,7 @@ Registered Respiratory Therapist,0
 Rehab Technician,0
 Respiratory Care Practitioner,0
 Respiratory Therapist,0
-Speech Pathologist Assistant,0
+Speech Pathologist Assistant,4
 Technologist,0
 Travel Cna,0
 Veterinary Technician,0
@@ -2944,7 +2944,7 @@ Property Management,0
 Real Estate Consultant,0
 Real Estate Salesperson,0
 Realtor,0
-Residential Director,4
+Residential Director,0
 Salon Receptionist,0
 Clinical Consultant,0
 Clinical Research Associate,0
@@ -2961,9 +2961,9 @@ Geophysicist,0
 Horticulturist,0
 Hydrogeologist,0
 Hydrologist,0
-Laboratory Director,4
+Laboratory Director,0
 Laboratory Supervisor,0
-Library Assistant,0
+Library Assistant,4
 Library Associate,0
 Materials Scientist,0
 Microbiologist,0
@@ -2987,11 +2987,11 @@ Investment Specialist,0
 Loan Administrator,0
 Loan Coordinator,0
 Loan Servicing Specialist,0
-Mortgage Assistant,0
+Mortgage Assistant,4
 Mortgage Banker,0
 Mortgage Originator,0
 Payroll Accountant,0
-Payroll Analyst,0
+Payroll Analyst,2
 Payroll Coordinator,0
 Payroll Specialist,0
 Portfolio Manager,1
@@ -3000,51 +3000,51 @@ Property Accountant,0
 Real Estate Accountant,0
 Reconciliation Specialist,0
 Revenue Accountant,0
-Revenue Analyst,0
-Senior Financial Analyst,0
+Revenue Analyst,2
+Senior Financial Analyst,2
 Staff Accountant,0
 Universal Banker,0
 Chief Medical Officer,0
 Clinical Social Worker,0
 Metallurgist,0
-Mining Engineer,2
+Mining Engineer,3
 Naval Architect,0
-Pipeline Engineer,2
+Pipeline Engineer,3
 Piping Designer,0
-Piping Engineer,2
-Power Engineer,2
-Process Safety Engineer,2
-Recording Engineer,2
-Reservoir Engineer,2
-Safety Engineer,2
-Traffic Engineer,2
-Transmission Engineer,2
-Utility Engineer,2
-Water Engineer,2
-Welding Engineer,2
+Piping Engineer,3
+Power Engineer,3
+Process Safety Engineer,3
+Recording Engineer,3
+Reservoir Engineer,3
+Safety Engineer,3
+Traffic Engineer,3
+Transmission Engineer,3
+Utility Engineer,3
+Water Engineer,3
+Welding Engineer,3
 Department Manager,1
 Facilities Manager,1
 Facility Technician,0
 Knowledge Management Specialist,0
 Meeting Planner,0
-Office Assistant,0
+Office Assistant,4
 Planner,0
-Program Assistant,0
+Program Assistant,4
 Scheduling Manager,1
-Unit Assistant,0
+Unit Assistant,4
 Car Porter,0
 Charter Pilot,0
 Commercial Pilot,0
 Conductor,0
 Corporate Pilot,0
 Driver Helper,0
-Locomotive Engineer,2
+Locomotive Engineer,3
 Messenger,0
 Test Driver,0
 Test Pilot,0
 Train Conductor,0
-Train Engineer,2
-Transportation Engineer,2
+Train Engineer,3
+Transportation Engineer,3
 Cocktail Server,0
 Coffee Roaster,0
 Executive Steward,0
@@ -3065,8 +3065,8 @@ College Advisor,0
 College Counselor,0
 Cosmetology Instructor,0
 Cosmetology Teacher,0
-Director Of Admissions,4
-Director Of Training,4
+Director Of Admissions,0
+Director Of Training,0
 Drama Teacher,0
 Education Teacher,0
 Educator,0
@@ -3114,19 +3114,19 @@ Photographer,0
 Photography,0
 Print Designer,0
 Product Photographer,0
-Program Director,4
-Senior Art Director,4
+Program Director,0
+Senior Art Director,0
 Senior Interior Designer,0
 Sports Photographer,0
 Studio Photographer,0
-Video Production Assistant,0
+Video Production Assistant,4
 Videographer,0
 Visual Manager,1
 Certified Diabetes Educator,0
 Certified Dietary Manager,1
 Certified Medication Aide,0
 Child Psychiatrist,0
-Clinical Medical Assistant,0
+Clinical Medical Assistant,4
 Clinical Specialist,0
 Diabetes Educator,0
 EMT,0
@@ -3145,10 +3145,10 @@ Medical Sonographer,0
 Lead Developer,0
 Mobile Application Developer,0
 Mobile Developer,0
-Principal Software Engineer,2
+Principal Software Engineer,3
 Senior Web Developer,0
 Software Architect,0
-Software Development Engineer,2
+Software Development Engineer,3
 Software Manager,1
 Technical Architect,0
 Web Application Developer,0
@@ -3160,16 +3160,16 @@ Sustainability Manager,1
 Mainframe Developer,0
 Senior Instructional Designer,0
 Career Consultant,0
-Director Of Human Resources,4
+Director Of Human Resources,0
 Hr Coordinator,0
 Hr Manager,1
 Hris Manager,1
-Human Resources Analyst,0
+Human Resources Analyst,2
 Human Resources Coordinator,0
 Junior Recruiter,0
-Payroll Assistant,0
+Payroll Assistant,4
 Safety Advisor,0
-Staff Assistant,0
+Staff Assistant,4
 Client Relations Manager,1
 Corporate Counsel,0
 Corporate Lawyer,0
@@ -3177,7 +3177,7 @@ Court Interpreter,0
 Environmental Attorney,0
 Estate Planning Attorney,0
 Hearing Officer,0
-Law Office Assistant,0
+Law Office Assistant,4
 Legal Counsel,0
 Prosecutor,0
 Public Defender,0
@@ -3190,20 +3190,20 @@ Pet Groomer,0
 Pet Stylist,0
 Veterinary Receptionist,0
 Community Service Officer,0
-Development Director,4
+Development Director,0
 Hospice Social Worker,0
 Outdoor Guide,0
 Ski Patrol,0
-Health Care Assistant,0
+Health Care Assistant,4
 Health Coordinator,0
 Hospital Social Worker,0
-Medical Assistant Instructor,0
-Medical Lab Assistant,0
+Medical Assistant Instructor,4
+Medical Lab Assistant,4
 Medical Staff Coordinator,0
-Medical Support Assistant,0
+Medical Support Assistant,4
 Nurse Case Manager,1
 Nurse Consultant,0
-Optical Assistant,0
+Optical Assistant,4
 Optometric Technician,0
 Patient Advocate,0
 Patient Care Coordinator,0
@@ -3211,22 +3211,22 @@ Patient Services Coordinator,0
 Rn Case Manager,1
 Case Worker,0
 Constable,0
-Director Of Social Services,4
+Director Of Social Services,0
 Group Home Manager,1
 Medical Social Worker,0
 Outreach Specialist,0
 Plans Examiner,0
-Public Works Director,4
+Public Works Director,0
 School Social Worker,0
 Sheriff,0
-Social Services Assistant,0
-Social Worker Assistant,0
-Logistics Engineer,2
+Social Services Assistant,4
+Social Worker Assistant,4
+Logistics Engineer,3
 Logistics Manager,1
-Procurement Director,4
-Purchasing Director,4
-Supply Chain Analyst,0
-Supply Chain Director,4
+Procurement Director,0
+Purchasing Director,0
+Supply Chain Analyst,2
+Supply Chain Director,0
 Warehouse Manager,1
 Diet Clerk,0
 Exercise Specialist,0
@@ -3234,32 +3234,32 @@ Fitness Coach,0
 Fitness Coordinator,0
 Fitness Specialist,0
 Fitness Trainer,0
-Nutrition Director,4
+Nutrition Director,0
 Personal Trainer,0
 Sports Nutritionist,0
 Swim Instructor,0
 Wellness Coach,0
-Wellness Director,4
+Wellness Director,0
 Communicator,0
 Copy Editor,0
 Customer Advocate,0
 Editor,0
 Editor In Chief,0
-Editorial Assistant,0
+Editorial Assistant,4
 Fact Checker,0
 Freelance Producer,0
 Journalism,0
 Journalist,0
-Media Analyst,0
+Media Analyst,2
 Media Specialist,0
-News Director,4
+News Director,0
 News Editor,0
 News Producer,0
 Production Editor,0
 Publicist,0
 Radio Producer,0
 Reporter,0
-Research Assistant,0
+Research Assistant,4
 Senior Editor,0
 Service Writer,0
 Sports Producer,0
@@ -3270,12 +3270,12 @@ Technical Editor,0
 Quality Assurance,0
 Quality Assurance Associate,0
 Quality Assurance Auditor,0
-Quality Assurance Director,4
+Quality Assurance Director,0
 Quality Assurance Manager,1
 Quality Auditor,0
 Quality Consultant,0
 Quality Control,0
-Quality Control Assistant,0
+Quality Control Assistant,4
 Quality Control Associate,0
 Quality Control Chemist,0
 Quality Control Manager,1
@@ -3289,9 +3289,9 @@ Supplier Quality Manager,1
 Test Coordinator,0
 Test Manager,1
 Testing Coordinator,0
-Configuration Analyst,0
-Development Engineer,2
-Director Of Software Engineering,4
+Configuration Analyst,2
+Development Engineer,3
+Director Of Software Engineering,0
 Integration Architect,0
 Java Architect,0
 Line Cook,0
@@ -3306,7 +3306,7 @@ Sandwich Maker,0
 Service Worker,0
 Short Order Cook,0
 Spa Attendant,0
-Spa Director,4
+Spa Director,0
 Tour Guide,0
 Valet Driver,0
 Winemaker,0
@@ -3314,7 +3314,7 @@ Care Provider,0
 Direct Care Staff,0
 Elderly Caregiver,0
 Embalmer,0
-Funeral Assistant,0
+Funeral Assistant,4
 House Cleaner,0
 Housekeeping,0
 Maid,0
@@ -3327,19 +3327,19 @@ Fire Chief,0
 Forensic Nurse,0
 Jailer,0
 Park Ranger,0
-Security Assistant,0
+Security Assistant,4
 Security Officer,0
 Training Officer,0
 Citrix Administrator,0
-Computer Engineer,2
+Computer Engineer,3
 Console Operator,0
-Cyber Security Analyst,0
+Cyber Security Analyst,2
 Deployment Manager,1
 Desktop Support Manager,1
 Electronic Technician,0
 Functional Consultant,0
 Help Desk Manager,1
-Information Security Analyst,0
+Information Security Analyst,2
 Information Security Manager,1
 Information Technology Technician,0
 Integration Specialist,0
@@ -3350,7 +3350,7 @@ Pacs Administrator,0
 Technical Coordinator,0
 Technical Recruiter,0
 Technical Specialist,0
-Technology Director,4
+Technology Director,0
 Web Editor,0
 Counselor,0
 Direct Care Worker,0
@@ -3368,7 +3368,7 @@ Nursing Supervisor,0
 Patient Liaison,0
 Pharmacy Supervisor,0
 Rehab Aide,0
-Rehab Director,4
+Rehab Director,0
 City Manager,1
 City Planner,0
 Forensic Social Worker,0
@@ -3400,19 +3400,19 @@ Senior Technical Writer,0
 Sports Writer,0
 Telecommunications Manager,1
 Writer,0
-Optical Engineer,2
-Petroleum Engineer,2
-Plant Engineer,2
-Plastics Engineer,2
-Port Engineer,2
-Product Safety Engineer,2
+Optical Engineer,3
+Petroleum Engineer,3
+Plant Engineer,3
+Plastics Engineer,3
+Port Engineer,3
+Product Safety Engineer,3
 Radar Technician,0
-Railroad Engineer,2
+Railroad Engineer,3
 Satellite Technician,0
-Water Resource Engineer,2
-Media Assistant,0
-Office Administrative Assistant,0
-Operations Assistant,0
+Water Resource Engineer,3
+Media Assistant,4
+Office Administrative Assistant,4
+Operations Assistant,4
 Program Administrator,0
 Program Associate,0
 Residence Manager,1
@@ -3437,9 +3437,9 @@ Bar Server,0
 Beverage Server,0
 Butler,0
 Campground Manager,1
-Catering Assistant,0
+Catering Assistant,4
 Chef,0
-Chef Assistant,0
+Chef Assistant,4
 Cocktail Waitress,0
 Dietary Cook,0
 Enologist,0
@@ -3448,16 +3448,16 @@ Food Safety Specialist,0
 Food Server,0
 Food Stylist,0
 Innkeeper,0
-Nutrition Assistant,0
+Nutrition Assistant,4
 Occupational Therapist,0
 Optometrist,0
 Palliative Care Nurse Practitioner,0
-Patient Care Assistant,0
+Patient Care Assistant,4
 Patient Care Specialist,0
 Pediatric Occupational Therapist,0
 Pediatric Physical Therapist,0
 Physiologist,0
-Psychological Assistant,0
+Psychological Assistant,4
 Radiologist,0
 Rn Supervisor,0
 Auto Damage Appraiser,0
@@ -3466,7 +3466,7 @@ Automotive Service Advisor,0
 Bike Mechanic,0
 Crew Member,0
 Exterminator,0
-Facilities Assistant,0
+Facilities Assistant,4
 Farm Worker,0
 Handyman,0
 Heavy Equipment Operators,0
@@ -3509,14 +3509,14 @@ Production Manager,1
 Production Supervisor,0
 Shift Leader,0
 Tool And Die Maker,0
-Platform Engineer,2
+Platform Engineer,3
 Process Technician,0
-Release Engineer,2
+Release Engineer,3
 Software Development Manager,1
 Software Engineering Manager,1
-Staff Engineer,2
-Director Of Sustainability,4
-Health Policy Analyst,0
+Staff Engineer,3
+Director Of Sustainability,0
+Health Policy Analyst,2
 Psychometrician,0
 Sustainability Consultant,0
 Sustainability Coordinator,0
@@ -3542,7 +3542,7 @@ Law Librarian,0
 Lawyer,0
 Negotiator,0
 Horse Trainer,0
-Kennel Assistant,0
+Kennel Assistant,4
 Kennel Attendant,0
 Kennel Technician,0
 Veterinary Pathologist,0
@@ -3583,7 +3583,7 @@ Senior Program Manager,1
 Systems Manager,1
 Technical Lead,0
 Addiction Counselor,0
-Behavior Analyst,0
+Behavior Analyst,2
 Behavioral Therapist,0
 Chemical Dependency Counselor,0
 Counseling Psychologist,0
@@ -3594,10 +3594,10 @@ Vocational Rehabilitation Counselor,0
 Commercial Real Estate Broker,0
 Housing Coordinator,0
 Lease Operator,0
-Real Estate Administrative Assistant,0
+Real Estate Administrative Assistant,4
 Real Estate Agent,0
 Real Estate Appraiser,0
-Real Estate Assistant,0
+Real Estate Assistant,4
 Real Estate Associate,0
 Real Estate Broker,0
 Residential Property Manager,1
@@ -3607,14 +3607,14 @@ Energy Consultant,0
 Gemologist,0
 Geologist,0
 Library Aide,0
-Medical Engineer,2
+Medical Engineer,3
 Medical Scientist,0
 Physical Scientist,0
 Radiation Safety Officer,0
 Research Scientist,0
 Wildlife Biologist,0
 Assessor,0
-Asset Management Analyst,0
+Asset Management Analyst,2
 Bank Examiner,0
 Banking Consultant,0
 Controller,0
@@ -3628,7 +3628,7 @@ In House Counsel,0
 Investment Manager,1
 Lending Manager,1
 Loan Consultant,0
-Loan Officer Assistant,0
+Loan Officer Assistant,4
 Mortgage Advisor,0
 Mortgage Specialist,0
 Personal Financial Advisor,0
@@ -3636,17 +3636,17 @@ Premium Auditor,0
 Reimbursement Specialist,0
 Senior Auditor,0
 Senior Tax Accountant,0
-Senior Treasury Analyst,0
+Senior Treasury Analyst,2
 Case Aide,0
 Supervisor,0
-Contract Analyst,0
+Contract Analyst,2
 Executive Manager,1
 Front Desk Manager,1
 Global Account Manager,1
 Manager,1
 Market Manager,1
 Patient Access Manager,1
-Regional Director,4
+Regional Director,0
 Senior Manager,1
 Vice President Of Finance,0
 Vice President Of Operations,0
@@ -3665,27 +3665,27 @@ Utilization Review Nurse,0
 Bilingual,0
 Optical Manager,1
 Recreation Aide,0
-Architectural Engineer,2
-Clinical Engineer,2
-Commissioning Engineer,2
+Architectural Engineer,3
+Clinical Engineer,3
+Commissioning Engineer,3
 Electrical Apprentice,0
 Electromechanical Technician,0
 Energy Manager,1
-Engineer,2
-Flight Test Engineer,2
-General Engineer,2
+Engineer,3
+Flight Test Engineer,3
+General Engineer,3
 Hardware Technician,0
-Instrument Engineer,2
+Instrument Engineer,3
 Academic Advisor,0
 Academic Counselor,0
 Admissions Counselor,0
 Agriculture Teacher,0
-Assistant Principal,0
-Assistant Superintendent,0
+Assistant Principal,4
+Assistant Superintendent,4
 Bilingual Teacher,0
-Business Education Teacher,3
+Business Education Teacher,0
 Curator,0
-Director Of Special Education,4
+Director Of Special Education,0
 Education Administrator,0
 Education Coordinator,0
 Elementary School Principal,0
@@ -3694,15 +3694,15 @@ Guitar Teacher,0
 Learning Consultant,0
 Nursing Faculty,0
 Nursing Instructor,0
-Residence Hall Director,4
+Residence Hall Director,0
 Special Needs Teacher,0
 Teacher,0
 Technology Teacher,0
 University President,0
 Entertainer,0
 Fashion Designer,0
-Floral Assistant,0
-Junior Art Director,4
+Floral Assistant,4
+Junior Art Director,0
 Producer,0
 Senior Architect,0
 Set Designer,0
@@ -3710,22 +3710,22 @@ Storyboard Artist,0
 Venue Manager,1
 Associate Dentist,0
 Behavior Technician,0
-Care Assistant,0
-Certified Medical Assistant,0
-Chiropractic Assistant,0
-Clinical Assistant,0
+Care Assistant,4
+Certified Medical Assistant,4
+Chiropractic Assistant,4
+Clinical Assistant,4
 Clinician,0
 Direct Care Professional,0
-Doctor Assistant,0
-Emergency Medicine Physician Assistant,0
+Doctor Assistant,4
+Emergency Medicine Physician Assistant,4
 Health Aide,0
-Health Assistant,0
+Health Assistant,4
 Hospice Aide,0
 Interventional Radiologist,0
 Lpn,0
 Lvn,0
-Medical Assistant,0
-Mental Health Assistant,0
+Medical Assistant,4
+Mental Health Assistant,4
 Warehouse Lead,0
 Warehouse Supervisor,0
 Bilingual Customer Service,0
@@ -3734,17 +3734,17 @@ Client Services Manager,1
 Customer Service,0
 Customer Service Representative,0
 Customer Service Supervisor,0
-Director Of Customer Service,4
+Director Of Customer Service,0
 Account Executive,0
-Advertising Director,4
+Advertising Director,0
 Animator,0
 Communications Coordinator,0
-Assistant Store Manager,1
+Assistant Store Manager,4
 Bookstore Manager,1
 Grocery Manager,1
 Meat Manager,1
 Produce Manager,1
-Assistant Construction Manager,1
+Assistant Construction Manager,4
 Building Official,0
 Chief Estimator,0
 Construction Coordinator,0
@@ -3758,8 +3758,8 @@ Plumber,0
 Scaffold Builder,0
 Welder,0
 Executive Recruiter,0
-Business Specialist,3
-Assistant Operations Manager,1
+Business Specialist,0
+Assistant Operations Manager,4
 Paraprofessional,0
 Chief Diversity Officer,0
 Design Manager,1
@@ -3768,7 +3768,7 @@ Swim Coach,0
 Tennis Coach,0
 Volleyball Coach,0
 Wrestling Coach,0
-Electrical Assistant,0
+Electrical Assistant,4
 Electrician,0
 Electrician Helper,0
 Dock Supervisor,0
@@ -3787,8 +3787,8 @@ Baggage Handler,0
 Food Runner,0
 Surveillance Operator,0
 Chief Marketing Officer,0
-Executive Director,4
-Managing Director,4
+Executive Director,0
+Managing Director,0
 Senior Vice President,0
 Helper,0
 Summer Camp Counselor,0
@@ -3799,29 +3799,29 @@ Investment Officer,0
 Revenue Manager,1
 Senior Staff Accountant,0
 Admissions Representative,0
-Assistant Registrar,0
+Assistant Registrar,4
 Junior Copywriter,0
 Landscape Designer,0
-Business Advisor,3
+Business Advisor,0
 Contract Manager,1
-Director Of Environmental Services,4
-Business Assistant,3
+Director Of Environmental Services,0
+Business Assistant,4
 Diversity Manager,1
 Executive,0
 General Counsel,0
 Grants Manager,1
 Management Trainee,0
-Medical Director,4
-Membership Director,4
+Medical Director,0
+Membership Director,0
 President,0
 Principal,0
-Resident Director,4
-School Director,4
+Resident Director,0
+School Director,0
 Vice President,0
 Part Time Sales Associate,0
 Sales Clerk,0
 Sales Contractor,0
-Sales Engineer,2
+Sales Engineer,3
 Sales Professional,0
 Salesman,0
 Strategic Account Manager,1
@@ -3829,53 +3829,53 @@ Technical Sales Manager,1
 Territory Manager,1
 Vendor,0
 Yacht Broker,0
-Certified Nursing Assistant,0
+Certified Nursing Assistant,4
 Clinical Nursing Instructor,0
 Mds Nurse,0
 Nurse Anesthetist,0
 Nurse Educator,0
 Telephone Triage Nurse,0
 Triage Nurse,0
-Camp Director,4
+Camp Director,0
 Community Planner,0
 Night,0
 Signing Agent,0
 Traveler,0
-Assistant Engineer,2
+Assistant Engineer,4
 Boiler Operator,0
 Bridge Inspector,0
-Building Engineer,2
+Building Engineer,3
 Civil Engineering Technician,0
 Construction Inspector,0
 Corrosion Technician,0
-Cost Engineer,2
-Director Of Engineering,4
+Cost Engineer,3
+Director Of Engineering,0
 Electrical Engineering Technician,0
-Engineering Director,4
+Engineering Director,0
 Engineering Manager,1
 Engineering Technician,0
 Gas Technician,0
-Human Factors Engineer,2
+Human Factors Engineer,3
 Industrial Electrician,0
 Industrial Mechanic,0
 Instrument Technician,0
-Junior Engineer,2
+Junior Engineer,3
 Mechanical Engineering Technician,0
-Nuclear Engineer,2
-Plumbing Engineer,2
-Power Plant Engineer,2
-Refrigeration Engineer,2
-Stationary Engineer,2
+Nuclear Engineer,3
+Plumbing Engineer,3
+Power Plant Engineer,3
+Refrigeration Engineer,3
+Stationary Engineer,3
 Utility Locator,0
 Emergency Management,0
-Management Assistant,0
+Management Assistant,4
 Office Associate,0
 Office Manager,1
 Operations Associate,0
-Personal Assistant,0
+Personal Assistant,4
 Practice Administrator,0
 Practice Manager,1
-Senior Executive Assistant,0
+Senior Executive Assistant,4
 Shift Supervisor,0
 Team Lead,0
 Aircraft Dispatcher,0
@@ -3886,7 +3886,7 @@ Dispatch Manager,1
 Fleet Coordinator,0
 Fleet Mechanic,0
 Flight Coordinator,0
-Flight Engineer,2
+Flight Engineer,3
 Helicopter Mechanic,0
 Patient Escort,0
 Signal Maintainer,0
@@ -3896,7 +3896,7 @@ Transit Bus Driver,0
 Transit Operator,0
 Transport Driver,0
 Van Driver,0
-Bakery Assistant,0
+Bakery Assistant,4
 Barback,0
 Barista,0
 Bartender,0
@@ -3928,7 +3928,7 @@ Pediatric Hospitalist,0
 Pediatrician,0
 Periodontist,0
 Physician,0
-Physician Assistant,0
+Physician Assistant,4
 Plastic Surgeon,0
 Podiatrist,0
 Prosthetist,0
@@ -3962,7 +3962,7 @@ Landscaping,0
 Loadmaster,0
 Low Voltage Electrician,0
 Luthier,0
-Maintenance Assistant,0
+Maintenance Assistant,4
 Manual Machinist,0
 Marine Electrician,0
 Mig Welder,0
@@ -3986,27 +3986,27 @@ Manufacturing,0
 Production Specialist,0
 Seamstress,0
 Stitcher,0
-Process Development Engineer,2
+Process Development Engineer,3
 Production Technician,0
 Release Manager,1
 Technical Manager,1
-Yield Engineer,2
-Aquatics Director,4
-Director Of Analytics,4
+Yield Engineer,3
+Aquatics Director,0
+Director Of Analytics,0
 Psychometrist,0
-Activities Director,4
+Activities Director,0
 Benefits Manager,1
 Campus Recruiter,0
 Headhunter,0
-Hr Assistant,0
+Hr Assistant,4
 Hr Representative,0
 Hse Manager,1
-Human Resource Assistant,0
-Human Resources Assistant,0
+Human Resource Assistant,4
+Human Resources Assistant,4
 Human Resources Officer,0
 Leadership Development Program,0
 Learning And Development Specialist,0
-Training Director,4
+Training Director,0
 Vice President Of Human Resources,0
 Administrative Law Judge,0
 City Attorney,0
@@ -4030,38 +4030,38 @@ Chaplain,0
 Hospital Chaplain,0
 Worship Leader,0
 Youth Minister,0
-Assistant Golf Professional,0
+Assistant Golf Professional,4
 Golf Course Superintendent,0
 Golf Professional,0
 Agile Coach,0
 Bridal Consultant,0
 Career Advisor,0
 Career Counselor,0
-Franchise Business Consultant,3
+Franchise Business Consultant,0
 Job Coach,0
 Life Coach,0
 Relocation Consultant,0
-Call Center Director,4
+Call Center Director,0
 Client Advisor,0
 Client Coordinator,0
 Customer Representative,0
 Customer Service Advisor,0
 Customer Service Agent,0
-Customer Service Assistant,0
+Customer Service Assistant,4
 Customer Service Coordinator,0
 Customer Service Manager,1
-Account Assistant,0
+Account Assistant,4
 Account Coordinator,0
-Advertising Assistant,0
+Advertising Assistant,4
 Advertising Coordinator,0
 Booking Agent,0
 Copywriter,0
-Creative Assistant,0
-Creative Director,4
+Creative Assistant,4
+Creative Director,0
 Field Marketing Representative,0
 Marketing Copywriter,0
 Production Worker,0
-Promotions Assistant,0
+Promotions Assistant,4
 Senior Copywriter,0
 Sponsor,0
 Gas Station Cashier,0
@@ -4070,27 +4070,27 @@ Grocery Store Manager,1
 Mall,0
 Meat Cutter,0
 Merchandising,0
-Retail Assistant Manager,1
-Retail Director,4
+Retail Assistant Manager,4
+Retail Director,0
 Retail District Manager,1
 Retail Management,0
 Retail Manager,1
 Retail Store Manager,1
 Showroom Manager,1
-Store Director,4
+Store Director,0
 Store Manager,1
 Building Superintendent,0
-Civil Engineer,2
+Civil Engineer,3
 Concrete Worker,0
 Construction Administrator,0
-Construction Assistant,0
+Construction Assistant,4
 Construction Flagger,0
 Construction Helper,0
-Construction Project Engineer,2
+Construction Project Engineer,3
 Construction Superintendent,0
 Construction Technician,0
-Director Of Construction,4
-Director Of Facilities,4
+Director Of Construction,0
+Director Of Facilities,0
 Electrician Apprentice,0
 Glazier,0
 Highway Maintenance Worker,0
@@ -4110,7 +4110,7 @@ Social Service Worker,0
 Youth Mentor,0
 Supply Chain Management,0
 Athletic Coordinator,0
-Athletic Director,4
+Athletic Director,0
 Certified Athletic Trainer,0
 Head Football Coach,0
 Naturalist,0
@@ -4141,10 +4141,10 @@ Academic Dean,0
 Accounting Instructor,0
 Admissions Officer,0
 Art Professor,0
-Assistant Professor,0
+Assistant Professor,4
 Associate Professor,0
 Biology Instructor,0
-Business Teacher,3
+Business Teacher,0
 Chemistry Professor,0
 College Instructor,0
 Engineering Teacher,0
@@ -4156,7 +4156,7 @@ Lead Teacher,0
 Lecturer,0
 Long Term Substitute Teacher,0
 Math Teacher,0
-Preschool Assistant,0
+Preschool Assistant,4
 Professor,0
 School Counselor,0
 School Psychologist,0
@@ -4164,30 +4164,30 @@ School Teacher,0
 Spanish Tutor,0
 Special Education Teacher,0
 Special Educator,0
-Student Assistant,0
+Student Assistant,4
 Student Mentor,0
 Teacher Aide,0
-Teacher Assistant,0
+Teacher Assistant,4
 Teachers Aide,0
-Teaching Assistant,0
+Teaching Assistant,4
 Actor,0
 Art Handler,0
 Artist,0
-Choir Director,4
+Choir Director,0
 Church Musician,0
 Comic,0
 Copy Writer,0
 Dancer,0
 Entertainment Writer,0
 Gamer,0
-Interior Design Assistant,0
+Interior Design Assistant,4
 Makeup Artist,0
-Music Director,4
+Music Director,0
 Promoter,0
 Recreation Coordinator,0
-Recreation Director,4
+Recreation Director,0
 Scenic Artist,0
-Talent Director,4
+Talent Director,0
 Theatre,0
 Woodworker,0
 Acupuncturist,0
@@ -4215,7 +4215,7 @@ Wait Staff,0
 Waiter,0
 Waitress,0
 Babysitter,0
-Child Care Assistant,0
+Child Care Assistant,4
 Classroom Aide,0
 Day Camp Counselor,0
 Homemaker,0
@@ -4241,7 +4241,7 @@ CTO,0
 Information Manager,1
 Information Security Officer,0
 Information Systems Manager,1
-It Director,4
+It Director,0
 It Manager,1
 Noc Manager,1
 Program Supervisor,0
@@ -4259,7 +4259,7 @@ Rehabilitation Therapist,0
 Academic Administrator,0
 Commercial Real Estate Appraiser,0
 Estate Manager,1
-Real Estate Analyst,0
+Real Estate Analyst,2
 Residential Appraiser,0
 Model Maker,0
 Spa Coordinator,0
@@ -4275,13 +4275,13 @@ Nuclear Physicist,0
 Organizational Psychologist,0
 Park Naturalist,0
 Physicist,0
-Public Health Analyst,0
+Public Health Analyst,2
 Research Psychologist,0
 Social Scientist,0
 Banker,0
 Branch Manager,1
-Director Of Accounting,4
-Finance Director,4
+Director Of Accounting,0
+Finance Director,0
 Finance Executive,0
 Inventory Manager,1
 Investment Consultant,0
@@ -4300,9 +4300,9 @@ Relationship Banker,0
 Senior Account Manager,1
 Senior Accountant,0
 Senior Finance Manager,1
-Geriatric Nursing Assistant,0
-Assistant General Manager,1
-Business Operations Specialist,3
+Geriatric Nursing Assistant,4
+Assistant General Manager,4
+Business Operations Specialist,0
 Clinical Manager,1
 Real Estate Sales Agent,0
 Community Association Manager,1
@@ -4310,18 +4310,18 @@ Presenter,0
 Forestry Technician,0
 Grounds Manager,1
 Office Administrator,0
-Information Technology Director,4
-Assistant Dean,0
+Information Technology Director,0
+Assistant Dean,4
 Associate Dean,0
 Dean,0
 Gardener,0
-Business Leader,3
+Business Leader,0
 Peer Mentor,0
-Artistic Director,4
-Design Director,4
+Artistic Director,0
+Design Director,0
 Sailing Instructor,0
 Personal Care Worker,0
-Academic Director,4
+Academic Director,0
 Chief Technology Officer,0
 Food Handler,0
 Plant Manager,1
@@ -4361,10 +4361,10 @@ Community Worker,0
 Federal Contractor,0
 Government Contractor,0
 Assistant Athletic Director,4
-Assistant Basketball Coach,0
-Assistant Coach,0
-Assistant Football Coach,0
-Assistant Soccer Coach,0
+Assistant Basketball Coach,4
+Assistant Coach,4
+Assistant Football Coach,4
+Assistant Soccer Coach,4
 Diver,0
 Gym,0
 Licensed Massage Therapist,0
@@ -4380,9 +4380,9 @@ Psychiatrist,0
 Psychologist,0
 Psychotherapist,0
 Rheumatologist,0
-Speech Language Pathology Assistant,0
+Speech Language Pathology Assistant,4
 Speech Pathologist,0
-Speech Pathology Assistant,0
+Speech Pathology Assistant,4
 Crematory Operator,0
 Deckhand,0
 Heavy Construction,0
@@ -4517,16 +4517,16 @@ Family Physician,0
 General Dentist,0
 General Practitioner,0
 Hospital Volunteer,0
-Machine Learning Engineer,2
+Machine Learning Engineer,3
 Scrum Master,0
 Vp Engineering,0
 User Experience Researcher,0
-Activity Assistant,0
+Activity Assistant,4
 Chief Compliance Officer,0
 Event Planning,0
-Hr Administrative Assistant,0
+Hr Administrative Assistant,4
 Human Resources Clerk,0
-Payroll Director,4
+Payroll Director,0
 Bailiff,0
 Court Clerk,0
 Court Officer,0
@@ -4563,10 +4563,10 @@ Cheerleading Coach,0
 Diving Coach,0
 Event Planner,0
 Golf Coach,0
-Assistant Portfolio Manager,1
+Assistant Portfolio Manager,4
 Chief Information Officer,0
 Founder,0
-Funeral Director,4
+Funeral Director,0
 Ombudsman,0
 Partner,0
 Inventor,0
@@ -4593,10 +4593,10 @@ School Nurse,0
 Surgical Nurse,0
 Wound Care Nurse,0
 Captain,0
-Resident Assistant,0
+Resident Assistant,4
 Starter,0
-Clinical Research Assistant,0
-Engineering Assistant,0
+Clinical Research Assistant,4
+Engineering Assistant,4
 Au Pair,0
 Child Care Worker,0
 Companion,0
@@ -4623,13 +4623,13 @@ Music Therapist,0
 Physical Therapist,0
 Physical Therapist Aide,0
 Physical Therapy Aide,0
-Physical Therapy Assistant,0
+Physical Therapy Assistant,4
 Physical Therapy Technician,0
 Rehabilitation Aide,0
 Rehabilitation Technician,0
 Speech Language Pathologist,0
 Speech Therapist,0
-Speech Therapy Assistant,0
+Speech Therapy Assistant,4
 Sports Physical Therapist,0
 Corporate Attorney,0
 Housekeeper,0
@@ -4660,7 +4660,7 @@ Model,0
 Nail Technician,0
 Personal Stylist,0
 Photo Stylist,0
-Salon Assistant,0
+Salon Assistant,4
 Spa Manager,1
 Stylist,0
 Geographer,0
@@ -4681,7 +4681,7 @@ Affiliate Manager,1
 Clinical Operations Manager,1
 Caregiver,0
 Admissions Coordinator,0
-Clinical Director,4
+Clinical Director,0
 Accounting Professor,0
 Accounting Tutor,0
 Adjunct Instructor,0
@@ -4702,6 +4702,6 @@ Organist,0
 Pianist,0
 Singer,0
 Airport,0
-Director,4
+Director,0
 Nurse,0
 Technician,0
