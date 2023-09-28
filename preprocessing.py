@@ -55,9 +55,9 @@ vectorized_documents = vectorizer.fit_transform(sentence)
 pca = PCA(n_components=2)
 reduced_data = pca.fit_transform(vectorized_documents.toarray())
 
-num_clusters= 5
+num_clusters= 45
 kmeans = KMeans(n_clusters = num_clusters,
-                n_init = 45,
+                n_init = 5,
                 max_iter=500,
                 random_state=42)
 kmeans.fit(vectorized_documents)
