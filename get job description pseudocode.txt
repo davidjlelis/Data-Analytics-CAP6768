@@ -9,6 +9,9 @@ Tables & Columns
 	Table 2: O*NET Alternate Titles - onet_titles_df
 		Column 2.A: Titles - onet_title
 		Column 2.B: Alternate Titles - onet_alt_title
+	Table 3: O*NET Occupation Data
+		Column 3.A: O*NET SOC Code - soc_code
+		Column #.B: Description - job_description
 
 Steps:
 For each job_title in the jobs_df:
@@ -61,10 +64,13 @@ def main():
 
 	# ... other code ...
 
+	# ... get standardized job title and soc code ...
 	for i in range(len(jobs_df)):
 		jobs_df.loc[df.index[i], 'Standard Job Title'], jobs_df.loc[df.index[i], 'Score'], jobs_df.loc[df.index[i], 'SOC Code'] = get_job_title_and_soc_code(jobs_df['Title'][i], onet_titles_df)
 
-	# ... join with Occupation Data table to get job_description ...
+	# ... grab job_description from  Occupation Data table ...
+	full_df = DataFrame()
+	full_df = jobs_df.join(occupation_df, on = 'SOC Code')
 
 	# ... cluster based on job_description ...
 
