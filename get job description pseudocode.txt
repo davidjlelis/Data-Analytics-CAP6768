@@ -1,0 +1,66 @@
+
+Tables & Columns
+	Table 1: AI Impact on Jobs - jobs_df
+		Column 1.A: Job Title - job_title
+	Table 2: O*NET Alternate Titles - onet_titles_df
+		Column 2.A: Titles - onet_title
+		Column 2.B: Alternate Titles - onet_alt_title
+
+Steps:
+For each job_title in the jobs_df:
+	1. Pass in the job_title and the onet_titles_df into the get_job_title_and_soc_code function.
+	2. Set standard_job_title = '', soc_code = '', location_in_df = 0, score = 0, and highest_score = 0
+	3. For each onet_title in onet_titles_df['Titles']
+		a. Compare job_title and onet_title to get a score
+		b. If score > highest_score then:
+			- assign the location_in_df = the location of the onet_title 
+			- assign the highest_score = score
+			- assign the soc_code = soc_code associated to the onet_title
+			- assign the standard_job_title = onet_title
+	4. Repeat step 3 but for onet_titles_df['Alternate Titles']
+	5. Return standard_job_title, highest_score, and soc_code
+	6. Repeat steps 1-5 for each job_title in jobs_df
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+def get_job_title_and_soc_code(job_title, onet_titles_df):
+	standard_job_title = ''
+	soc_code = ''
+	location_in_df = 0
+	score = 0
+	highest_score = 0
+
+	# get the highest scored job title from Titles 
+	for i in range(len(onet_titles_df)):
+		score = SequenceMatcher(None, job_title, onet_titles_df['Titles'][i]).ratio()
+		if score > highest_score:
+			location_in_df = i
+			highest_score = score
+
+			soc_code = onet_titles_df['SOC Code'][i]
+			standard_job_title = onet_titles_df['Titles'][i]
+
+
+	# get the highest scored job title from Alternate Titles
+	for i in range(len(onet_titles_df)):
+		score = SequenceMatcher(None, job_title, onet_titles_df['Alternate Titles'][i]).ratio()
+		if score > highest_score:
+			location_in_df = i
+			highest_score = score
+
+			soc_code = onet_titles_df['SOC Code'][i]
+			standard_job_title = onet_titles_df['Alternate Titles'][i]
+
+	return standard_job_title, highest_score, soc_code
+
+def main():
+
+	# ... other code ...
+
+	for i in range(len(jobs_df)):
+		jobs_df.loc[df.index[i], 'Standard Job Title'], jobs_df.loc[df.index[i], 'Score'], jobs_df.loc[df.index[i], 'SOC Code'] = get_job_title_and_soc_code(jobs_df['Title'][i], onet_titles_df)
+
+	# ... join with Occupation Data table to get job_description ...
+
+	# ... cluster based on job_description ...
+
