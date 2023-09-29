@@ -1,3 +1,7 @@
+References:
+https://docs.python.org/3/library/difflib.html#difflib.get_close_matches
+https://stackoverflow.com/questions/17388213/find-the-similarity-metric-between-two-strings
+https://stackoverflow.com/questions/46113078/pandas-add-value-at-specific-iloc-into-new-dataframe-column
 
 Tables & Columns
 	Table 1: AI Impact on Jobs - jobs_df
