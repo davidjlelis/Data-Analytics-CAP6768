@@ -33,6 +33,7 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
+from gsdmm.gsdmm import MovieGroupProcess
 
 # -- use to check for library versions
 #print(pd.__version__)
@@ -41,47 +42,73 @@ import matplotlib.pyplot as plt
 # -- use to download dataset, if not downloaded. Comment out if downloaded.
 # od.download("https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index")
 
-file = ('from-data-entry-to-ceo-the-ai-job-threat-index//My_Data.csv')
-data = pd.read_csv(file)
 
-print(data.head())
+def compute_V(texts):
+        V = set()
+        for text in texts:
+            for word in text:
+                V.add(word)
+        return len(V)
 
-sentence = data['Job titiles']
+def main():
+    file = ('from-data-entry-to-ceo-the-ai-job-threat-index//My_Data.csv')
+    data = pd.read_csv(file)
 
-vectorizer = TfidfVectorizer(stop_words='english')
+    # print(data.head())
 
-vectorized_documents = vectorizer.fit_transform(sentence)
+    sentence = data['Job titiles']
+    vectorizer = TfidfVectorizer(stop_words='english')
+    vectorized_documents = vectorizer.fit_transform(sentence)
+    pca = PCA(n_components=2)
+    reduced_data = pca.fit_transform(vectorized_documents.toarray())
 
-pca = PCA(n_components=2)
-reduced_data = pca.fit_transform(vectorized_documents.toarray())
+    # -- Start of Clustering using k-means based on Job Titles
+    num_clusters= 45
+    kmeans = KMeans(n_clusters = num_clusters,
+                    n_init = 5,
+                    max_iter=500,
+                    random_state=42)
+    kmeans.fit(vectorized_documents)
 
-num_clusters= 45
-kmeans = KMeans(n_clusters = num_clusters,
-                n_init = 5,
-                max_iter=500,
-                random_state=42)
-kmeans.fit(vectorized_documents)
+    results = pd.DataFrame()
+    results['job_titles'] = sentence
+    results['cluster'] = kmeans.labels_
 
-results = pd.DataFrame()
-results['document'] = sentence
-results['cluster'] = kmeans.labels_
+    # print(results.sample(5))
 
-# print(results.sample(5))
+    results.to_csv('Clusters_kmeans.csv', index=False)
 
-results.to_csv('Clusters.csv', index=False)
+    # -- End of Clustering using k-means based on Job Titles
+    # -- Start of Clustering using GSDMM based on Job Titles
+    
+    text = [text.split() for text in sentence]
+    #print (text)
+    V = compute_V(texts=text)
+    mgp = MovieGroupProcess(K=50, alpha = 0.1, beta = 0.1, n_iters = 100)
+    
+    gsdmm_results = pd.DataFrame()
+    gsdmm_results['job_titles'] = sentence
+    gsdmm_results['cluster']  = mgp.fit(sentence, V)
 
-'''
-# visual graph of the clusters
+    gsdmm_results.to_csv('Clusters_gsdmm.csv', index=False)
 
-colors = ['red', 'green', 'blue', 'yellow', 'black']
-cluster = ['Cluster 1', 'Cluster 2', 'Cluster 3', 'Cluster 4', 'Cluster 5']
+    # -- End of Clustering using GSDMM based on Job Titles
 
-for i in range(num_clusters):
-    plt.scatter(reduced_data[kmeans.labels_ == i, 0],
-                reduced_data[kmeans.labels_ == i, 1],
-                s = 10, color=colors[i],
-                label=f' {cluster[i]}')
+    '''
+    # visual graph of the clusters
 
-plt.legend()
-plt.show()
-'''
+    colors = ['red', 'green', 'blue', 'yellow', 'black']
+    cluster = ['Cluster 1', 'Cluster 2', 'Cluster 3', 'Cluster 4', 'Cluster 5']
+
+    for i in range(num_clusters):
+        plt.scatter(reduced_data[kmeans.labels_ == i, 0],
+                    reduced_data[kmeans.labels_ == i, 1],
+                    s = 10, color=colors[i],
+                    label=f' {cluster[i]}')
+
+    plt.legend()
+    plt.show()
+    '''
+
+if __name__ == '__main__':
+     main()
