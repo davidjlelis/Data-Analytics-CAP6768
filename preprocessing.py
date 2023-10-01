@@ -203,7 +203,7 @@ def get_job_title_and_soc_code(args):
         job_df.at[i, 'SOC Code'] = soc_code
         job_df.at[i, 'Matched by'] = matcher
 
-        print('********************** Process'+file_name+' **************************',
+        print('\n********************** Process'+file_name+' **************************',
               '\nStandard Job Title found!',
               '\nJob Title: ', title1,'\nStandard Title: ', standard_job_title,
               '\nScore: ', highest_score,
