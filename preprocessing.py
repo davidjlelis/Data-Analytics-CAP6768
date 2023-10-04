@@ -84,7 +84,7 @@ def run_SequenceMatcher(job_df, onet_title_df, file_name, testing):
 
 
         # Step 1. Run SequenceMatcher
-        for j in range(len(onet_title_df)):
+        for j in range(runs):
 
             title2 = onet_title_df['Title'][j]
             # Use SequenceMatcher to compare title1 and title2
@@ -249,170 +249,15 @@ def get_job_title_and_soc_code(args):
     SequenceMatcher_df = run_SequenceMatcher(job_df, onet_title_df, file_name, testing)
     final_df = run_NLP(SequenceMatcher_df, onet_title_df, file_name, testing)
 
-    final_df.to_excel('output/Standardized Job Titles and SOC Codes'+file_name+'.xlsx', index=False)
+    final_df.to_excel('output/preprocessing/Standardized Job Titles and SOC Codes'+file_name+'.xlsx', index=False)
 
     return final_df
 
-    '''
-    # Attempt 2 - using SequenceMatcher and NLP sequentially
-
-    #for i in range(5): # testing loop case
-    for i in range(runs):
-        title1 = job_df['Job titiles'][i]
-        standard_job_title = ''
-        soc_code = ''
-        score = 0
-        highest_score = 0
-        matcher = ''
-
-        print('********************** Process'+file_name+' **************************',
-              '\nPosition ', i, ' out of ', len(job_df), 
-              '\nFinding Standard Title for', title1,
-              '\n********************** Process'+file_name+' **************************')
-
-
-        # Step 1. Run SequenceMatcher
-        for j in range(len(onet_title_df)):
-
-            title2 = onet_title_df['Title'][j]
-            # Use SequenceMatcher to compare title1 and title2
-            score = dl.SequenceMatcher(None, title1.lower(), title2.lower()).ratio()
-
-            # If found perfect match, assign and break loop
-            if score == 1:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = title2
-                break
-            # If score is greater than the current highest score, assign and repeat
-            elif score > highest_score:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = title2
-
-        # Loop through alternate titles for SequenceMatcher
-        for j in range(len(onet_title_df)):
-            title2 = onet_title_df['Alternate Title'][j]
-
-            # If already found perfect match, break loop to assign
-            if highest_score == 1:
-                break
-
-            score = dl.SequenceMatcher(None, title1.lower(), title2.lower()).ratio()
-            # If found perfact match, assign and break loop
-            if score == 1:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = title2
-                break
-            # if score is greater than the highest score, then assign and repeat loop
-            elif score > highest_score:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = title2
-        matcher = 'SequenceMatcher'
-        
-        print('-----------SequenceMatcher Results-------------------',
-              '\nJob Title: ', title1,
-              '\nStandard Title: ', standard_job_title,
-              '\nScore: ', highest_score,
-              '\nSOC Code: ', soc_code,
-              '\nMatched by: ', matcher,
-              '\n---------------------------------------------------')
-        
-        # 1a. If the match scores 0.98 or higher, skip NLP
-        if highest_score >= 0.98:
-            pass
-
-        # If highest_score is < 0.98, run NLP matcher
-        elif highest_score < 0.98:
-            matcher = 'NLP'
-            for j in range(len(onet_title_df['Title'])):
-                title2 = onet_title_df['Title'][j]
-
-                # print('Comparing ', title1, ' and ', title2)
-                score = calculate_similarity(title1=title1, title2=title2)
-                if score < 0.8 or score < highest_score:
-                    continue
-                elif score == 1:
-                    highest_score = score
-                    soc_code = onet_title_df['O*NET-SOC Code'][j]
-                    standard_job_title = title2
-                    break
-                elif score > highest_score:
-                    highest_score = score
-                    soc_code = onet_title_df['O*NET-SOC Code'][j]
-                    standard_job_title = title2
-
-            for j in range(len(onet_title_df['Alternate Title'])):
-                title2 = onet_title_df['Alternate Title'][j]
-
-                if highest_score == 1:
-                    break
-                # print('Comparing ', title1, ' and ', title2)
-                score = calculate_similarity(title1=title1, title2=title2)
-                if score < 0.8 or score < highest_score:
-                    continue
-                elif score == 1:
-                    highest_score = score
-                    soc_code = onet_title_df['O*NET-SOC Code'][j]
-                    standard_job_title = title2
-                    break
-                elif score > highest_score:
-                    highest_score = score
-                    soc_code = onet_title_df['O*NET-SOC Code'][j]
-                    standard_job_title = title2
-        # 1b. If the match does not score 0.98, move to step 2 
-
-        job_df.at[i, 'Standard Job Title'] = standard_job_title
-        job_df.at[i, 'Score'] = highest_score
-        job_df.at[i, 'SOC Code'] = soc_code
-        job_df.at[i, 'Matched by'] = matcher
-
-        print('\n********************** Process'+file_name+' **************************',
-              '\nStandard Job Title found!',
-              '\nJob Title: ', title1,'\nStandard Title: ', standard_job_title,
-              '\nScore: ', highest_score,
-              '\nSOC Code: ', soc_code,
-              '\nMatched by: ', matcher,
-              '\n********************** Process'+file_name+' **************************')
-
-    job_df.to_excel('output/Standardized Job Titles and SOC Codes'+file_name+'.xlsx', index=False)
-    return job_df
-    '''
-    '''
-    # Attempt 1 - using diffllib and SequenceMatcher
-    #for i in range(5): # testing loop case
-    for i in range(len(job_df)):
-        standard_job_title = ''
-        soc_code = ''
-        score = 0
-        highest_score = 0
-
-        job_title = job_df['Job titiles'][i].lower()
-        
-        print('Getting standard title for ', job_title)
-        for j in range(len(onet_title_df)):
-            onet_title = onet_title_df['Title'][j].lower()
-            score = dl.SequenceMatcher(None, job_title, onet_title).ratio()
-            if score > highest_score:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = onet_title_df['Title'][j]
-
-        for j in range(len(onet_title_df)):
-            onet_title = onet_title_df['Alternate Title'][j].lower()
-            score = dl.SequenceMatcher(None, job_title, onet_title).ratio()
-            if score > highest_score:
-                highest_score = score
-                soc_code = onet_title_df['O*NET-SOC Code'][j]
-                standard_job_title = onet_title_df['Alternate Title'][j]
-    '''
-
 def kmeans_cluster(data, attribute,testing):
     if testing == True:
-         print('Kmeans clustering skipped')
-         return
+        data = data[data['Job Description'].notna()]
+         # print('Kmeans clustering skipped')
+         # return
 
     sentence = data[attribute]
     vectorizer = TfidfVectorizer(stop_words='english')
@@ -433,12 +278,12 @@ def kmeans_cluster(data, attribute,testing):
 
     # print(results.sample(5))
 
-    results.to_csv('Clusters_'+attribute+'_kmeans.csv', index=False)
+    results.to_excel('output/clusters/Clusters_'+attribute+'_kmeans.csv', index=False)
 
 def gsdmm_cluster(data, attribute, testing):
     if testing == True:
-         print('GSDMM clustering skipped')
-         return
+        data = data[data['Job Description'].notna()]
+         # return
     
      # -- Start of Clustering using GSDMM based on Job Titles
     sentence = data[attribute]
@@ -451,7 +296,7 @@ def gsdmm_cluster(data, attribute, testing):
     gsdmm_results['job_titles'] = sentence
     gsdmm_results['cluster']  = mgp.fit(sentence, V)
 
-    gsdmm_results.to_csv('Clusters_'+attribute+'_gsdmm.csv', index=False)
+    gsdmm_results.to_excel('output/clusters/Clusters_'+attribute+'_gsdmm.csv', index=False)
 
     # -- End of Clustering using GSDMM based on Job Titles
 
@@ -462,104 +307,89 @@ def output_full_dataset(job_ai_standard_df, occupation_df, testing):
 
     full_df = job_ai_standard_df.merge(occupation_df, left_on='SOC Code', right_on='O*NET-SOC Code', how='left')
 
-    full_df.to_excel('output/Full Dataset.xlsx', index=False)
+    full_df.to_excel('output/preprocessing/Full Dataset.xlsx', index=False)
 
     return full_df
 
+def get_input():
+    result = ''
 
-def main():
+    result = input('What are we doing today? (Enter 1, 2,3 or 4)\n1. Test the full program.\n2. Run the preprocessing programs.\n3. Run the clustering algorithm programs.\n4. Run the full program.\n\nInput: ')
+    
+    if result in [1, 2, 3]:
+        return result
+    elif result == 4:
+        result = input('Running the full program may take hours to run due to running through tens of thoundsand of data.\nIt is recommended to download the preloaded data to run. Are you sure you want to run the whole program? (Enter Y or N)\n\nInput: ')
+        if result == 'Y':
+            return result
+        else:
+            result = get_input()
+
+    return result
+
+def preprocess(testing):
     file = ('from-data-entry-to-ceo-the-ai-job-threat-index//My_Data.csv')
-    job_ai_df = pd.read_csv(file)
-    '''
-    input_testing = input('For sake of time, should we skip all of the following? (Y/N)',
-                          '\n1. K-Means Clustering on Raw Job Titles',
-                          '\n2. GSDMM Clustering on Raw Job Titles',
-                          '\n3. Getting Standardized Job Titles from O*NET'
-                          '\n4. Outputting Raw Job Titles and O*NET data to get job descriptions')
-
-    if input_testing == 'Y':
-        testing_kmeans = True
-        testing_gsdmm = True
-        testing_standard_job_titles = True
-        testing_output_full_dataset = True
-    else:
-        input_kmeans = input('Do you want to skip K-Means Clustering on Raw Job Titles? (Y/N)')
-        input_gsdmm = input('Do you want to skip GSDMM Clustering on Raw Job Titles? (Y/N)')
-        input_standard_job_titles = input('Do you want to skip getting Standardized Job Titles from O*NET? (Y/N)')
-        input_output_full_dataset = input('Do you want to skip outputting Raw Job Titles and O*NET data to get job descriptions? (Y/N)')
-
-        if input_kmeans == 'Y':
-            testing_kmeans = True
-        elif input_kmeans != 'Y':
-            testing_kmeans = False
-
-        if input_gsdmm == 'Y':
-            testing_gsdmm = True
-        elif input_gsdmm != 'Y':
-            testing_gsdmm = False
-
-        if input_standard_job_titles == 'Y':
-            testing_standard_job_titles = True
-        elif input_standard_job_titles != 'Y':
-            testing_standard_job_titles = False
-
-        if input_output_full_dataset == 'Y':
-            testing_output_full_dataset = True
-        elif input_output_full_dataset != 'Y':
-            testing_output_full_dataset = False
-
-    # auto-assign test -- comment out when running the full project
-    testing_kmeans = True
-    testing_gsdmm = True
-    testing_standard_job_titles = True
-    testing_output_full_dataset = True
-    '''
-    # print(data.head())
-
-    # Cluster based on Raw Job Title
-    #kmeans_cluster(data=job_ai_df, attribute='job_titiles', testing=True)
-    #gsdmm_cluster(data=job_ai_df, attribute='job_titiles', testing=True)
-
-    # -- Start of extracting job description data from O*NET
     occupation_data_file = 'db_28_0_excel/Occupation Data.xlsx'
     alternate_titles_file = 'db_28_0_excel/Alternate Titles.xlsx'
 
+    job_ai_df = pd.read_csv(file)
     occupation_df = pd.read_excel(occupation_data_file)
     alt_title_df = pd.read_excel(alternate_titles_file)
 
-    # print(job_ai_df[0:1568])
-    # print(job_ai_df[1569:3138])
-    # print(job_ai_df[3139:4706])
+    # -- Start of extracting job description data from O*NET
 
     size = round(len(job_ai_df)/9)-1
-    #print(size)
-    #print(job_ai_df[0:factor])
-    #print(job_ai_df[factor:factor*2])
-    #print(job_ai_df[factor*2:])
 
     job_ai_df['Standard Job Title'] = np.nan
     job_ai_df['SOC Code'] = np.nan
     job_ai_df['Match Score'] = np.nan
     job_ai_df['Matched by'] = np.nan
 
-    #print(alt_title_df['Alternate Title'])
     job_ai_standard_df = pd.DataFrame()
     with concurrent.futures.ProcessPoolExecutor() as executor:
-        results = [executor.submit(get_job_title_and_soc_code, args=[job_ai_df[size*i:size*(i+1)], alt_title_df, '_'+str(i+1), True]) for i in range(9)]
+        results = [executor.submit(get_job_title_and_soc_code, args=[job_ai_df[size*i:size*(i+1)], alt_title_df, '_'+str(i+1), testing]) for i in range(9)]
 
         for f in concurrent.futures.as_completed(results):
             job_ai_standard_df = job_ai_standard_df.append(f.result(), ignore_index=True)
             print(f.result())
 
-    job_ai_standard_df.to_excel('output/Standardized Job Titles and SOC Codes.xlsx', index=False)
-    full_df = pd.DataFrame()
-    full_df = output_full_dataset(job_ai_standard_df=job_ai_standard_df, occupation_df=occupation_df, testing=False)
+    job_ai_standard_df.to_excel('output/preprocessing/Standardized Job Titles and SOC Codes.xlsx', index=False)
+    output_full_dataset(job_ai_standard_df=job_ai_standard_df, occupation_df=occupation_df, testing=False)
 
-    # -- End of extracting job description data from O*NET
+    # pass
+    return
+
+def cluster(testing):
+    file = 'output/preprocessing/Full Dataset.xlsx'
+    full_df = pd.read_excel(file)
+
+    # Cluster based on Raw Job Title
+    kmeans_cluster(data=full_df, attribute='job_titiles', testing=testing)
+    gsdmm_cluster(data=full_df, attribute='job_titiles', testing=testing)
 
     # Cluster based on job description
-    # kmeans_cluster(data=full_df, attribute='Job Description', testing=False)
-    # gsdmm_cluster(data=full_df, attribute='Job Description', testing=False)
+    kmeans_cluster(data=full_df, attribute='Job Description', testing=testing)
+    gsdmm_cluster(data=full_df, attribute='Job Description', testing=testing)
+    # pass
+    return
+
+def main():
+    user_input = int(get_input())
+
+    if user_input == 1:
+        preprocess(testing=True)
+        cluster(testing=True)
+    elif user_input == 2:
+        preprocess(testing=False)
+    elif user_input == 3:
+        cluster(testing=False)
+    elif user_input == 4:
+        preprocess(testing=False)
+        cluster(testing=False)
+
+    
+
+    # -- End of extracting job description data from O*NET
 
     '''
     # visual graph of the clusters
