@@ -126,6 +126,7 @@ def run_SequenceMatcher(job_df, onet_title_df, file_name, testing):
         job_df.at[i, 'Standard Job Title'] = standard_job_title
         job_df.at[i, 'Match Score'] = highest_score
         job_df.at[i, 'SOC Code'] = soc_code
+        job_df.at[i, 'Major Group Code'] = soc_code[0:2]
         job_df.at[i, 'Matched by'] = matcher
 
         print('\n********************** SequenceMatcher Process'+file_name+' **************************',
@@ -154,7 +155,7 @@ def run_NLP(job_df, onet_title_df, file_name, testing):
     col_alt_title_df.reset_index(level=None, drop=False, inplace=True, col_level=0, col_fill='')
 
     for i in range(runs):
-        title1 = job_df['Job titiles'][i].lower()
+        title1 = job_df['Job titiles'][i]
         standard_job_title = job_df['Standard Job Title'][i]
         soc_code = job_df['SOC Code'][i]
         score = 0
@@ -175,10 +176,10 @@ def run_NLP(job_df, onet_title_df, file_name, testing):
             # print('Check', search_title_df)
 
             for j in range(len(col_title_df)):
-                title2 = col_title_df['Title'][j].lower()
+                title2 = col_title_df['Title'][j]
 
                 # print('Comparing ', title1, ' and ', title2)
-                score = calculate_similarity(title1=title1, title2=title2)
+                score = calculate_similarity(title1=title1.lower(), title2=title2.lower())
                 if score < 0.8 or score < highest_score:
                     continue
                 elif score == 1:
@@ -197,7 +198,7 @@ def run_NLP(job_df, onet_title_df, file_name, testing):
                 if highest_score == 1:
                     break
                 # print('Comparing ', title1, ' and ', title2)
-                score = calculate_similarity(title1=title1, title2=title2)
+                score = calculate_similarity(title1=title1.lower(), title2=title2.lower())
                 if score < 0.8 or score < highest_score:
                     continue
                 elif score == 1:
@@ -214,6 +215,7 @@ def run_NLP(job_df, onet_title_df, file_name, testing):
             job_df.at[i, 'Standard Job Title'] = standard_job_title
             job_df.at[i, 'Match Score'] = highest_score
             job_df.at[i, 'SOC Code'] = soc_code
+            job_df.at[i, 'Major Group Code'] = soc_code[0:2]
             job_df.at[i, 'Matched by'] = matcher
 
         print('\n********************** NLP Process'+file_name+' **************************',
@@ -300,14 +302,52 @@ def gsdmm_cluster(data, attribute, testing):
 
     # -- End of Clustering using GSDMM based on Job Titles
 
-def output_full_dataset(job_ai_standard_df, occupation_df, testing):
+def output_full_dataset(job_ai_standard_df, occupation_df, major_code_df, testing):
     if testing == True:
          print('Outputting full dataset skipped')
          return
 
+    # Get Job Description merging on SOC code
     full_df = job_ai_standard_df.merge(occupation_df, left_on='SOC Code', right_on='O*NET-SOC Code', how='left')
+    full_df = full_df.merge(major_code_df, left_on='Major Group Code', right_on = 'Major Group Code', how='left')
 
-    full_df.to_excel('output/preprocessing/Full Dataset.xlsx', index=False)
+
+
+    output = full_df[[
+        'Job titiles',
+        'AI Impact',
+        'Tasks',
+        'AI models',
+        'AI_Workload_Ratio',
+        'Domain',
+        'Standard Job Title',
+        'O*NET-SOC Code',
+        'Title',
+        'Major Group Code',
+        'SOC or O*NET-SOC 2019 Title',
+        'Description',
+        'Match Score',
+        'Matched by'
+    ]]
+
+    output.rename(columns={
+        'Job titiles': 'Job Title',
+        'AI Impact': 'AI Impact',
+        'Tasks': 'Tasks',
+        'AI models': 'AI Models',
+        'AI_Workload_Ratio': 'AI Workload Ratio',
+        'Domain': 'Domain',
+        'Standard Job Title': 'O*Net Job Title',
+        'O*NET-SOC Code': 'O*Net SOC Code',
+        'Title': 'O*Net SOC Title',
+        'Major Group Code': 'O*Net Major Group Code',
+        'SOC or O*NET-SOC 2019 Title': 'O*Net Major Group Title',
+        'Description': 'Job Description',
+        'Match Score': 'Match Score',
+        'Matched by': 'Matched By'
+    })
+
+    output.to_excel('output/preprocessing/Full Dataset_v2.xlsx', index=False)
 
     return full_df
 
@@ -331,17 +371,28 @@ def preprocess(testing):
     file = ('from-data-entry-to-ceo-the-ai-job-threat-index//My_Data.csv')
     occupation_data_file = 'db_28_0_excel/Occupation Data.xlsx'
     alternate_titles_file = 'db_28_0_excel/Alternate Titles.xlsx'
+    soc_structure_file = 'db_28_0_excel/SOC_Structure.xlsx'
 
     job_ai_df = pd.read_csv(file)
     occupation_df = pd.read_excel(occupation_data_file)
     alt_title_df = pd.read_excel(alternate_titles_file)
+    soc_structure_df = pd.read_excel(soc_structure_file)
+
+    major_group_df = soc_structure_df[['Major Group', 'SOC or O*NET-SOC 2019 Title']]
+    major_group_df = major_group_df.dropna().reset_index()
+
+    major_group_df['Major Group Code'] = np.nan
+
+    for i in range(len(major_group_df)):
+        major_group_df.at[i, 'Major Group Code'] = major_group_df['Major Group'][i][0:2]
 
     # -- Start of extracting job description data from O*NET
-
+    
     size = round(len(job_ai_df)/9)-1
 
     job_ai_df['Standard Job Title'] = np.nan
     job_ai_df['SOC Code'] = np.nan
+    job_ai_df['Major Group Code'] = np.nan
     job_ai_df['Match Score'] = np.nan
     job_ai_df['Matched by'] = np.nan
 
@@ -354,9 +405,10 @@ def preprocess(testing):
             print(f.result())
 
     job_ai_standard_df.to_excel('output/preprocessing/Standardized Job Titles and SOC Codes.xlsx', index=False)
-    output_full_dataset(job_ai_standard_df=job_ai_standard_df, occupation_df=occupation_df, testing=False)
-
+    output_full_dataset(job_ai_standard_df=job_ai_standard_df, occupation_df=occupation_df, major_code_df=major_group_df, testing=False)
+    
     # pass
+    
     return
 
 def cluster(testing):
