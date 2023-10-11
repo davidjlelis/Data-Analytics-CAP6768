@@ -345,7 +345,7 @@ def output_full_dataset(job_ai_standard_df, occupation_df, major_code_df, testin
         'Description': 'Job Description',
         'Match Score': 'Match Score',
         'Matched by': 'Matched By'
-    })
+    }, inplace=True)
 
     output.to_excel('output/preprocessing/Full Dataset_v2.xlsx', index=False)
 
